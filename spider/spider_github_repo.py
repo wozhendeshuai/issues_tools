@@ -2,7 +2,7 @@ import pymysql as db
 import requests
 from utils.time_utils import time_reverse
 from utils.access_token import get_token
-from utils.exception_handdle import write_file
+from utils.url_utils import findUrlJsonCount
 import time
 import json
 
@@ -83,8 +83,10 @@ if __name__ == '__main__':
     repo_name = "guacamole-client"  # "django"#"dubbo"#"flume"#"groovy"#"guacamole-client" #"helix"#"hibernate-orm"#"homebrew-cask"#"incubator-heron"#"Ipython"#"kafka"  # "Katello"#"kubernetes"#"kuma"#"zipkin"#"laravel" #"lucene-solr"#  # "spring-framework"  # "spring-boot" #"symfony"#"rails"#"angular.js"#"tensorflow"
 
     access_token = get_token()
+    # 拼接多个请求头
     headers = {
-        'Authorization': 'token ' + access_token
+        'Authorization': 'Bearer ' + access_token ,
+        'X-GitHub-Api-Version': '2022-11-28'
     }
 
     get_repo_info(index, max_pr_num, owner_name, repo_name, headers)

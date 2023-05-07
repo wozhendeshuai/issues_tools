@@ -1,3 +1,4 @@
+import requests
 # 统计url中含有的元素数量
 def findUrlJsonCount(url_str, headers):
     url_str = url_str + "?per_page=100&anon=true&page="
