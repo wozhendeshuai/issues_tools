@@ -6,8 +6,9 @@ from utils.url_utils import findUrlJsonCount
 import time
 import json
 
+# 给下方代码加上注释
 
-#封装成一个方法，让他方便外部调用
+# 封装成一个方法，让他方便外部调用
 def get_repo_info(index, num, owner_name, repo_name, headers):
     # repo url拼接
     repo_url = "https://api.github.com/repos/" + owner_name + "/" + repo_name
@@ -76,8 +77,6 @@ def get_repo_info(index, num, owner_name, repo_name, headers):
 
 if __name__ == '__main__':
     # 此部分可修改，用于控制进程
-    index = 214
-    max_pr_num = 735
 
     owner_name = "apache"  # "django"#"apache"#"apache"#"apache"#"apache"#"helix-editor"#"hibernate"#"Homebrew"#"apache"#"Ipython" #"apache"  # "Katello"#"kubernetes"#"mdn"#"openzipkin"#"laravel" #"apache"#  # "spring-projects"  # "symfony"#"rails"#"angular" #"tensorflow"
     repo_name = "guacamole-client"  # "django"#"dubbo"#"flume"#"groovy"#"guacamole-client" #"helix"#"hibernate-orm"#"homebrew-cask"#"incubator-heron"#"Ipython"#"kafka"  # "Katello"#"kubernetes"#"kuma"#"zipkin"#"laravel" #"lucene-solr"#  # "spring-framework"  # "spring-boot" #"symfony"#"rails"#"angular.js"#"tensorflow"
@@ -85,7 +84,7 @@ if __name__ == '__main__':
     access_token = get_token()
     # 拼接多个请求头
     headers = {
-        'Authorization': 'Bearer ' + access_token ,
+        'Authorization': 'Bearer ' + access_token,
         'X-GitHub-Api-Version': '2022-11-28'
     }
 
