@@ -3,31 +3,34 @@ import requests
 from utils.time_utils import time_reverse
 from utils.access_token import get_token
 from utils.url_utils import findUrlJsonCount
-from utils.exception_handdle import write_file
+from utils.file_utils import write_exception_file
+from utils.file_utils import write_excel
 import time
 import json
 
 
 # 给下方代码加上注释
 
+
 # 封装成一个方法，让他方便外部调用
 def get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, headers):
     # repo url拼接
-    list_issues_url = "https://api.github.com/repos/" + owner_name + "/" + repo_name + "/issues?state=all&direction=asc&per_page=100&page="
+    list_issues_url = "https://api.github.com/repos/" + owner_name + "/" + repo_name + "/issues?state=all&direction=asc&per_page=100&page=" + str(
+        page_num)
 
     print(list_issues_url)
     max_page = max_issues_id / 100 + 1
     while page_num <= max_page:
         try:
+            print("=========================开始获取第"+page_num+"页issues===========================================")
             list_issues_request = requests.get(list_issues_url, headers=headers)
             print("list_issues_url: " + list_issues_url + "  Status Code:", list_issues_request.status_code)
         except Exception as e:
             # 如果发生错误则回滚
             print("网络连接失败: list_issues_url: ", list_issues_url)
             filename = 'repo_exception.csv'
-            write_file(issues_id, repo_name + "-" + owner_name,
-                       str(e) + ("网络连接失败: user_name: " + repo_name + "owner_name: " + owner_name),
-                       filename)
+            write_exception_file(issues_id, repo_name + "-" + owner_name,
+                                 str(e) + ("网络连接失败: user_name: " + repo_name + "owner_name: " + owner_name), filename)
             print(e)
             num = num + 1
             access_token = get_token(num)
@@ -43,14 +46,32 @@ def get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, h
             list_issues_json = list_issues_request.json()
             length_list_issues_json = len(list_issues_json)
             print("length_list_issues_json:", length_list_issues_json)
-
+            for issues_index in range(0, length_list_issues_json):
+                print( "=========================开始获取第" + page_num + "页,第"+issues_index+"个issues==============================================================")
+                # 从json中提取数据
+                issues_number = list_issues_json[issues_index]['number']
+                issues_title = list_issues_json[issues_index]['title'];
+                issues_user_name = list_issues_json[issues_index]['user']['login']
+                issues_user_id = list_issues_json[issues_index]['user']['id']
+                issues_body = list_issues_json[issues_index]['body']
+                issues_created_at = list_issues_json[issues_index]['created_at']
+                issues_text = 'number: ' + str(issues_number) + '\ntitle:' + issues_title + \
+                              '\ncreated_at:' + issues_created_at + \
+                              '\nuser:' + str(issues_user_id) + '-' + issues_user_name + '\nbody:' + issues_body
+                issues_labels_list = list_issues_json[issues_index]['labels']
+                issues_labels = []
+                if len(issues_labels_list) > 0:
+                    issues_labels.append(issues_labels_list[0]['name'])
+                write_excel(repo_name, owner_name + "-" + repo_name + "-data.xlsx", issues_text, issues_labels)
+                print(issues_text, issues_labels)
             # 当顺利解析后切换到下一页
             page_num = page_num + 1
+            list_issues_url = "https://api.github.com/repos/" + owner_name + "/" + repo_name + "/issues?state=all&direction=asc&per_page=100&page=" + str(
+                page_num)
+
         else:
             filename = 'list_issues_exception.csv'
-            write_file(index, "user",
-                       ("第" + str(index) + "行连接有问题: " + "repo_name:" + repo_name),
-                       filename)
+            write_exception_file(index, "user", ("第" + str(index) + "行连接有问题: " + "repo_name:" + repo_name), filename)
 
 
 if __name__ == '__main__':
