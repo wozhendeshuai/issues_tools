@@ -8,6 +8,9 @@ from utils.file_utils import write_excel
 import time
 import json
 
+import re
+
+ILLEGAL_CHARACTERS_RE = re.compile(r'[\000-\010]|[\013-\014]|[\016-\037]')
 
 # 给下方代码加上注释
 
@@ -22,7 +25,7 @@ def get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, h
     max_page = max_issues_id / 100 + 1
     while page_num <= max_page:
         try:
-            print("=========================开始获取第"+page_num+"页issues===========================================")
+            print("=========================开始获取第"+ str(page_num)+"页issues===========================================")
             list_issues_request = requests.get(list_issues_url, headers=headers)
             print("list_issues_url: " + list_issues_url + "  Status Code:", list_issues_request.status_code)
         except Exception as e:
@@ -47,14 +50,14 @@ def get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, h
             length_list_issues_json = len(list_issues_json)
             print("length_list_issues_json:", length_list_issues_json)
             for issues_index in range(0, length_list_issues_json):
-                print( "=========================开始获取第" + page_num + "页,第"+issues_index+"个issues==============================================================")
+                print( "=========================开始获取第" + str(page_num) + "页,第"+str(issues_index)+"个issues==============================================================")
                 # 从json中提取数据
-                issues_number = list_issues_json[issues_index]['number']
-                issues_title = list_issues_json[issues_index]['title'];
-                issues_user_name = list_issues_json[issues_index]['user']['login']
-                issues_user_id = list_issues_json[issues_index]['user']['id']
-                issues_body = list_issues_json[issues_index]['body']
-                issues_created_at = list_issues_json[issues_index]['created_at']
+                issues_number = list_issues_json[issues_index]['number']==None and " " or list_issues_json[issues_index]['number']
+                issues_title = list_issues_json[issues_index]['title']==None and " " or list_issues_json[issues_index]['title']
+                issues_user_name = list_issues_json[issues_index]['user']['login']==None and " " or list_issues_json[issues_index]['user']['login']
+                issues_user_id = list_issues_json[issues_index]['user']['id']==None and " " or list_issues_json[issues_index]['user']['id']
+                issues_body = list_issues_json[issues_index]['body']==None and " " or list_issues_json[issues_index]['body']
+                issues_created_at = list_issues_json[issues_index]['created_at']==None and " " or list_issues_json[issues_index]['created_at']
                 issues_text = 'number: ' + str(issues_number) + '\ntitle:' + issues_title + \
                               '\ncreated_at:' + issues_created_at + \
                               '\nuser:' + str(issues_user_id) + '-' + issues_user_name + '\nbody:' + issues_body
@@ -63,6 +66,7 @@ def get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, h
                 if len(issues_labels_list) > 0:
                     issues_labels.append(issues_labels_list[0]['name'])
                 write_excel(repo_name, owner_name + "-" + repo_name + "-data.xlsx", issues_text, issues_labels)
+                issues_text = ILLEGAL_CHARACTERS_RE.sub(r'', issues_text)
                 print(issues_text, issues_labels)
             # 当顺利解析后切换到下一页
             page_num = page_num + 1
@@ -86,7 +90,7 @@ if __name__ == '__main__':
         'Authorization': 'Bearer ' + access_token,
         'X-GitHub-Api-Version': '2022-11-28'
     }
-    page_num = 1
+    page_num = 116
     issues_id = 0
     max_issues_id = 60563
     get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, headers)
