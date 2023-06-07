@@ -90,7 +90,7 @@ if __name__ == '__main__':
         'Authorization': 'Bearer ' + access_token,
         'X-GitHub-Api-Version': '2022-11-28'
     }
-    page_num = 219
+    page_num = 1
     issues_id = 0
     max_issues_id = 60563
     get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, headers)
