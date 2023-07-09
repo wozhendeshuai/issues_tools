@@ -64,7 +64,8 @@ def get_issues_info(page_num, issues_id, max_issues_id, owner_name, repo_name, h
                 issues_labels_list = list_issues_json[issues_index]['labels']
                 issues_labels = []
                 if len(issues_labels_list) > 0:
-                    issues_labels.append(issues_labels_list[0]['name'])
+                    for issues_labels_index in range(0, len(issues_labels_list)):
+                        issues_labels.append(issues_labels_list[issues_labels_index]['name'])
                 write_excel(repo_name, owner_name + "-" + repo_name + "-data.xlsx", issues_text, issues_labels)
                 issues_text = ILLEGAL_CHARACTERS_RE.sub(r'', issues_text)
                 print(issues_text, issues_labels)

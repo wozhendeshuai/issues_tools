@@ -110,7 +110,8 @@ def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_nam
                 issues_labels_list = list_issues_json[issues_index]['labels']
                 issues_labels = []
                 if len(issues_labels_list) > 0:
-                    issues_labels.append(issues_labels_list[0]['name'])
+                    for issues_labels_index in range(0, len(issues_labels_list)):
+                        issues_labels.append(issues_labels_list[issues_labels_index]['name'])
                 print(issues_text, issues_labels)
                 write_to_table(repo_name, issues_number, issues_text, issues_labels)
             # 当顺利解析后切换到下一页

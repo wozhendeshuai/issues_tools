@@ -97,7 +97,8 @@ def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_nam
                 issues_labels_list = list_issues_json[issues_index]['labels']
                 issues_labels = []
                 if len(issues_labels_list) > 0:
-                    issues_labels.append(issues_labels_list[0]['name'])
+                    for issues_labels_index in range(0, len(issues_labels_list)):
+                        issues_labels.append(issues_labels_list[issues_labels_index]['name'])
                 print(issues_text, issues_labels)
                 write_to_table(repo_name, issues_number, issues_text, issues_labels)
             # 当顺利解析后切换到下一页
@@ -134,9 +135,9 @@ def process(owner_name, repo_name, max_issues_number):
 
 if __name__ == '__main__':
 
-    owner_name_list = ["pengzhile","TransformerOptimus","openzipkin"]
-    repo_name_list= ["pandora","SuperAGI","zipkin"]
-    max_issues_number_list = [767,183,3547]
+    owner_name_list = ["apache","apache","apache","tensorflow","pengzhile","TransformerOptimus","openzipkin"]
+    repo_name_list= ["dubbo","superset","echarts","tensorflow","pandora","SuperAGI","zipkin"]
+    max_issues_number_list = [12698,24631,18866,61220,767,183,3547]
     threads = []
 
     for i in range(max_issues_number_list.__len__()):
