@@ -5,7 +5,21 @@ import spider.sql_thread as sql_thread
 import numpy as np
 
 from sentence_transformers import SentenceTransformer
+def output_cluster(filename, num_clusters, clustering_model, labels):
+    with open(filename, 'w', encoding='utf-8') as outf:
+        collect_labels = []
+        for i in range(num_clusters):
+            collect_labels.append([])
 
+        for i, each_cluster in enumerate(clustering_model.labels_):
+            collect_labels[each_cluster].append(i)
+
+        for each_cluster, each_sample_array in enumerate(collect_labels):
+            outf.write(f'Cluster {each_cluster} :\n')
+            for each_sample in each_sample_array:
+                outf.write(f'{labels[each_sample]}\n')
+
+            outf.write('\n')
 # Get a list of all tables in the database
 tables = sql_thread.execute_select_query("SELECT table_name FROM information_schema.tables WHERE  table_schema = 'github_issues_db';")
 
@@ -83,21 +97,7 @@ kmeans.fit(label_vectors)
 print('write to cluster file.')
 
 
-def output_cluster(filename, num_clusters, clustering_model, labels):
-    with open(filename, 'w', encoding='utf-8') as outf:
-        collect_labels = []
-        for i in range(num_clusters):
-            collect_labels.append([])
 
-        for i, each_cluster in enumerate(clustering_model.labels_):
-            collect_labels[each_cluster].append(i)
-
-        for each_cluster, each_sample_array in enumerate(collect_labels):
-            outf.write(f'Cluster {each_cluster} :\n')
-            for each_sample in each_sample_array:
-                outf.write(f'{labels[each_sample]}\n')
-
-            outf.write('\n')
 
 
 output_cluster("train_and_test_cluster.txt", optimal_clusters, kmeans, label_vectors)
