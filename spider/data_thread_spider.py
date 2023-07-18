@@ -40,9 +40,7 @@ def create_table(table_name):
 
 
 # 向表中插入issues_text和labels
-def write_to_table(repo_name, issues_number, issues_text, labels):
-    table_name = repo_name + "_issues"
-
+def write_to_table(table_name,repo_name, issues_number, issues_text, labels):
     sql = f"INSERT INTO {table_name} (issues_number, issues_text, labels) VALUES (%s, %s, %s)"
     val = (issues_number, issues_text, str(labels))
     execute_query(sql, val)
@@ -50,7 +48,7 @@ def write_to_table(repo_name, issues_number, issues_text, labels):
 
 
 # 封装成一个方法，让他方便外部调用
-def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_name):
+def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_name,table_name):
     # 获取当前页面
     page_num = int(db_max_number / 100) + 1
     # repo url拼接
@@ -100,7 +98,7 @@ def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_nam
                     for issues_labels_index in range(0, len(issues_labels_list)):
                         issues_labels.append(issues_labels_list[issues_labels_index]['name'])
                 print(issues_text, issues_labels)
-                write_to_table(repo_name, issues_number, issues_text, issues_labels)
+                write_to_table(repo_name, issues_number, issues_text, issues_labels,table_name)
             # 当顺利解析后切换到下一页
             page_num = page_num + 1
             list_issues_url = "https://api.github.com/repos/" + owner_name + "/" + repo_name + "/issues?state=all&direction=asc&per_page=100&page=" + str(
@@ -117,7 +115,7 @@ def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_nam
 
 # 控制爬取流程
 def process(owner_name, repo_name, max_issues_number):
-    table_name = repo_name + "_issues"
+    table_name = owner_name+"_"+repo_name + "_issues"
 
     create_table(table_name)
 
@@ -128,7 +126,7 @@ def process(owner_name, repo_name, max_issues_number):
         db_max_number=int(result[0][0])
     print("====="+threading.current_thread().name+"======当前项目：" + str(repo_name) + "=====数据库已保存最大issuesNumber 为：" + str(db_max_number) )
     if db_max_number < max_issues_number:
-        batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_name)
+        batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_name,table_name)
 
 
 
