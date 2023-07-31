@@ -1,0 +1,6581 @@
+Cluster 0 :
+provider/amazon
+cherry-pick/2.6
+component: gutenberg
+(S3 - Duplicate)
+dco-required
+:massage: UX
+vi-mode
+Category-DevPlugin
+Jetpack
+4.x candidate
+C: VAppBar
+Shopping carts FO
+area: debugging
+C: VSlider
+RFC / Discussion :speech_balloon:
+Dev Experience
+Debugging
+Component: Dracut
+OpSys-All
+component:Debugger
+needs-rebase
+pr-linter/exempt-integ-test
+CXP Attention
+epic:stashing
+Component: mosquitto-broker
+:christmas_tree: dependencies
+:earth_africa: Translations
+Merged_in_5.0
+doc
+Regex
+Azure CLI Team
+4.17
+feature: DistSQL
+GEXF
+hw-trezor
+DRM
+part: universes
+A-Federated-Join
+area: dev
+Lang
+backport-check-skip
+pkg: standalone
+Qt5
+5
+pr-linter/exempt-test
+Component: Encryption
+hold-merge
+backend: ghc
+backend: JVM
+TCP Reset
+aws:ec2
+Full logs needed
+theme/logging
+diff/show
+Half-Life:Opposing Force
+hcc/cst
+Component: Transcoding
+matrices.expressions
+Brands
+DevOps
+Type: Documentation :book:
+tag:Extensions
+vcs
+Merged
+topic: img
+bazel
+collectors/go.d
+Dev: CI
+A-debuginfo
+PR: Breaking Change :boom:
+physics.quantum
+elasticsearch
+part: coqdoc
+team-clg
+PR: merged
+stage: routed to ct
+cherry-pick/2.4
+Has Pull Request
+reimplementation
+Trophies
+in: docs
+component:Pylint
+Component: Send/Recv
+topic: cy.origin
+merged/25-x-y
+ux: case splitting
+theme/autoscaling
+rf bridge
+driver: mariadb
+electron-publish
+rollup
+epic:onboarding
+CherryPickCandidate
+jira-migration
+mode: standalone
+in: redis
+type: doc
+v5
+4.x
+CUDA
+dev:ci
+caml-weekly-news
+Fabric 5
+pkg: register
+css
+Jetpack Focus
+Driver: AMD Vulkan
+information_old
+Area - Dev
+Permissions
+debugging
+triaging
+MJML 4
+@aws-cdk/aws-codepipeline
+ZD
+OKR3.4 Candidate
+scope: eslint
+autosquash
+RegressionFromPreviousRTM
+E-needs-mcve
+Estimation - 5 (L)
+driver: mongodb
+C: VGrid
+Packaging/Homebrew
+C: VOverlay
+area: RISCV
+Import
+WG-Engine
+type: docs
+Merged_in_4.12.1
+component/cli
+Component: SpinButton
+gstreamer
+Type: Internal Cleanup
+[deprecated]team/distribution
+Drivers
+Cherry Picked to Stable Branch
+physics.continuum_mechanics
+Triaged
+Merge Conflicts
+backend-llvm
+fetcher
+@aws-cdk/aws-synthetics
+feature: Auto-Type
+CLA
+cp:reql
+Merged_in_5.1
+C: VCard
+S: has merge conflicts
+gitlab
+@aws-cdk/core
+VoiceOver
+stage: icebox
+Proposal-Crypto
+lang-c
+c:core
+<engine-system>
+cuDF (Python)
+target:csharp
+ui: CSS
+area: upstream
+Type:Technical Debt
+area: eslint
+D400 Series
+bot:chronographer:skip
+upstream-gopls
+Breaking change
+Package: replay
+Component: Slider
+Jetpack CLI
+Feature:Import-export-sync
+solvers.dsolve
+upstream/vscode
+dependency:cmake
+z-minor
+4.0
+German
+tctl
+team/devx
+[Deprecated] Gutenberg compatibility
+compat
+6.topic: nixos
+area/cli
+reprex
+service/emr
+WSFederation
+NPC / Factions
+svg
+needs: pr merge
+camlidl
+PR Triage Complete
+merge me
+cuda
+type: backlog
+area: Logging
+squad:ccx
+debt
+Xamarin.Forms
+@aws-cdk/aws-redshift
+Area-Debug
+provisioner/puppet
+cncf-cla: yes
+pr:ready-to-merge
+regex
+ZRELEASED - Beryllium
+on hold by dev team
+semver/major
+crash
+t:docs
+Bullseye
+Styling (CSS / Less)
+Regression
+tp:ReQL_proposal
+mp
+4.15
+estimate/5d
+5 - Ready to Merge
+driver: postgres
+RBAC
+Feature: Wish List
+Odroid C2
+a-chains
+ruby
+upstream-terraform
+component: ghci
+CLI/RPC ▶
+RE-MediaHost
+area: gporca
+travis
+Autoupgrade
+changelog:feat
+Libs-Tracked
+pr: lgtm
+pr: merge ready
+documentation :books:
+port-zephyr
+Type: Regression
+Area-LangService-API
+replaced
+c#
+:book: Docs
+Team Clifton
+scope:bootstrap
+stdlib
+Stream Issue
+C: VList
+@aws-cdk/aws-elasticsearch
+OS Linux / Mono / *nix
+skip-change-log
+Component: Dropdown
+type:docs
+E5
+Project:Docs
+Component: Import
+build pipelines
+area: C Library
+squash+merge me
+cherry-pick/2.5
+Triage:NeedsMoreInfo
+@aws-cdk/aws-dynamodb
+Tom's Wishlist
+RaceDetector
+rewriting
+cp:clustering
+Merged_in_4.14.3
+needs_rebase
+integrals.transforms
+feat / doc
+4.4
+lang / zh
+A-miri
+need: repro
+area: T4
+cherry-pick/2.3
+cloud/milestone-4
+r markdown
+CherryPick/Done
+Docs Issue
+type/refactoring
+pr-linter/exemption-requested
+Type: Duplicate
+a-macros
+Deprecate
+GoogleUtilities
+Type: Upstream
+Docs
+has-min-repro
+MDFP
+semver-major
+@cds/core
+repo-management
+C: VCombobox
+S4
+X-Regression
+DependencyInjection
+dotnet-visualbasic/prod
+Merged_in_4.12.2
+Z-Time-Tracked
+<engine-gecko>
+Cell type: Autocomplete / Dropdown / Handsontable
+B - crash
+src-cli
+communicator/ssh
+docs/website
+Unmerged
+potato
+Changelog/Done
+info: steamcmd
+debug
+imported-into-CL
+6.topic: haskell
+otherlibs
+synced-folders/general
+Product: Highcharts Gantt
+C: VStepper
+c-bi
+Product: Highcharts Maps
+jetbrains-ide
+feature-spa
+engine
+[deprecated]team/search
+C: VTabs
+topic-dask
+area: Debugging
+@aws-cdk/aws-rds
+Debugger
+npm: @cypress/react
+battlegrounds
+WG: monetization
+Merged_in_4.13
+@aws-cdk/aws-ecs-patterns
+changelog - added
+perf / memory
+Lock
+(P5 - Long-term)
+cookie
+WG-Engine-Performance
+Synapse
+@aws-cdk/aws-appmesh
+Query Params
+target:cpp
+Area:Logging
+topic: cross-origin-opener-policy
+scope: misc
+V-2
+cncf-cla: no
+zig build system
+type/crash
+aspect-dev
+area: docs
+service/ec2
+guest/redhat
+fread
+CL-Engine
+hw-ledger
+current docs
+component/engine
+Docs/Done
+Category: Doc
+P5
+@aws-cdk/custom-resources
+noresponsefromsubmitter
+PR-4.4-dev
+core.evalf
+dask-cudf
+crosbug
+gpu
+lang:jsx
+CLA Signed :heavy_check_mark:
+@aws-cdk/aws-lambda
+C-cleanup
+estimate/4d
+legacy-objc
+Cython
+jetson
+boilerplate
+cubical
+todo :spiral_notepad:
+component: tree
+@aws-cdk/aws-lambda-python
+Lang: Java
+Status: Triage
+pr-merged
+translate-c
+Rescope
+service/elasticbeanstalk
+dev bug
+action: merge
+Meta
+comp-ttl
+@aws-cdk/aws-ecr
+MySQL
+[Focus] Jetpack DNA
+type: cherry
+Type: Documentation :books:
+C: finder
+internals
+Merged_in_5.3
+purs repl
+Composer Dependency Changed
+- Mailling list -
+Category: Stabiliy
+c=varnishd
+Dev
+Synology
+refactoring
+team-cypher
+C: VInput
+auto-type
+@aws-cdk/aws-cognito
+st-need-repro
+Outside of DietPi scripts
+component: nix
+lang:css/scss/less
+pug-linker
+2: Dev Review
+collectors/python.d
+MIBs
+RSX
+bitbucket
+<crash>
+pull-request
+PSMF / MPEG
+Type:Docs
+root
+Infinite Scroll
+converters
+GlobalShortcuts
+[Focus] GDPR
+Feature: Sleigh
+A-intra-doc-links
+Storybook
+merged-by-bors
+needs-debug-gist
+merge-when-ready
+rules-engine
+port-mimxrt
+Doctrine
+d435i
+T-bootstrap
+obsolete – reopen if necessary
+Add to Docs
+Area: Mono Runtime
+component:cli
+feature-razor-pages
+Hacktoberfest
+shrinkwrap
+Compat
+scope:dependency
+@aws-cdk/aws-kinesis
+service/dynamodb
+WG: caching
+component/devtools
+Key Bindings
+:wilted_flower: needs-reproduction
+domain: internal
+comp-darwin
+orchestrator/k8s
+A-macros
+syntax: scss
+roller/pause
+<Crash / Freeze>
+lang / es
+rn-modules
+theme/hcl
+Upstream Issue
+Half-Life
+topic: remark/mdx
+serialization
+AREA: docs
+kubernetes
+audio
+C++ 项目
+A-const-generics
+closable
+Project:Minimongo
+topic: source-wordpress
+CL-CodeCleanup
+rbac
+Product: Highcharts
+part: extraction
+Horus
+epic/logviewer
+RIoT
+needs-cfn
+403/451
+Alias
+part: unification
+4.20
+Comp: Docs
+Resolution:External
+PR: Possible Perf Regression :snail:
+arch-arm64
+RE-UX
+csharp-async/tech
+package:dev
+Deprecation
+Category-RPC
+downstream
+move to backlog
+TBD
+A-audio
+Mgmt-EngSys
+breaking-change
+A-Docs
+@appium/docutils
+lexers
+T-cargo
+Backlog
+4.12
+bib(la)tex
+gpuCI
+R200
+upstream issue
+Merged_in_4.14
+<glean>
+9 Ready to Merge
+Fluent UI react (v8)
+physics.mechanics
+coroutine
+Fonts
+@aws-cdk/aws-elasticloadbalancing
+dotnet-csharp/prod
+c:e:tmux
+feat / cli
+@aws-cdk/aws-ssm
+Milestone-1_2-RC
+S - winit/glutin
+feature: SSH agent
+area: Bluetooth
+[deprecated]team/internal-contributor
+docs-experience
+partyinlinuxland
+@clr/ui
+Component: ZVOL
+type: @delon
+- Breaking Change
+4: Reviews Complete
+topic: cookies :cookie:
+cython
+Solver: Linear Solver
+PR: Internal :house:
+@aws-cdk/aws-secretsmanager
+A-incr-comp
+Component: libmosquitto
+type: MSc-Thesis-Work
+lang / de
+safari
+Pipeline:Icebox
+scintilla dependent
+Category: Dependency
+BO
+enhancement/docs
+stage/merge-when-tests-green
+CT
+service/elasticache
+gopls
+in-master-candidate
+needs-docs
+Azure.Identity
+@aws-cdk/aws-sns
+Crash
+SVG
+A: pipelines
+aws:dynamodb
+👩‍🏭 refactor
+Fixed upstream
+type: enhancement :wolf:
+t:stream
+deprecation
+Feature: Decompiler
+t:cluster:dc
+Merged_in_4.14.1
+CGAL 3D demo
+udl
+6.topic: closure-size
+lang-d
+@aws-cdk/aws-efs
+tag:Design and UX
+area-blazor
+activemodel
+collectors/ebpf
+A-dst
+area: Bluetooth Qualification
+Upstream
+Authorization-cli
+type: bug :sob:
+generators
+utilities.lambdify
+py-core
+polys
+topic: source-drupal
+PR: Breaking Change
+Area - ZooKeeper/Curator
+module: docs
+Duplicate ☝
+WG-Cmdlets
+Merge conflict
+merge delay passed
+Discounts
+Lang: Python
+Python 项目
+merged/23-x-y
+mjolnir
+electron-updater
+IO CSV
+C: ComboBox
+npm: @cypress/vue
+C: VImg
+gpcm_in
+G2 4.0
+PR-3.10-dev
+sidecar
+docathon
+Area - Docs :book:
+needs-backports
+Area-PowerShellGet
+crash report
+distro: Ubuntu
+cla-signed
+discussion :speech_balloon:
+lang-rust
+CI/CD
+scope: docs
+C: VTextarea
+GoCommand
+relay
+LGTM
+Resolution-External
+orchestrator/openshift
+cve
+dotnet-ml/prod
+PR: CI-ok
+TBR
+Scroll
+CL-Docs
+area: C++
+pull
+Graveyard
+gRPC
+Type:Breaking Change
+@aws-cdk/aws-autoscaling
+4.14
+Refactoring
+:rose: has-reproduction
+WG-Cmdlets-Utility
+4.3
+polymer
+feature: CLI
+dependency
+A-mir
+BACK-BURNER
+imported from old code repo
+import
+stage: internal
+scope: cli
+Milestone-1_5-RC
+Dev: Gitflow
+JF/bazel
+PubSub
+autoCloseOldIssue
+Category: Dependency Resolution
+Accounting
+Wizard
+c-ju
+Mvc
+Waiting for dev
+Category-SuperDevMode
+caffe
+RD
+internal
+P4
+S: Icebox
+zig cc
+[Type] Crash
+lang:typescript
+Shipping
+t:remoting
+theme/driver/exec
+area: Crypto / RNG
+Extra Sidebar Widgets
+General
+C: encoding
+Deprecation Removal
+META
+Ruby
+Lang: .NET
+pkg:filebrowser
+C: VCalendar
+c:common segments
+mlo
+changelog:cleanup
+topic: cli
+Central-EngSys
+Audio
+autocompletion
+Component: Federation :ferris_wheel:
+6.topic: GNOME
+Odroid XU4
+RE-Request
+area-GC
+synced-folders/smb
+area: benchpress
+cross-dc
+CI/CD :nut_and_bolt:
+C: VAutocomplete
+topic: history
+@aws-cdk/aws-ecs
+:rocket: Feature Request
+A-concurrency
+devel-implemented
+combinatorics
+Meta: Duplicate
+cat/local-dev
+github
+lgtm
+PR: Internal
+ros
+Carousel
+Component: Documentation :books:
+lang / fr
+pkg: generator
+S5: Regression
+Decompiler
+team-drivers
+c++
+I-ICE
+flow
+dev
+floats
+decouple-migrations
+doc-idea
+s3sync
+CL-Test
+type/docs
+WG-Remoting
+Topic: alias
+crash-or-hang
+F-generic_const_exprs
+lifecycle/frozen
+semver: major
+IO HDF5
+PR: New Feature :rocket:
+weekly-digest
+flag: breaking change
+importer
+dask
+changelog - changed
+Documentation :book:
+category/breaking
+feature/test-doubles
+distribution: Snap
+topic: cy.type ⌨️
+Area: Bindings
+ERR! node-gyp -v <= v9.x.x
+firefox
+A-generators
+Backup & Scan
+area: Drivers
+C: AutoComplete
+type: upstream
+shell: zsh
+:heavy_check_mark: Resolution: Duplicate
+category:internal
+C: logging
+A-rustdoc-ui
+Customized
+Has Merge Conflict
+db: openGauss
+KeyVault
+d455
+theme/internals
+C: VChip
+Product:VS.Oe
+Product: Docs
+stage: backlog
+Intl-ICU
+info: dependency
+Network - CDN
+dependency-change
+Already Fixed on Master Branch
+C: VNavigationDrawer
+ready to merge
+Functions-cli
+BREAKING CHANGE
+:boom: Regression
+changelog: ABI break
+area-mvc
+7X_Docs
+A-docs
+Merged_in_4.13.1
+feature: pipeline
+Starter
+🔗 apollo-link
+grel
+Formulas
+msf5
+PR: Rebase me!
+Credit notes
+federated-store
+Externs
+Storage-cli
+@aws-cdk/pipelines
+gitserver
+semver-patch
+source: docs
+semver-minor
+filter-control
+language design :rage4:
+CLI
+has: Pull Request
+flyspray
+feature-kestrel
+A-borrow-checker
+Please take over
+4.6
+PR-5.0-dev
+lang-c++
+dup
+J4 Issue
+command: mods
+lang / ja
+Compilation
+Undo-redo
+plan to merge
+ionitron: needs reproduction
+@aws-cdk/aws-stepfunctions
+z3str3
+Game: Mechanics Change
+Component: ComboBox
+part: VM
+@aws-cdk/aws-lambda-nodejs
+meta
+Filters
+z-feature
+type: breaking change
+emulators: firestore
+C: vcs
+Milestone-1_4-RC
+merged/22-x-y
+4.1
+dev love
+merge-me
+helm
+upstream :arrow_up:
+Wishlist
+Needs-Triage
+comp:doc
+pkg: traverse (scope)
+3.4
+PR-4.2-dev
+4.8
+lang / en
+merge conflict
+bsd
+Buster
+needs: rebase
+Logger
+changelog:doc
+WG-Engine-Providers
+A-driver
+raspberry pi
+c:font
+Merged_in_5.3-beta1
+OpenCL
+Ready To Merge
+babel-8-dev → main
+comp-dictionary
+Z-Dev-Wishlist
+PR: Changed
+has-repro-gist
+resolution: upstream issue
+C: VDialog
+Flow -> TS
+I-crash
+decktracker
+crash :boom:
+service/autoscaling
+4. Storage
+dialect: mssql
+forking
+15-x-y
+engines
+A-LLVM
+lang:yaml
+@aws-cdk/aws-glue
+ec2
+A-const-eval
+Serializer
+service/ecs
+compilation
+relnotes
+4-2-x
+📚 docs
+T-rustdoc
+EngSys
+V-1
+area: MISRA-C
+Product:VS.PMConsole
+Component: Docker :whale:
+@aws-cdk/aws-ecr-assets
+@aws-cdk/aws-ec2
+backlog
+team/devops-deprecated
+MSAL
+Partner:CLI-SDK
+mu4e
+grpc
+c:VCS support
+Taxes and Prices
+credit-card-autofill
+C: DropDownList
+C: VDatePicker
+Type: Duplicate :loop:
+rdp
+Travis
+docs-completed
+upstreambug
+dev edition
+c:e:shell
+RegressionDuringThisVersion
+ZZZ[Done]-back-ported-bf
+Refactor
+Helm
+A: cli
+topic-wizard 🧙‍♂️
+CDN: Google
+aws-cdk-lib
+CVE
+golang
+Breaking-Change
+type:refactor
+docs-required
+dsm 6
+info: docs
+logging
+pkg: cli
+C: freeze
+audit-log
+area: blobs/files
+feature: encrypt
+area/docs
+@aws-cdk/aws-sqs
+key bindings
+Debug
+PR: Ready to be Merged
+docs
+ci/integration-test-gcp-ok
+C: VCheckbox
+feature-wish
+C#
+Merged_in_4.14.2
+RSS
+C: VColorPicker
+Oracle
+Firefox
+Calypsoify
+copatterns
+v6
+docs/guide
+icebox
+merged/24-x-y
+SYSTEM: CLI
+👆 Is Upstream
+size: XL
+4.2
+C: VTreeview
+solvers.dsolve.system
+C: VBtn
+Resource Manager-cli
+MultiIndex
+Area-LangService-AutoComplete
+Libretro
+synced-folders/rsync
+changelog
+disposition-merge
+tree-sitter
+Aztec
+multicamera
+Headers
+management/devenv
+gnome
+Lang: C++
+nix-shell
+kudos
+NPM Resource Changed
+C: wheel
+CSS
+Milestone-1_6-RC
+msfvenom
+4.16
+glacier
+@aws-cdk/aws-batch
+Image Request :floppy_disk:
+@aws-cdk/aws-logs
+Starter bug
+Type: DevX
+wikicommons
+r=trunk
+auto-migrated
+Component-FullMode
+Resolution:ByDesign
+Project:DDP
+C: MultiSelect
+Component-LeakCheck
+Project:Mongo Driver
+squad:devops
+:book: Docs Update
+Doc
+semver-minor: new stuff
+Depth / Z
+A-closures
+Internals
+Service Bus
+A-lint
+Merged_in_4.13.2
+Gutenberg
+6.topic: golang
+cli
+encoding
+docs-pr-required
+auto-merge
+C: VExpansionPanel
+source: dependencies
+⭐️ EU-FOSSA Hackathon
+breaking changes
+Type: Breaking Change
+A-rustdoc-json
+N-author-input
+Reported upstream
+matrices
+Invoices
+@aws-cdk/aws-route53
+needs rebase or merge
+S - keybindings
+feat / pipeline
+comp-foreign-db
+Component: CLI
+documentation :book:
+enum
+technical-debt
+patch from FlySpray
+PR: Merge Ready :heavy_check_mark:
+md2
+lang:flow
+Type:DCR
+skip-changelog
+changelog: other
+lang:html
+historical docs
+theme/docs
+C: VMenu
+tool: fastlane
+Product:NuGetizer
+WG-Cmdlets-Core
+Needs: Triage :mag:
+PR to merge
+C: VSlideGroup
+Merge cells
+C: VIcon
+Focus: CLI
+solvers.diophantine
+theme/internal-cleanup
+C: VCarousel
+dependency-indexing
+rfc-740
+Package: remix
+component-crypto
+devx/support/q4b1
+matlab
+Yoast: Management
+pydeck
+C: VTextField
+Render: Vulkan
+comp-dddl
+rfc-619
+part: ltac
+metabug
+relates-to: gorm
+squash when passing
+4.10
+Status: Internal
+rpm
+resolution:upstream
+@aws-cdk/cfnspec
+backend: Go
+refactor
+wishlist
+HARDFORK
+t:remoting:artery
+Merged_in_5.2
+cp:devops
+Currencies
+Cloud Shell
+pkg/driver
+Resolution: External
+Markdown
+Core: Callbacks
+feature: readwrite-splitting
+Component / Docs
+comp-rbac
+PR: Is Dependency
+feat / lemmatizer
+commercetools
+guest/ubuntu
+lang:markdown
+cat/cli
+Platform:Mono
+c:e:vim
+4 Windows
+clipper
+extended lambdas
+area/bitbucket
+Area - Batch Ingestion
+@aws-cdk/aws-s3
+16-x-y
+@aws-cdk/aws-eks
+c=vmod
+readme
+synology
+Promotions
+upstream
+Category: VCS
+Tech/Redux
+[Type] Duplicate
+arch-aarch64
+pr - good to merge
+permissions-center
+needs-repro
+Import In Progress
+Resizing
+bulma
+storybook
+C: VSelect
+MBO
+T-h5
+@aws-cdk/aws-codebuild
+pr-linter/exempt-readme
+C: VDataTable
+package:engine
+Returns one-title-many-torrents
+db: PostgreSQL
+ux: emacs
+mysql
+auto-index-on-prem
+Milestone-1_4-RC2
+GDPR
+Breaking Change
+cherry-pick/2.2
+PR-4.3-dev
+pr-cherrypick
+Status: Debugged
+Azure.Core
+comp-mutations
+component: refactoring
+docs-ux
+Tag: cmake
+vs-sync
+source: core:strapi
+Area-LangService-CodeFixes
+Solution available :clinking_glasses:
+language/zh
+Component: ZED
+libcudf
+theme/cli
+Selector
+has-repro-repo
+MYSQL
+Category-DevMode
+ready-to-merge
+A-Logging
+moreinfo
+Tag: GSoC
+c=H/2
+Jetpack Content Migration Flow
+kubernetes-access
+cherry-pick-completed
+Feature: Debugger
+GE emulation
+@aws-cdk/aws-kms
+Milestone-1_5-RC2
+HLE/Kernel
+4.5.1
+Masterbar
+physics.vector
+kind: crash
+Custom CSS
+tensor
+pr/forward-merge
+type: refactor
+[Resolvido]
+hacktoberfest
+Component: Nav
+i: docs
+Tag: Cleanup
+gRPC-proxy
+Manipulation
+onboarding
+S - docs
+open-for-pulls
+removal/deprecation
+debugger
+S - scrollback
+cask
+CL-General
+service/route53
+breaking change
+lang:vue
+Icebox cleanup candidate
+
+Cluster 1 :
+in contact!
+type:updates
+Looks Good To Me
+needs reproduction
+AUTHENTICATION
+PR available
+QA Verified
+kind/design
+b=enhancement
+Needs Reproduction
+Cognitive Services
+portability
+first-time contributor
+Matching
+action: cleanup
+Please help
+type: enhancement ⚡️
+API MODIFICATION LEVEL: non-breaking changes
+doc-enhancement
+Guidance
+community help wanted
+type:support
+has patch
+type: improvement
+WG-Interactive-HelpSystem
+backport-stable-5.0
+newcomer
+font-handling
+nice to have
+works-for-me
+Type: Enhancement :pencil2:
+Status: Resolved
+t: enhancement
+to-be-reproduced
+feedback-provided
+theme/operator-usability
+Type: Status Update
+Confirmed
+Enhancement
+Companion
+T: Enhancement
+Type: Feature Request :sparkles:
+valued-contributor
+Severity:has-workaround
+Flag / Usability
+expected behavior
+:rocket: Enhancement
+s7:workaround available
+Resolution: Fixed
+type:cleanup
+3. Enrich
+non-breaking
+kind/flake
+serviceability
+type: support
+backport-stable-3.0
+Accessibility
+Workaround available :ok:
+kind/documentation
+kind/health
+compatibility: WooCommerce
+severity:normal
+:gift: Rewarded on Issuehunt
+greenkeeper
+tracker
+Reshaping
+Nice to Have
+🌤 has-workaround
+RE-Housekeeping
+Discovery
+no-change-entry-needed
+works as intended
+I Knowledge
+Beginner friendly
+Paid Source
+Can Close Out Soon
+update
+Good for New Contributors
+Security
+Type: Enhancement
+not bug
+PR Exists
+snack
+backport stable/8.0
+Type: Fix
+topic: source-contentful
+Easy to Fix
+CSS compatibility
+P5: nice to have
+Type: Conceptual Enhancement
+Keep Open
+pattern matching
+kind/ci-flake
+Good First Issue
+Approved
+Type: Improvement
+Protect
+SUPPORT
+Contributions are welcome
+robustness
+Support
+Improvement required
+[Type] Happiness Request
+Responsive
+a=OK'ed
+innovation
+Type: Improvement suggestion
+Status: Completed
+Resolution: Works As Intended
+DUPLICATE
+New Functionality
+tp:hygiene
+resolution: enhancement request
+Enhancement :dash:
+Type-Enhancement
+workaround
+A-Spec-Compliance
+upgrade
+clarification
+unity
+kind/support
+👯‍♀️ Is Duplicate
+Icon Update
+good question
+help wanted :sos:
+working as intended
+Game: Balance
+sig/scalability
+Resolution: Refine
+Tenet:Reliability
+🧩 implementation-detail
+backport-stable-6.0
+cleaning
+RE-Enhancement
+contributor friendly
+Theme-Simple-F#
+Modern C++ (C++11 and later)
+ExpertNeeded
+Status: Accepted
+Enhancement ☺
+Fixing
+TYPE: enhancement
+✨ enhancement
+1: Easy
+Good first issue
+quality of life
+Topic: Stabilization
+keep-service-tests-green
+SEV: High
+Type: Support
+light
+type:Enhancement
+internal improvement
+noteworthy
+resolution: best with core
+type: Enhancements
+A-pretty
+Validator
+Good First Issue!
+Improvement
+Priority:Moderate
+Usability
+kind/code quality
+contributions welcome
+diagnostic
+evaluating
+security
+Component: Moderation :godmode:
+kind/task
+good for beginner
+patch candidate
+available soon
+new rule value
+rewarded on issuehunt :gift:
+new device support
+consider-for-stable
+kind/feature
+beginner friendly
+Contributions Welcome
+enhancement/general
+has workaround
+mentoring
+to verify
+compatibility: WPML
+Easy Pick
+Authentication
+type: dependency upgrade
+Enhancement / Feature
+good_for_contributors
+Reproducible
+kind/research
+kind/cleanup
+kind/client
+🤯  Type: Compatibility
+Proposal-Accepted
+reconciliation
+✨ Enhancement
+enhancement/errors
+pr/enhancement
+Popular package
+Type: New Feature
+accessibility - automated
+Accepting PRs
+Balancing
+Keep open
+beginner-friendly
+UI Enhancement
+Medium Impact
+Emulator-Win
+Enhancement :tada:
+GREAT REPORT
+simulation enhancement
+Savedata
+PR: For stable
+T: enhancement
+community:Help wanted
+semver/patch
+Medium Severity
+Lexical Preservation
+semver: patch
+Priority-High
+kind/refactor
+newbie-friendly
+rn-enhancement
+support
+awaiting review :sparkle:
+t1:enhancement
+intellisense
+cleanup
+newcomer friendly
+Fix Committed
+Accept
+type: patch
+component: best practices
+t:enhancement
+Cosmetic
+Impact: Medium
+kind: performance
+SEV: Medium
+Good first issue :mortar_board:
+Continuous Integration
+Bounty
+Ease of Use
+Functionality:Update
+new-feature
+Freenas
+topic: upgrade
+area/observability
+Accepted
+good amateur issue
+unification
+resolution-verify
+pr-improvement
+maintainability
+stability
+Core: Handsontable
+nice-to-have
+Verified
+persistence
+type: dependency-upgrade
+FIXED
+enhancement :sparkles:
+service-badge
+<awesomebar>
+:dog2: Support
+Saving issue
+Type: Improvement :chart_with_upwards_trend:
+BETTER DOC
+update package
+Related to: Accessibility
+Feature Enhancement
+New Feature
+complexity: you can do this
+Completed
+navigation
+admired-contributor
+:sparkles: 1st-time docs contributor!
+8.has: package (update)
+vim
+category-readability
+Help Wanted :wave:
+Not an issue
+Needs improvement
+PR use: In Stable
+backport-stable-3.2
+Mod Support
+Medium Priority
+No change required
+type: feature or enhancement
+Issue-Enhancement
+positivity
+code-happiness
+should compile without error
+Done
+C-enhancement
+compatibility:PHP7
+Easy
+simplify
+T-Enhancement
+P4: Nice To Have
+Tests-Passed
+Bug: Validated
+shiny
+Manage
+pr-performance
+needs-reproduction
+user-experience-improvement
+New Private Tracker
+readme improvement
+Greenkeeper
+9.needs: clean-up
+kind-locales
+theme/health-checks
+correctness/consistency
+🧞‍♂️ enhancement
+kind/update
+help pane
+kind: enhancement
+Bug: Confirmed
+backport-stable-3.1
+type:enhancement
+improvement
+flag: has workaround
+changelog: enhancement
+area/promote
+observability
+Shaders
+A-stability
+resolution:Completed
+team/growth-marketing
+Difficulty-­­1_Easy
+editable
+Type: Cleanup
+PR Welcome!
+kind: request
+I Small Fix
+feature/enhancement
+Good For Community
+Area:RestoreCPM
+→ Needs Reproduction
+PR is welcome
+renovate
+P3: Normal
+kind/discussion
+kind/question
+great for beginners
+PR: New Feature
+patch-welcome
+Cleanup
+repro:yes
+Tenet:Accessibility
+resilience
+☔ has workaround
+Contribute
+Upgrade
+growth
+tp:enhancement
+i: enhancement
+Feature Improvement
+actionable
+Resample
+kind: todo
+PR: Fixes failing main
+3.11-Stabilization
+PR: Approved
+Difficulty/1:Easy
+type: new feature
+P4: Nice to have
+backward compatibility
+:books: good-first-issue
+Patches
+New feature
+issue: enhancement
+8.has: clean-up
+type/backward-compatibility
+S-Tolerable
+Observed
+Compatibility
+help wanted :raised_hand_with_fingers_splayed:
+perf / accuracy
+hotness
+type:improvement
+Category:Quality Week
+Has Reproduction
+kind/enhancement
+kind: cleanup
+helps: Spark
+component:Help
+reflection
+has-patch
+Needs Better Patch
+consistency
+strategic
+E-good-first-issue
+reproducible
+as designed
+S: needs reproduction
+good tip
+kind: redesign
+help
+type: optimize
+Type: Good for beginners
+bounty
+cleanup-ops
+to-verify
+C-improvement
+Enhancement Request
+type: enhancement
+kind/toil
+Package: fluent-theme
+Type / Enhancement
+With reproduction steps
+patch
+Fix suggested
+Priority: High
+Duplicate
+Status: Understood
+8.has: module (update)
+feature:authority
+backport-stable-4.0
+compatibility
+Type: Enhancement :bulb:
+Community Contribution
+Flow: Done
+kind/docs
+enhancement ✨
+area/upgrade
+Priority 2: Normal
+Medium
+Status: Answered
+guidance
+sql-compatibility
+Resolution: Soft Close
+type/enhancement
+Nice-to-have
+1 Feature
+Tag / Good First Issue
+operability
+Fixed
+accessibility
+severity-nice-to-have
+Recovery Services Backup
+🤔 needs reproduction
+New Package
+🍗 enhancement
+PR: Fixed
+workaround available
+no changelog
+Backup
+🙏 help-wanted
+Quick Start
+Knack
+actioncable
+needs-update
+Area: Fluent
+Bot: Not Stale
+Other Approved
+moderate
+thread-safety
+new feature
+attention: pr-welcome
+good-first-issue
+authentication
+Enhancement / Feature Request
+command: update
+semver:patch
+resolution: works as expected
+backport-to-stable
+Likes
+Area:RestoreRepeatableBuild
+Priority: Normal
+non breaking change
+help appreciated
+kind: feature
+test enhancement
+existing workaround
+area/usability
+usability
+newcomer-job
+help welcome
+s3:detailed
+area: Portability
+provisioner/chef
+contribution welcome
+<Enhancement / Feature>
+doc-provided
+1 Duplicate
+Code enhancement
+enhancement
+[Pri] Normal
+Status: Has workaround
+E-mentor
+boost
+Status-Fixed
+Rich Notifications
+Functionality:Restore
+🎨 Type: Enhancement
+completions
+Easy Task
+[Type] Enhancement
+type:usability
+N-help
+Status: To Reproduce
+community:Easy
+Status: Fixed
+kind/chore
+Core: Update settings
+logic
+Patch
+Stats Revamp
+area: Sanitycheck
+candidate: yes
+♥ help
+PR welcome
+Maintainability
+epic:ui-ux-improvements
+
+Cluster 2 :
+Home Assistant
+PR: Development
+9.needs: package (update)
+pr-documentation
+testing
+topic: workers
+Category-Designer
+Tools
+FixTheFlows
+Project management
+component:Editor
+Stats Refresh
+module/config
+a=feedback please
+C: ToolBar
+topic-testing
+A-diagnostics
+build tooling
+Functionality:Push
+hotlist: animations
+test-reliability
+Needs-Testcase
+code health
+type: build
+topic: typescript
+Cabal: parser
+Type: Maintenance
+Feature :hammer:
+auto-bitrotten
+Build system
+type: design
+Component: PeoplePicker
+cp-core-workflow
+A-codegen
+component: snippet editor
+tilemap
+Installer :diamond_shape_with_a_dot_inside:
+auto-updater
+Starter Task
+type:task
+area/functional-testing
+Admin
+Test
+needs: testing
+tool: pilot
+🧬 typings
+Tech/ReactJS
+Component: Test Suite
+Doc: Optimization Site
+workflow
+ADMIN
+Component: Test
+theme/driver/docker
+site-admin
+:hammer_and_wrench: Enhancement
+test-issue
+Demo Programs
+Status: testers needed
+c=build
+Category-Compiler
+compilers
+diagnostics
+vsts-build
+design question
+test
+A: templating
+A-testsuite
+:heavy_check_mark: Resolution: By Design
+Tests :test_tube:
+router
+Consulting Request
+A-suggestion-diagnostics
+Numeric Operations
+I-compiletime
+standard library
+architecture
+Site Picker
+Focus :Plan Build
+code-intelligence-performance
+customer-reported
+t:testing
+Cognitive - Form Recognizer
+solvers.solve
+pr/reviewed
+comp:tool
+submodule changed
+Component / State Machine
+Feature Request :factory:
+c:documentation
+cp:testing
+improvement request :hammer:
+Help to Test
+I Tools / workflow / repo
+Project:Isobuild:Performance
+Package: Nextjs
+project/maintenance
+Employees
+topic: parser
+Component: Pickers
+area/build
+new-compilers
+Type: Design
+Detected by TE
+installing nvm
+automated
+E-needs-test
+Automation
+Maintainer
+optimization
+codemirror
+PR: Docs :memo:
+cabal-testsuite
+sig/api-machinery
+:wrench: Maintenance
+Area-Maintainers-Build
+Component: Workflow
+scheduler
+type: task
+A-Testing
+Code quality
+tool: produce
+Installation
+PR: Approval Required
+by design
+area: tests
+topic: automation
+Code Cleanup
+Status: Work in Progress
+PR: Bug Fix :bug:
+documentation :page_with_curl:
+full-mono-integration-build
+Project: Schematics
+old-milestone: cabal-install 2.0
+tool: action
+heuristic
+editor-rendering
+automerge
+run-internal-tests
+Type / Optimization
+with-tests
+machine-id
+module: surface
+team/code-intelligence
+test-day
+Data Laboratory
+package:paste-from-office
+in-development
+by-design
+Issue-Code Cleanup
+feat / transformer
+rfc-697-testing
+area: test262
+:memo: documentation
+type:Task
+Feature: Loader/PE
+docker
+atn-analysis
+code
+<customtabs>
+Machine Learning
+feedback
+Unit/System Tests
+feature: db-discovery
+Radio Firmware
+run-bcl-tests
+3 - Testing
+design discussion
+process: tests
+<autofill>
+:hammer: Feature Request
+I Designer profile
+Severity:production
+Tag: Documentation
+ascode
+install
+tag:Documentation
+parser
+design refresh
+Docs: Tools
+cabal-install: cmd/install
+Build
+post parsing
+component-test
+type:maintenance
+test-todo
+cabal-install: nix-local-build
+Auto-Assign
+component: docker
+component: tests
+code-intelligence-platform
+package/build
+By Design
+9.needs: documentation
+grammar
+dotnet/prod
+category:documentation
+JUST FOR BUILDING
+repository setup :package:
+t:cluster-tools
+unit testing
+in: build
+area: Test Framework
+needs: code review
+compiler/runtime
+J4 Backend Template
+Category: Build
+area: Tests
+area: Architectures
+Functionality:Signing
+Ready for work
+part: checker
+Feature: Loadout Optimizer
+Execution-Module
+Type: Refactor :hammer:
+pr-build
+sample-code
+dotnet-core/prod
+submodules
+mail processing
+NLL-diagnostics
+Spec: Class Fields
+refactoring / source code
+Documentation
+process: build
+Schema Introspection
+<toolbar>
+operator
+component/build
+code quality
+type/build-automation
+Feedback
+tooling
+package:editor-classic
+type: test
+Type: Chore
+type:Techdebt
+renovatebot
+Customer service
+Type: API Change
+Found:ManualTests
+A-inline-assembly
+ops & tools & dev
+CL-BuildPackaging
+Work In Progress
+Package: experiments
+jobs
+ISP Fixes
+scope: testing tools
+checks
+codegen
+Solver
+Focus: Studio
+typing
+T-dev-tools
+ci/integration-docker-ok
+Related to: Documentation
+🔬 testing-utilities
+docs/generated
+Map Editor
+Project:Tool
+SYSTEM: native automation
+calibration
+LMS Integration :school:
+IETF draft / RFC
+Area - Testing
+module: registration
+module: test
+product-feedback
+Editor
+Bug-ToolCrash
+Component: Documentation
+component: admin
+Waiting Code Merge
+CL-Tools
+stage: ready for work
+Tested
+package:autoformat
+area: typescript
+tests
+backend: Docker
+package:font
+area/test
+CodePlex
+Type: Maintenance :construction_worker_woman:
+entry-editor
+component:Code Completion and linting
+Category: Tests
+build & flash
+6.topic: documentation
+Design Review
+testplan-item
+:door: Authentication
+:factory: Back-End
+Area - Automation/Static Analysis
+Schema Generation
+topic: TypeScript
+design
+Area-Diagnostics
+e2e-tests
+tool: scan
+chore
+specification required
+tool: deliver
+Optimization
+package/tools
+api-review/requested 🗳
+training
+PR: Polish :nail_care:
+topic: installation
+🛠 tooling
+csharp-language-reference/tech
+Feature: Documentation
+Reproduced
+needs: rebasing
+scope: workflows
+type:documentation
+I-compilemem
+pkg: parser
+Functionality:Install
+build-package
+Issue: Ready for Work
+new algorithm
+Tests/Done
+type: chore
+PR: Bug Fix
+Component-Tests
+Input/Controller
+automated pr
+Package: react-monaco-editor
+type: typescript
+PR: Spec Compliance :eyeglasses:
+housekeeping
+Focus:Supervisor
+- Upstream is working on it
+C: tests
+area/docker
+repo automation :robot:
+Maintainers Checked
+module: segmentation
+package:build-classic
+S - parser
+debugging-prerequisite
+Feature: C-Parser
+Engineering
+[Status] Design Review Complete
+product: VSCode
+Test Framework
+Category: Test/QA
+Type: Building
+parsing
+Testsuite
+code cleanup
+scope: typescript
+Template Processor
+Code cleanup
+needs_template
+Site Creation
+A-parser
+B-RFC-implemented
+Tag: Development Task
+Installers
+Module manager
+♻️ code refactor
+documentation :notebook:
+eng:automation
+WG-Quality-Test
+package:typing
+Customer: Developer
+Help Wanted: Designer
+admin area
+WIP: Building
+cabal-install: solver
+product-question
+Needs-Verification
+feat / serialize
+Shop parameters
+area: Build System
+state:tested
+Beta :test_tube:
+Project:Isobuild:Minifiers
+tool: pem
+run-all-tests
+Tests
+core workflows
+Flag / Testing
+Yoast: Schema
+Package: charting
+group/api-upgrade
+Testing
+Automerge
+type: Documentation
+service/codebuild
+SYSTEM: hammerhead
+DevelopmentVersion
+PR: Fixup requested
+Area-Testing
+theme/jobspec
+team/growth-product
+domain:extending-builds
+js runtime
+scripting
+needs: plunkr
+Area: JS Styling
+ux: documentation
+component/installer
+builds
+topic:codegen
+scope: tests
+Flaky test
+team/admin-analytics
+projects
+changelog:chore
+Component: Tooltip
+AutoMerge
+cabal-install: sandbox
+Component: TagPicker
+pr-linter/cli-integ-tested
+Symbol Solver
+deckbuilder
+domain: documentation
+Area: Build System
+feat / training
+admin
+build-system
+cabal-install: other
+Auto-completion
+Codebase Quality
+Component: TeachingBubble
+Install
+t:build
+language-definitions
+Type:Test
+Grammar
+package:clipboard
+Tooling
+Tech/React Native
+Note Editor
+Docker
+info: workaround available
+t:typed
+package:undo
+C: automation
+Copy-paste
+automation
+tools
+scope:testing
+Area: Testing
+command: monitor
+Type: documentation
+team/language-tools
+t:replicated-event-sourcing
+Related to: Flaky Tests
+Waiting for: Product Owner
+component: documentation
+run-mmp-tests
+Category: Documentation
+build system :building_construction:
+document conformance
+A-typesystem
+Unit Tests
+producer
+Cabal: cmd/build
+customization
+concrete
+Builders
+Plans & Checkout
+PR: tests-needed
+process: flaky test
+Type: Documentation
+team/search-product
+type: Maintenance
+cp:build
+Feature: Launch
+source: core:admin
+module
+parser/interpreter
+csharp-fundamentals/tech
+T-compiler
+wcag/2.1/auditing
+area: build & ci
+Module
+bug:retest
+:art: Design
+topic:documentation
+compiler-issue
+Design
+feat / parser
+Verification tools
+Feature: Build
+installation
+tool: cert
+c:installation
+needs-work
+needs: design
+type: code-quality
+dotnet-architecture/prod
+api: installations
+c:tests
+microservices/tech
+build
+functions.elementary.piecewise
+bot:chronographer:provided
+Fixed in develop
+area/tests
+language-support
+Area-Compiler-CodeGen
+Component: Developer Environment
+Output
+tool: gym
+tool: sigh
+area: scaffold
+integrals.manualintegrate
+Area-Compiler-Checking
+theme/testing
+J4 Frontend Template
+Syntax-checking
+Component: Checkbox
+component: new / init / solver
+tested
+A-design
+submodule update
+ToolSpeed
+documentation
+tool: match
+feature/test-runner
+comp:testing
+Help Wanted: Developer
+drawing classifier
+on-testplan
+team/code-insights
+solvers.solveset
+comp:build
+editor
+eng:ui-test
+documentation & specs
+Category: Build/CI
+WG-diagnostics
+pkg:codeeditor
+spec tooling
+Topic: completion
+zip-builder
+AREA: testing
+component: schema (JSON+LD)
+F JS Code Hints
+cabal-install: cmd/check
+Product: TypeScript
+X4: work required
+area: co-editing
+T: documentation
+SYSTEM: compiler
+Type: Testing
+Enhancement :wrench:
+Build: Makefile
+A-macros-2.0
+cabal-install: cmd/init
+package:utils
+PR: API Modified
+worker
+[Type] Janitorial
+Product settings
+part: tools
+package:find-and-replace
+tool: supply
+build/packaging 📦
+maintenance
+scope: cli-service build
+area/testing
+type:build/install
+type: testing
+domain:typing/ime
+Test Suite
+needs-verification
+package:basic-styles
+programming
+Infrastructure: Build
+project-system
+area: build-utils
+Needs: Design
+ok-to-test
+tag:Build System
+processing
+Admin Page
+Package: tracing
+area/transformers
+winforms
+pr: review
+in: test
+Posting/Editing
+Topic: Architecture
+type: development
+build system
+Code Refactor
+Code Coverage
+build / code
+Project:Isobuild
+component: build
+Spec: Decorators
+type: typings
+✅ testing
+ergonomics
+To be reproduced
+Area - Refactor :building_construction:
+source editor
+area: language services
+Auto-Resolve
+area: Counter
+Configure
+A: experiments
+TypeScript
+Workflow
+area: testing
+needs-ok-to-test
+toolkits
+area: Toolchains
+Type: Architecture
+user-code-execution
+I Font Upgrade
+test suite
+typechecker
+Type: Tests
+team/product-design
+✍️ working-as-designed
+comp-documentation
+Form
+area/Test
+Feature: Embedded Template
+Resolution: By Design
+CZI: Codegen
+Functional Review
+develop
+code maintenance
+kind: documentation
+type: maintenance
+part: installation
+flaky test
+Resolution-By Design
+Column sorting
+comp-optimizers
+Status: Developed (ready for review)
+installer
+Scripting
+code-related
+Type: Build System; Packaging; Docs; Translations
+A-destructors
+type: documentation
+1 Analyzing
+2 - Working
+part: notations
+command: install
+infra: test suite
+Type:Engineering
+PR use: In Beta / Experimental
+force tests
+Component-Build
+testing :hammer:
+solvers
+PR: Documentation
+S - render
+X1: Inspection required
+author-verification-requested
+Checkout
+flaky-test
+Area: installer
+module: tutorials
+needs: work
+SYSTEM: automations
+Type: Testing :test_tube:
+authoring :writing_hand:
+area-Diagnostics
+AutomatedCherryPick
+experimental API
+typescript
+testbench
+A-Workers
+cabal-install: cmd/haddock
+renderer
+sourcegraph-refinement-bot
+Generated Code
+templates
+part: standard library
+[Type] Task
+needs code sample
+pkg:application
+
+Cluster 3 :
+Needs: Attention
+suggestion
+S: needs more information
+[Status] Needs Author Reply
+needs: more info
+S-waiting-on-review
+needs-design-guidance
+AGENDA ITEM
+4 - Needs cuIO Reviewer
+feedback needed
+needs-review
+Needs More Info :man_shrugging:
+Priority-Critical
+NeedsInvestigation
+Awaiting Response
+Need 2 check
+type:bug
+need review
+Reader
+waiting for clarification
+waiting-on-reporter
+-- Needs Meta/Desc/License changes
+question-answered
+🐛 TypeScript Bug
+kind/needs more info
+Priority-9_Showstopper
+pending review
+Counter-Strike
+needs owner
+needs reproduced
+Awaiting Submitter Action
+doc-bug
+Status:Requires Updates
+issue-addressed
+STATE: Need clarification
+X3: discussion required
+Bug
+C-tracking-issue
+bug/major
+Help Wanted ✨
+bug 1: - needs investigation
+task: help-wanted
+C-question
+tp:bug
+under discussion
+codeball:needs-careful-review
+Alerting :bell:
+ready-for-review
+needs: analysis
+needs-testing
+needs more information
+Needs information
+reviewable
+type: question or discussion
+needs doc
+[Status] Needs Design
+Status: Pending Review
+awaiting changes
+- Bug tracker -
+Status: Review Needed
+needs documentation
+Ideas
+PR: Conceptual concerns
+🛑 bug
+Pending contributor action
+needs-opinions
+Status: Information needed
+Type:Suggestion
+Need Reproduce :telescope:
+monitoring
+clarification-needed
+High Priority
+Awaiting for response
+Needs more data
+kind/bug-report
+issue: discussion
+👩‍💻 Code example needed
+more info needed
+z-bug
+A-async-await
+Type: Possible bug
+A: task-queue
+state: Needs Design
+feature: votes required
+need more info
+Needs testing
+usage question
+info-needed
+b=bug
+Waiting on Merge
+needs tests
+PR: awaiting-merge
+pr/needs-community-review
+plan-review
+needs requirements
+needs-info
+Type: Confirmed bug
+needs-pick
+needs-investigation
+i: discussion
+more info requested
+pending-close-response-required
+Status: Revision Needed
+👀 Awaiting Response
+stage: awaiting response
+type: proposals
+needs agreed design
+change request
+needs example
+stage: needs review
+pr - changes requested
+✏️ needs changes
+Waiting for response
+!IMPORTANT!
+needs-author-feedback
+Needs Discussion
+Triage:NeedsRepro
+Critical
+bug-hunt
+needs-input
+has-conflicts
+Bug Report
+need more data
+P1: urgent
+design-input-needed
+Progress: needs update
+needs-design
+state: awaiting PR
+Needs further review
+needs feedback
+pending-approval
+Qt bugs
+Status: Needs Work
+area: Watchdog
+needs-team-attention
+needs design
+soliciting_pr
+reviewed
+and-bugs
+Issue-Bug
+issue: bug
+upstream (bug)
+N-investigation
+Task
+Question :grey_question:
+Discussion
+Priority-4_Some Interest
+4 - Needs libcudf Reviewer
+bug :lady_beetle:
+Type: Behavior Change
+Needs Information
+Waiting User Reply
+topic: script
+type/question
+Report: Bug
+type: bug
+PendingFeedback
+Waiting for issuer
+pending OP feedback
+[Discussão]
+reporter
+Needs: info
+⚑ needs info
+BUG REPRODUCED
+Needs info
+:bug: Bug
+NeedsFeedback
+🤷‍♂️ More info needed
+requires feedback
+Needs More Information
+Need More Details
+Investigate
+needs investigated
+Request
+Needs more info
+Priority: SHOULD
+Status: To be discussed
+Proposal-Hold
+stage: needs investigating
+4 - Waiting on Author
+needinfo
+needs: feedback-from-author
+TYPE: bug
+Component: Dialog
+need-feedback
+need-info
+s1:awaiting input
+bug report
+Reviewed
+Pri-Critical
+need to optimize
+need-attention
+needs-design-approval
+Needs: Investigation
+issue/reviewed
+Thinking
+proposal
+More-info-needed
+ready for review
+bug :beetle:
+Pull-request-wanted
+Status: conflicts
+needs_info
+NeedsDecision
+PRE-RELEASE BUG
+Awaiting Reply
+tests needed
+Status: Needs Triage
+Status: Response Needed
+doc bug
+9 Review Required
+upstream-bug
+requires-configuration
+research
+normative change
+PR: conflict
+repro:needed
+type: user-question
+Needs: Actionable Feedback :female_detective:
+Need Details
+need feedback
+To review
+bug :bug:
+Bug / Issue
+issues
+Status: Needs More Information
+backport-required
+Status: Code Review Needed
+Waiting on Changes
+[Type] Question
+Needs Code Review
+Waiting on Author
+help_wanted
+Needs investigation
+wait-info
+Pending feedback
+9.needs: reporter feedback
+in_review
+type:question
+URGENT
+S: needs docs update
+Type: Question :grey_question:
+Status: Triage Needed
+pending changes
+B-bug
+needs work
+type: unexpected behavior
+Requires more info
+PR: reviewed-changes-requested
+WaitingForCustomer
+waiting-for-answer
+pr:needs-review
+needs testing
+type:Question
+Needs Label Review
+Revision needed
+i: bug
+Needs C#
+Awaiting User Input
+needs decision
+needs translation
+ready-to-ship
+more-details-needed-from-op
+9 Waiting for Jenkins
+waiting-response
+Needs Author Reply
+internal-issue-created
+kind: question
+test bug
+:beetle: bug
+bug 🐞
+Blogging Reminders
+T: question
+Calling
+Status: Help Wanted
+Needs: documentation 📄
+awaiting-feedback
+needs_revision
+[Status] Tested on WP.com
+has-repro-comment
+TYPE: question
+Confirmed bug
+<Question>
+needs investigation
+Component: Issues
+kind/bug
+:speech_balloon: Question
+Type / Bug
+C - waiting on author
+review
+task
+Resolution: Needs Revision
+Needs Review
+Type: Discussion/Question
+known issue
+pending-response
+plotting
+type: discussion 🔥
+stat:awaiting tensorflower
+Usage Question
+ui-needed
+needs sandbox
+Need Clarification :grey_question:
+test-plan-problem
+PR: Changes requested
+X5: work required (PR / Help Wanted)
+waiting-for-response
+Upstream-Bug
+stage/needs-discussion
+Second Review Required
+type/bug
+X-Awaiting-Changes
+conflict
+waiting for feedback
+Needs Testing
+needs design decision
+Type: Change Proposal
+Needs Team Discussion
+waiting-on-feedback
+question :grey_question:
+? - Needs Triage
+waiting-for-info
+awaiting-author-response
+Design Needed
+Test Bug
+Needs Investigations
+needs clarification
+response requested
+Meta: Help Wanted
+Status: Reviewed
+needs repro
+pull request wanted
+Fix proposed
+:coffee: Open to discussion
+Type: Bug
+S-waiting-on-author
+s6:need sample
+type: bug report
+Type: Question
+Proposal
+stage: investigating
+inquiry/pending clarification
+pending_action
+Question / Discussion
+Needs: Discussion
+awaiting-user-feedback
+Behavior Change
+Documentation Required
+investigate
+investigating
+info: alerts
+Conflicting Files
+pending:feedback
+Waiting feedback
+Waiting info
+Z-Help-Wanted
+WaitingForInfo
+more-information-needed
+internal-bug-filed
+awaiting review
+🏓 awaiting-team-response
+Status-NeedInfo
+issue template not followed: read posting rules...
+type:Bug
+Information Required
+Definition:Bug
+has conflicts
+B - bug
+needs: investigation
+Need Information
+type: bug 🐞
+Gathering Info
+investigation-needed
+needs more work
+Feedback Requested
+:heavy_check_mark: Resolution: Answered
+P1: Urgent
+Status: Requires Reporter Clarification
+Need sample stream
+Type: Need Help
+Type: Bug Fix
+wait for feedback
+Type: Possible Bug
+waiting for contributor
+bugs life
+Known Issue :bug:
+Type: Discussion
+response-requested
+-- Needs Upstream Resolution
+E-help-wanted
+RE-Bug-Confirmed
+rule-request
+User-Pending
+Review - In feedback
+waiting-for-user
+customer-response-expected
+request
+Question / Support
+Component: Button
+stage/needs-investigation
+State / Investigating
+kind: bug
+Bug :-(
+need repro
+Contribution Needed
+needswork
+extension problem
+! Bug
+Review
+needs: review
+needs-discussion
+st-discussion
+needs-reviewer
+keymap
+Needs-Info
+S-waiting-on-team
+discussion / investigation
+waiting
+needs: more work
+Issue-Question
+X-Needs-Info
+Type: Bug :bug:
+Waiting for wording
+C-bug
+Need information
+customer-replied-to
+needs: feedback
+Bug :bug:
+needs changes
+feedback required
+t3:discussion
+Docs change required
+Bug report
+GH Review: review-needed
+❔ Type: Question
+topic-plotting
+Feature: Item Reviews
+awaiting changes :pen:
+awaiting feedback
+risk
+user: need help
+Type: Discussion :thought_balloon:
+[Status] In Progress
+conflicts
+historical-reviewing
+Status: Needs Investigation
+troubleshooting
+9.needs: community feedback
+Issue-Discussion
+discuss
+type:Discussion
+Contributor Pain
+needs discussion
+S: Pending Release
+Pending-Discussion
+A-resolve
+bug / issue
+Save for Later
+need more information
+needs more info
+Type: Assistance needed
+team/code-exploration
+Component: Player :play_or_pause_button:
+client
+need-more-info
+t4:question
+Possible Bug
+alerting
+need pull request
+Needs Info
+QA Needed
+S-waiting-on-bors
+issue: help wanted
+user_pending
+State / In discussion
+Should Be Fixed
+requested feature (hold over)
+N-discussion
+Triage:Investigate
+Type: Demo needed
+other: info needed
+topic-backends
+needs: team discussion
+needs patch
+I-needs-decision
+Bug :lady_beetle:
+Comments
+Waiting for author
+test case required
+Client
+Triage:NeedsTriageDiscussion
+contrib-help-wanted
+configuration issue
+t: question
+needs-more-info
+<Suggestion / Discussion>
+Primary Issue
+help wanted/question
+needs more info :information_source:
+Push Notifications
+pending / waiting
+i: question
+verification-needed
+[Status] Requires String Changes
+user: more info needed
+More information needed
+pr - needs review
+Bug-Assert
+waitingOnResponse
+Upstream Bug
+Status: investigating
+state: needs discussion
+needs response
+possible bug
+type: discuss
+needs-feedback
+👥 needs discourse
+X2: answer required
+Needs tests
+Pending Next Release
+need-test-case
+need info
+Customer
+Contribute:Pull-requests-encouraged
+help wanted
+🐛 Type: Bug
+account-needed
+important
+needs-upstream-help
+needs-more-input
+waiting for more input
+Upstream Change Needed
+🕵️‍♀️ needs review
+Type:Additional Discussion
+bug
+External Bug :lady_beetle:
+needs information / data
+requires-changes
+waiting for response
+needs-preceding-pr
+bugs
+4 - Needs cuDF (Python) Reviewer
+Status: Design Review Needed
+needs: UX team review
+question :question:
+Resolution:NeedMoreInfo
+Needs: Backlog review
+Needs Specs
+Status: Discussion
+needs: more information
+🕵 needs more info
+Needs review
+waiting for information
+waiting-for-clarification
+[Type] Bug
+Resolution: Needs Investigation
+Status: Needs Discussion
+needs-issue-template
+[Status] Needs Copy Review
+WIP: Needs Testing
+Need More Info
+menu-bug
+type: question 🙌
+[Status] Needs Design Review
+waiting-for-feedback
+Bug 🐞
+Pending
+needs: info
+🏓 awaiting-contributor-response
+Committee-Reviewed
+Feedback Needed
+needs-decision
+Question
+Review - Needed
+a=need bugwash
+<Bug>
+st-need-info
+Needs-help
+consider soon
+Key feature
+bugathon
+Status:Fix Proposed
+to-evaluate
+Type: User Feedback
+historical-reviewed
+further investigation required
+follow instructions
+needs review
+more information needed
+Need info
+Hi-Pri Bug
+Awaiting Information
+awaiting response
+needs followup
+Flow: Pending review
+[Type] Good First Bug
+need: description
+thinking
+Type:Bug
+NeedsFix
+info needed
+Needs: Author Feedback
+Priority: COULD
+Submitter Attention Required
+Reviewer
+help needed
+more information requested
+needs info
+Status: Needs Info
+waiting-user-feedback
+Type: Question / support
+Help wanted
+state/needs-investigation
+docs-needed
+Needs PR
+discussion
+waiting-for-repro
+Investigating
+stage/thinking
+Change Request
+action: review
+REQUIREMENT
+pr/needs-review
+stat:awaiting response
+breaking change :warning:
+🐞 bug
+needs: demo
+topic: navigation
+T: Question
+bug/typo
+Status: Feedback Needed
+needs team repro
+Needs Decision
+alternative build
+3 - Ready for Review
+Issue Pinged
+unexpected behaviour
+inquiry/question
+Resolution:Question
+state/needs-more-info
+needs bikeshedding
+locale approval needed
+Need Reproduce
+bug-in-dependency
+Priority-8_Important
+design decision
+need-more-information
+attention: needs-review
+team/code-navigation
+Type: Question ❔
+NeedsTriage
+waiting for answer
+Needs changelog/docs
+A - needs repro
+Need Infos
+:question: Question
+needs implementer interest
+topic: dialog
+Awaiting Feedback
+needs verification
+awaiting developer feedback
+is-bug
+CRITICAL
+S: Need More Data
+Needs Tests
+warnings
+Priority/Critical
+Needs design decision
+I Font Bug
+pending
+customer
+*question
+Status: In Progress
+Bug (to verify)
+Needs Triage
+Invite needed
+Status: Needs Review
+Help Needed
+Ready for Review
+Should report upstream
+Help Wanted
+needs investigation :microscope:
+needs-attention
+Type:BugFixes
+to review
+- Lots of Comments
+type: question
+🐛 bug
+BUG
+to be reviewed
+needs-more-information
+constraints
+type: question/stack overflow
+Needs Investigation
+type: question / discussion
+Updates Requested
+X0: need more information
+help-wanted
+Waiting for rebase
+NEEDINFO
+potential bug
+Troubleshooting
+S-bug
+Issue: External issue
+waiting for user action
+Priority: MUST
+Needs Submitter Response
+needs-details
+[Status] Needs Code Review
+waiting-feedback
+📞  Needs Response from Author
+Needs Tests :unicorn:
+Needs verification
+Needs Bug Verification
+Awaiting input
+waiting for objections
+Needs documentation
+Discuss
+question
+third-party bug
+question/support
+requires-approval-before-merge
+more-info-needed
+stage: needs information
+type: discussion
+waiting on submitter feedback
+awaiting-response 💤
+awaiting pull request
+Status: Waiting for answer
+needs expert opinion
+Suggestion
+
+Cluster 4 :
+Comment support
+contributor pool
+Component: FocusZone
+theme/core
+trees-contexts
+geometry
+Idea/Wishlist
+Part of a WIP Feature
+area-hosting
+Modules
+@aws-cdk/aws-certificatemanager
+area: gps
+node
+provide example
+theme/config
+filter-request
+Settings
+area/health
+area: modules
+topic: session
+contribution:core
+Type:Feature
+sensors
+squad:collaboration
+tokenizer
+Category: Security
+theme/template
+Indexing
+theme/streaming
+Core: Performance
+ag-grid engaged
+Type: Dependencies
+part: typeclasses
+Feature:Cards:Attachments
+component: metabox
+area: CAN
+Category: Gameplay
+area/service
+Positions
+Tables
+severity: performance
+A: plots
+info: example-attached
+module: cmake
+sig/network
+Support Center
+feature: subtitle
+component: pathfinder
+user experience
+Component: DetailsList
+area/Naming
+area/search
+Information
+scope:documentation
+configuration
+[Package] Sync
+Area - Visual Encoding
+Component: Event Pipeline
+@aws-cdk/assets
+area: Sensors
+contacted
+description page
+Scoped storage
+kind/feature-request
+integrals
+Component-UI
+service/apigateway
+overviews
+topic-fees
+category/ui
+.NET
+A-Packaging
+package:link
+search
+SupportCentral
+containers
+feature :gear:
+area: examples
+Schema
+Area:Settings
+area/install
+linking
+area: Documentation
+Internationalization
+Category: Client
+comp-matview
+theme/storage
+RStudio IDE
+t:http:core
+WG: access-subscriptions
+part: tactics
+area/simulation
+area/ingress
+topic: popover
+team/core-application
+Ask-It-On-Stack-Overflow
+theme
+Contributor OK
+layout
+topic-performance
+table
+preferences
+mode: cluster
+A-allocators
+<tabs>
+area: ARM
+AREA: client
+overlay
+Component / Scenario Player
+Profile
+type: dependencies
+S - packaging
+Feature: PDB
+area: Settings
+Type: Feature request
+Render issue
+Brand Icon
+theme/ui
+community
+topic-groupby
+CONNECTION POOL
+category/localization
+Marketing
+component:ui
+category/performance
+Resolution-Fixed
+area/protocols
+area/streaming
+Area: Theming
+metadata
+S - selection
+Service Team
+Layouts
+topic: cross-origin-embedder-policy
+Area:PackageDefinition
+Site Settings
+feature request
+area/test-infra
+actions
+Pages List
+maintable
+area/apiserver
+topic-CF conventions
+core.sympify
+area: mapping
+component: forms
+rendering
+Category: UI
+Resolution: Implemented
+Fabric 6
+package:table
+theme/client
+topic: browsing context
+theme/telemetry
+Packaging
+deployment
+Type: Feature Request
+feature: ajax
+scope:framework
+team/security
+Node
+sig/cluster-lifecycle
+Focus:Launcher
+plots
+events
+component/controller
+Component: ColorPicker
+area/performance
+Component: DocumentCard
+A-metadata
+archival
+topic-wallet 👛
+topic-arrays
+component: xml sitemap
+type: localization
+emotion
+area: routing-utils
+device
+Cart rules
+module: features
+Platform
+Statistics
+topic: custom elements
+managed-instances
+On Deck
+Feature Request
+area/collectors
+grid-core
+Feature request
+@aws-cdk/aws-events
+Area - Data & Transform
+Component: Link
+WG: components
+scope: cli-service serve
+Component: Coachmark
+Offline Support
+data-sources
+Routing
+causal clustering
+component: infrastructure
+Feature/Change Description
+area/gates
+area: audio
+estimate/2d
+GLOBAL
+theme/certificates
+registry
+Component: SwatchColorPicker
+area-CodeGen
+source: core:database
+Service
+Type: Vendored Dependencies
+component:Plots
+impacts documentation
+client: vs
+area: identity
+Feature-Request
+A-specialization
+comp: migrations
+Node Sass --> Dart Sass
+in: document
+mailing list material
+integrations
+FrameworkBundle
+Input
+Impact: Migration
+tool: frameit
+input
+Categories
+Search
+topic: rendering
+railties
+Area: Narrator
+dotnet-framework/prod
+cy.intercept()
+development
+tray
+gateway
+Core Data
+People Management
+area/Nacos console
+Area-Maintainers-Documentation
+Schema Definition
+scope:reporters
+topic-indexing
+🛠 Type: Feature Request
+t:routing
+Component: Pivot
+module: filters
+support: usage question
+Feature: Analysis
+Feature proposal
+Category: Settings
+OS-Plan9
+area-rendering
+site-support-request
+Documentation ✔️
+management/tracking
+schema
+area: DMA
+area: Devicetree Binding
+for: stackoverflow
+UI performance
+deploy-sourcegraph
+area: acquisition / activation
+area: theme
+TRACKING
+Component: MessageBar
+area-runtime
+Customer groups
+Domains
+Package: Node
+package:media-embed
+utilities
+npm-package
+provider/docker
+Config
+scope:command
+Category: Core related
+area-commandlinetools
+features
+Area - View Composition
+terminal
+part: program
+contribution/core
+package:mention
+area: files
+area/vault
+area: infrastructure
+services
+area/preview
+component:Profiler
+clustering
+performance
+area: node
+area/boot
+theme/dependencies
+topic-transactions 📑
+iteration-plan
+Support Request
+Package: react
+Pkg::Arrangement_on_surface_2
+Send a PR
+topic: event loop
+Network/Sync
+<sitepermissions>
+aws:cloudformation
+cat/config-schema
+storage
+package:list
+topic: serialize and transfer
+knowledge base
+Platform-specific (UWP)
+area: compat-table
+type/feature
+Category-Website
+package:style
+Component / Transport
+File list
+- Forum -
+tracking
+Pkg::Surface_mesh
+area-identity
+themes
+<media>
+Payment methods
+planned feature
+area/dependency
+Area: Website
+area: integration/terraform
+informational
+ui: layout
+area-Infrastructure-coreclr
+component:Outline Explorer
+Documentation ✏
+backbone code
+area/Config
+browser:edge
+area: Modules
+service/elasticsearch
+type:performance
+area: configuration
+scope: dev-infrastructure
+core feature
+core work
+Uploads
+area: frameworks
+Account
+Core
+Component: GroupedList
+area/windows
+Dynamics
+component/tray
+A-Media-Repository
+Area - Ingestion
+area: API
+kind/design-issue
+topic: media
+PR: Has dependencies
+Point of Sale
+Monitor
+optimize
+kind: infrastructure
+usage
+theme/website
+area/ml
+component/webview
+area: Kernel
+Component: Playlist
+command: details
+Related Posts
+package:heading
+Catalog
+estimate/3d
+interop
+database
+Product:VS.Client
+Component: CommandBar
+Component: List
+in: example
+area: Boards
+Area-VS-FSI
+terraform-deployment-examples
+A-http
+I Description/Metadata/OFL
+expected-behavior
+community discussion
+integration
+Carriers
+Area: theme
+Network
+Prepared Statements
+Addresses
+Loading
+type: gestures
+Container Registry
+pr:platform
+Focus:Exporter
+topic-documentation
+A-Application-Service
+Infrastructure
+C-feature-request
+Information :information_source:
+support-request
+[Focus] Multisite
+area/comments
+installation/env
+INTENT TO IMPLEMENT
+S - terminal
+layer 8 issue
+support/RFC
+locale
+area/pipeline
+area: network
+Localization
+managed-by-community
+area/artifacts
+A: data-management
+component: language
+service/rds
+Feature
+area: Security
+type: feature-request
+area-dataprotection
+data viewer
+Cognitive - Metrics Advisor
+component/node-integration
+component-platform
+protocol
+area: common
+Area - Querying
+theme/metrics
+feature
+topic: forms
+area/quality
+Component: Live
+Project:JS Environment
+asset pipeline
+Share Extension
+area: Flashing
+st-community-taken
+Status: Archived
+bundler
+theme/security
+Related to: Performance
+feature: transaction
+S - input
+cat/aws-event-api-gateway
+user preferences
+component/host
+area: Display
+vendor-project
+Image
+Service Fabric
+A-collections
+F-generic_associated_types
+in: core
+connectors
+suggestion-module
+scope/clients-go
+topic: planner
+Area - Segment Balancing/Coordination
+[Focus] Accessibility
+area/helm
+category:performance
+Area-Infrastructure
+Area - Interaction
+coverage
+area/network
+guest/windows
+topic: multiple globals
+Event Grid
+Component: Notifications
+Media
+assets :file_folder:
+component: select
+component:Projects
+map-data
+Category: Controller
+for: internal contributor
+Process
+in: proxy
+type: document
+theme/connect
+internationalization
+External
+Sharing
+tool: snapshot
+platform specific
+Category: Rules
+type:feature
+area:multiparser
+Event Hubs
+area/import
+component-psa
+support:core
+type:Feature
+agenda+
+support:2
+area: terminals
+area/daemon
+content-packs
+functions
+Component: Facepile
+component: performance
+area/ansible
+Area:Authentication
+type:meta
+area/ros
+team/search-core
+comp-distributed
+area: config
+area: documentation
+theme/vault
+modules
+component:config-management
+c:configuration
+routing
+Feature: Item Movement
+Feature: Vault Organizer
+Package: azure-themes
+Area-Library
+theme/variables
+community/up-for-grabs
+more-info
+area/executor
+area: ensure
+area/exporting
+component:core
+optimizer
+Context menu
+package:ui
+cp:packaging
+<sync>
+Category: Performance
+groups
+area-Interop
+Layout
+pr/dependencies
+component: table
+squad:features
+area-networking
+image-preview
+Area - Metrics/Event Emitting
+🏆  Feature Request
+Visualization
+source:user request
+Component: Stack
+Area - Operations
+Package: merge-styles
+Component: FocusTrapZone
+WG-traits
+scope: core
+sig/scheduling
+Partner:Project-System
+Project: Component Store
+facets
+Component: Core Frontend (React)
+EventDispatcher
+area/gui
+t:distributed-data
+Event
+area: claims
+area/mounts
+package:upload
+area: Shields
+component: notifications
+Area: Performance
+@aws-cdk/assertions
+configure-related
+source:community
+sig/node
+area/core
+platform-support
+[Focus] Performance
+area/reliability
+External Contributor
+area/commandline
+Component: Card
+type: usage
+Publicize
+area/packaging
+Connections
+Category-Documentation
+Core: Selection
+theme/contributing
+Project: Data
+object-detection
+featurerequest
+for: stack-overflow
+Feature: Performance
+actionpack
+selected for development
+@aws-cdk/aws-stepfunctions-tasks
+area/openvpn
+scope/gateway
+Area: Accessibility
+export
+contribution
+area/Nacos Core
+area-textprocessing
+Dependencies
+ui: theme
+Core: Alignment / height / width
+service/ssm
+dotnet
+consumer
+Style:Packages.Config
+area/git
+area: react
+topic: performance
+area/editor
+Schema Management
+Output-Formatting
+Functionality:Pack
+cat/aws-event-http-api
+area/Client
+relations
+WG: viewers
+WG: analytics
+type: feature
+Activity Log
+area: hub
+Contributor Candidate
+Features
+domain:ts
+@aws-cdk/aws-lambda-event-sources
+area: router
+@aws-cdk/aws-apigateway
+scope: react
+Component-Heapstat
+area: Memory Protection
+Type: Performance
+theme/consul/connect
+Cabal: file format
+area/database
+team/language-platform
+Area:Protocol
+area/provisioning
+area: client
+Performance
+component/router
+scope:distribution
+theme/discovery
+ports
+area-infrastructure
+Look and feel
+Component / CI
+area: sourcemaps
+Project: Effects
+Localisation
+community watch
+service/iam
+Component: ChoiceGroup
+inputs
+type: sub task
+area: connectivity
+package management
+Logistics
+Area: Documentation
+@aws-cdk/aws-events-targets
+component:Variable Explorer
+Area: core
+Type-Feature
+Notifications
+access-requests
+Coverage
+Vehicles
+project/content-variants
+Contributor Fix
+type: user experience
+okr/distribution/admin-experience
+area: performance
+object detection
+A-traits
+Parcels
+Area/Localization
+area/storage
+Sales
+scope
+Area/Integrations
+Area/End User Feature
+CI settings
+feature/code-coverage
+feat / visualizers
+insights-settings-migration
+pinpoint
+data grid
+Products
+area/prow
+report
+package request
+topic: core
+area: wallet
+area/google
+area: management utilities
+payload
+Area - Lookups
+Area:ContentFiles
+theme/api
+aws:apigateway
+scope/broker
+ask to stackoverflow
+component: rest api
+WP REST API
+a: core
+dependencies
+area:api
+Category: Protocol
+vector
+a:segment
+Mode Line
+tables
+pr-feature
+Area - Documentation
+Component: Callout
+area/introspection
+Org
+Component: TextField
+Container Instances
+component: output (UI/UX)
+Component / API
+area-System.Threading
+FEATURE REQUEST
+Component: Panel
+Pkg::Point_set_processing_3
+team-cluster
+Type: Feature
+operations
+feature/coverage-gap
+platform/all
+Attributes
+type/cleanup
+suggestion-feature
+part: modules
+type: feature request
+area/create-cluster
+area:function calls
+process: dependencies
+accessibility - WCAG A
+area/networking
+platform: SiLabs
+ROUTING
+team/delivery
+community/pr
+category-documentation
+provider
+A-associated-items
+[Type] Feature Request
+visualization
+area: persistence
+domain:accessibility
+User Experience
+component:Main Window
+type:option request
+A-Database
+Area/Technical Debt
+Modules catalog
+area-middleware
+Package: utilities
+area: Userspace
+roadmap
+size-optimisation
+framework
+Definition:Request
+component/protocol
+topic: events
+topic-metadata
+Suppliers
+type/accessibility
+Focus:Habitat
+area/raft
+component: interface
+Data-services
+module: ci
+in: metadata
+information
+go-modules
+Component: Accessibility
+area-System.Runtime
+Subscriptions
+scope: node
+access
+type: performance
+scope: microservices
+feat / vectors
+Connect Flow
+attached PR
+area-datagrid
+tp:performance
+scope: ui
+area:playground
+team-packaging
+Core Team
+feat / tokenizer
+area: GPIO
+area/circuits
+Services
+settings
+area: Configuration System
+AppImage
+t:cluster
+Feature-request
+<storage>
+Analysis
+network
+Coverity
+project: vendored dependency
+Framework
+package:core
+Tag: Infrastructure
+packaging
+github-actions
+Area - Streaming Ingestion
+topic: cluster mgmt
+needs: accessibility input
+component: multisite
+component: text analysis
+area/example
+environment pane
+Component: UI
+Faceted search
+Component / PFS
+infrastructure
+area/translation
+area: Samples
+topic: network
+plan-item
+Area-SetupAndDelivery
+topic-network 🕸
+area: forms
+Customer Usage
+area-PAL
+module/rm-datasource
+store
+@aws-cdk/aws-codepipeline-actions
+Functions
+area:comments
+dynamic analysis
+Feature: Item Details Popup
+area/controller
+area: go
+intend to implement
+A-client
+package/awscl
+platform
+is-feature
+distribution
+examples
+area/backend
+Schema Comparison
+Project: Store
+area: core
+Impact:some
+component: options parsing
+Menus
+Network - Bastion
+Feature: Data Types
+module: common
+theme/deployments
+module: visualization
+pkg:terminal
+area-Tracing
+config
+component: content analysis
+Rendering
+owner: development
+area: authentication
+continuous-integration
+component: social
+board
+team/batchers
+component:applications-set
+models
+8.has: documentation
+area: share / join
+feature: agent
+WG-Cmdlets-Management
+Storage
+Contribution
+projections
+feature: mask
+positional audio
+command:core
+multitenancy
+Libtorrent
+Category: Network
+tag:Feature Parity
+theme/cleanup
+category/accessibility
+Package: Core
+Component: Modal
+gsoc-outreachy
+kit
+🗃️ data issue
+functionality / feature
+Resource Manager
+area: OpenThread
+Theme & logo
+type: accessibility
+area/web
+Service Attention
+EventPipe
+source: core:upload
+Area-FileSystem-Provider
+Service Team Support Request
+5. Data modeling
+Component: Persona
+GC Attention Set
+area/shadowsocks
+actionview
+core
+Temp folder
+area/ui
+area: Miscellaneous
+com
+Part of scope
+Sitemaps
+State-Module
+MapServer
+topic: focus
+<session>
+@aws-cdk/aws-s3-deployment
+Groupby
+area/jenkins
+area: api
+Category-HostedMode
+data-viz
+PROTOCOL
+use case
+3 UserManagement
+backport/website
+sdk-support
+<migration>
+area/console
+subprojects/wraps
+Area: updater
+area-System.Memory
+Platforms
+scope: common
+area: flow
+Camera Uploads
+localization
+Custom Content Types
+platform-specific
+area: security
+area: comments
+Type Mapping
+scope:assertions
+topic: fetch
+Category-UI
+💖 Feature Request
+Area:PackageSourceMapping
+A-linkage
+comp-formats
+area/api
+component: indexables
+component-tls
+area/security
+StackOverflow
+sourceforge
+Themes
+provisioner/ansible_local
+Multistore
+category/documentation
+document
+A-attributes
+topic: link
+Project: Entity
+feature/assertion
+Modules & Themes
+SymPy Live
+area/documentation
+export / save
+Component: Integrations
+Feature: Vendors
+type: infrastructure
+community-patch
+group/documentation
+feature-request
+Style:PackageReference
+Feature: Loadouts
+Feature: Compare
+area: Power Management
+Database
+FeatureRequest
+S - config
+visual markdown
+component: channels
+Component: Packaging
+Category: Core
+Utility
+stackoverflow
+provisioner/ansible
+Overlay
+area/remap
+SYSTEM: reporting
+kapacitor
+Topic: Rendering
+area-signalr
+extensions / SDK
+Contact Form
+Support request
+area-security
+Advanced parameters
+Community
+part: kernel
+component:Preferences
+issue: feature request
+area: Process
+Area - Dependencies
+package:image
+Area: Linker
+activestorage
+npm-integration
+theme/scheduling
+
+Cluster 5 :
+iOS 14 Widgets
+component:File Explorer
+comp: schema sync
+Applications :floppy_disk:
+Graphs
+IO Data
+dotnet-wpf/tech
+User Interface (UI)
+6.topic: kernel
+pkg/server
+App-d2x
+Package: Browser
+virtual tables
+AppSync
+Feature: Server
+proxy
+Mobile Chrome
+Simulator
+t:http:server:dsl
+OS-OpenBSD
+users
+code/java
+comp: persistence
+t:http:client
+feature request (devs?)
+self-hosting
+api: instanceid
+openoffice/libreoffice
+Web editor
+@aws-cdk/aws-cloudfront
+platform: linux
+implemented by github
+[Type] Dotcom Merge
+area: Networking
+OS: Windows
+scope/clients-java
+Spacemacs Layouts
+OS-FreeBSD
+javascript-client
+Area: Icons
+package:html-support
+My Site Dashboard
+user question
+techsupport
+🛬 needs landing (squash)
+linux
+area: Bluetooth Mesh
+Web UI
+JavaScript
+HttpFoundation
+cuDF (Java)
+platform: Linux
+object manager attribute
+nodejs
+area: UART
+bot
+Area - SQL
+SQL
+area: Devicetree Tooling
+CPU emulation
+kind: user messages
+browser: chrome
+browser: Safari
+HttpKernel
+download
+[Plugin] Super Cache
+in: API
+SYS: Startup
+tool: spaceship
+Beta Request
+api: hosting
+os-android
+Mobile Safari
+pkg:console
+Product: Website
+graphics
+browser: Chrome
+🔮 Renderer (WebGL)
+Feature:Reorganize-AllBoards-OrgsTeamsPeople
+database-access
+service-api
+webpack-5
+opencv
+IO Google
+os: linux
+Area: App Runtime
+New Reader iOS
+sales-onboarding
+Console
+shared-database
+api: messaging
+Login
+python
+JavaScript / Coffee
+theme/platform-windows
+api: crashlytics
+area: Sockets
+source: core:content-manager
+platform/linux
+language/python
+browser-extension
+PySimpleGUI Issues Bot Has Detected an Error
+Topic: bindkey
+webui
+API Design
+User Interface
+installing nvm: profile detection
+accessibility - screen reader
+wifi
+area: File System
+dotnet-networking/tech
+cypher
+pr:daveit
+Information Architecture
+website
+target:python2
+Networking
+topic: source-plugins
+vs4mac integration
+plugin:tableselection
+Packaging/Debian
+OS:Windows
+python-api
+Area: Hardware Support
+@types
+feature: Browser
+CPU
+OS-Linux
+IO HTML
+Interactive
+AI
+Hackfest
+feature requests
+ui: flexbox
+tech-debt
+area/nodecontroller
+platform: macOS
+platform/macOS
+Firmware: PX4 Autopilot
+Kernel related :dna:
+server-ui
+Website / Marketplace / Docs
+system administration :briefcase:
+platform/windows
+Type: RFC
+source: plugin:graphql
+Cache
+github_actions
+Info / User Interface
+Hosting: Self-hosted
+component: AI/Game script (squirrel)
+dotnet-winforms/tech
+telemetry
+Bot Services
+Linux
+integration: web frameworks
+install from api
+Area - Web Console
+project:react-native-web
+area/app-lifecycle
+OpenGL
+os: iOS
+language server
+Email
+MacOS
+emulator-suite
+<icons>
+ux: integration
+application-access
+Platform: Microsoft Edge
+Component: PeerTube Plugin :package:
+Data Lake Storage Gen2
+Platform-specific (Linux/POSIX)
+api
+OS: MacOS
+File Servers
+topic: screenshots 📸
+tested manually on Linux
+:memo: WYSIWYG Editor
+:checkered_flag: Release: .NET Core 3.0
+Shopping carts
+component: javascript
+find in files
+Feature: Search
+comp: query builder
+os/macos
+DataStore
+OS-mac
+component/dashboard
+Yoast: Content Preview
+browser:firefox
+Android
+account:google
+Mac Specific Issue
+Analytics
+O-linux
+api: firestore
+Done - Download from GitHub (see docs for how)
+OpSys-OSX
+platform: Microchip SAM
+browser: electron
+FreeBSD
+user interface
+Unified Login & Signup
+osx
+T-libs-api
+calculus
+topic: plugins-PWA
+NeedsUserFeedback
+4 MacOSX
+6.topic: python
+Feature: Loader/ELF
+category:user api change
+possible plugin
+WebAssembly
+Package: @directus/api
+[Type] Tech Debt
+@aws-cdk/aws-cloudwatch
+files pane
+🖼 Platform: Windows
+provider/virtualbox
+Project:Accounts:Password
+Microsoft on point
+Google
+app-feedback-program
+SYSTEM: browser natives
+opengl
+mysql server behavior
+Yoast: Content optimization
+t:server
+New Public Tracker
+api-breaking
+WG-Interactive-PSReadLine
+Component: SearchBox
+OS-Solaris
+type:rfc-tracking
+Execute SQL
+Component: Memory Management
+pythonwin
+H - linux
+db: MySQL
+platform: ios
+OS-NetBSD
+Software Rasterizer
+Fluent UI react-components (v9)
+feature-middleware
+HttpClient
+Bungie API Bug
+Component: Avatar
+area: Ethernet
+area: X86
+@aws-cdk/aws-cloudformation
+SEO Tools
+target:python3
+Blogging Prompts
+browser: firefox
+driver: mysql
+Tech/Go
+Functionality:VisualStudioUI
+os: macOS
+web
+changelog: new feature
+Compute
+WG-Interactive-Console
+lang:javascript
+os: android
+Flag / Tech Debt
+installing node
+desktop
+OpSys-Linux
+webpack
+Platform-specific (Android)
+Device :desktop_computer:
+WG-Interactive-IntelliSense
+Anki Ecosystem Compatibility
+osm
+module/server
+dialect: sqlite
+Via Forum
+My Site
+<menu>
+tp:API_settled
+Category: Wifi
+API change
+api: remoteconfig
+Bug Report/Open
+platform: mac
+rfc
+PR: webpack-4
+Compute-cli
+O-windows-gnu
+wikibase
+filecoin
+Area: Mono.Android
+if_python
+webapp
+DB: SQLite
+Touches WP.com Files
+Platform: Windows
+t:java
+android
+GRAPHICS WEIRDNESS
+api: performance
+area/multicursor
+in: JDBC
+CSS Modules migration
+O-android
+openCypher
+Symfony layout
+backend nvidia
+Package: dashboard
+remote-explorer
+Chrome
+A: api
+gui
+source: plugin:users-permissions
+Category: API
+service/cloudfront
+mac
+hackathon
+plugin-request
+keyboard
+4 - Needs cuDF (Java) Reviewer
+Web Apps
+Pkg::Kernel_23
+IO Excel
+topic: source-shopify
+OS:windows
+Changelog: Feature
+:computer: Front-End
+component:Find in files
+Media Editing
+area: python
+repository-permissions
+I API / Website / Platform
+macos
+O-macos
+actionmailer
+WPCOM API
+DB: MS SQL Server
+os/windows
+spam
+Area: Game Support
+os-freebsd
+Graph
+client: vscode
+app-builder-lib
+cat/plugin
+Google Analytics
+comp:runtime
+Website
+feature-http-abstractions
+type: website
+input/pointer
+in: jdbc
+topic: GraphQL
+provider/vmware
+Pay With Paypal
+Area:HttpCommunication
+Platform: macOS
+O-windows-msvc
+browser:android
+URL Pattern
+Email theme
+compiler-driver
+GraphQL
+API design
+Dashboard
+os-macos
+dotnet-cli/tech
+mobile client
+@aws-cdk/aws-appsync
+feature_request
+H - macos
+comp-mysql
+cloudformation package-deploy
+ruby-compat
+browser:safari
+RFC
+module: io
+arch-x86_64
+info: website
+3rd party plugin
+synced-folders/nfs
+host/windows
+WebAPI
+Webservice
+Project: Router Store
+OSX
+TG macOS Swift
+Share with users
+component:Python Console
+Filtering
+emulators: functions
+os-linux
+SYSTEM: API
+platform: macos
+code-server
+component:Plugins
+Mac only
+plugin :electric_plug:
+software
+component: search console
+library
+dashboard
+topic: plugins
+provider/hyperv
+emulators: auth
+Jetpack Mobile
+PHPUnitBridge
+OpSys-Windows
+type: game server request
+API Management
+component:IPython Console
+networking
+OS: windows
+🐧 Platform: Linux
+Proxy/VPN
+theme/networking
+arch-x86
+Mobile Theme
+spellcheck
+cat/dashboard
+PHP 8.x
+module: gpu
+api: database
+Component: API
+db: Oracle
+server-side
+browser
+user: looking for contributors
+Feature: API
+OS: Mac
+browser: FireFox
+JavaScript 项目
+MS/Windows
+Widget Visibility
+GoogleDataTransport
+Firmware: HLE
+topic: webpack/babel
+component/BrowserView
+tv-provider-account-needed
+html5
+Ready for Google
+GUI
+webassets
+SYSTEM: window management
+Platform-specific (Mac OS X)
+Category: Gameplay Content
+target:java
+developer experience
+tool: screengrab
+java
+Compute - VM
+area/apps
+os/macOS
+topic-walletstorage 💾
+Traffic & SEO
+A: data-sync
+AI Reply
+browser:chrome
+os/bsd
+os:linux
+tech debt
+<download>
+Partner:DotNet
+Developer Feature
+Component: Menu
+Java
+comp-joins
+OS-Darwin
+User-Side
+area: Modem
+component: GUI
+Area: App+Library Build
+Dependencies :robot:
+WebUI
+OS:Linux
+Theme Tools
+web-components
+node.js
+OS:macos
+in_zendesk
+Python
+A-Admin-API
+bolt server
+VideoPress
+plugins
+plugin
+bot: merge on green
+platform: Windows
+platform: STM32
+C: VTooltip
+function list
+server
+firmware
+provider: postgresql
+Solver: CP-SAT Solver
+OS-Windows
+os: windows
+e:macos
+dotnet-wcf/tech
+Icon Request
+api: analytics
+<search>
+HTML
+Network - Application Gateway
+updatebot
+feature: TOTP
+ps_emailalerts
+Hotlist-Chrome
+Package: @directus/app
+component: datagrid
+Project: Example App
+package:widget
+Render: OpenGL
+sdk: dotnet/sdk
+os:macOS
+GS: Hardware
+GraphML
+api: core
+Area: plugin
+Solver: Routing
+command: console
+OpSys-x64
+Open XML (Word 2007+)
+Product: Highcharts Dashboards
+Platform: ESP32
+Webviews
+API
+topic: authentication
+Component: Search
+insights-search-aggregation-4.0
+component/menu
+DB: MySQL
+iPad
+Filesystem
+feature: Hardware Keys
+Platform-specific (iOS)
+:bookmark_tabs: Information Architecture
+Driver: NVIDIA
+a: dashboard
+Project:Mobile
+apidocs
+browse data
+area: server
+Bug :spider:
+iOS
+OS: Linux
+Mac
+webpack-4
+os: ios
+desktop-access
+analytics
+openstack
+ios
+feature-kerberos-authentication
+API: mount
+in: kernel
+Jetpack Plugins
+component: os x / macos
+icons
+area: USB
+App Configuration
+emulators: storage
+in: SQL parse
+Platform: Linux
+Area:Plugin
+visual studio integration
+OpenSSL
+Mobile Request
+component: windows
+server-access
+<web-extensions>
+os-windows
+dependency:website
+Firmware: ArduPilot
+distro: Debian
+browser-add-on
+SEO & URLs
+component: icons
+@aws-cdk/cloudformation-include
+OS-macOS
+OS: linux
+QUERY PROCESSOR
+category:plugin api change
+Network - DNS
+Bug-AppCrash
+widgets
+dotnet-data/tech
+Component: Toggle
+platform-windows
+documentation :bookmark_tabs:
+api: storage
+browser:ios
+platform: windows
+Product:dotnet.exe
+ui: mobile
+App Services
+user-interface 🔲
+api issue
+net_tools
+office-integration
+developer-experience
+Cognitive - Text Analytics
+OS: macOS
+a: sql-server
+Functionality:ListPackage
+target:javascript
+device_model
+Docs: Content
+OS: MacOS X
+Yoast: Plugins integration
+SQL Server
+area: Networking Clients
+vs-hackathon
+tool: fastlane_core
+javascript
+apple_silicon
+Productcomments
+Ver: Autoware.AI
+GIF Support
+feature-terminal
+area: sql
+Functionality:SDK
+A-server
+module: apps
+OS:MacOS
+db: SQLServer
+component: configuration wizard
+🌐 reference browser
+plugin-netrw
+HCL-BotFrameworkEmulator
+Networking / adhoc
+browser: IE
+activerecord
+libraries
+Render: Direct3D 12
+IO SQL
+team-kernel
+api: functions
+cp:web-ui
+Feature: Processor/x86
+port-unix
+Real Devices
+component/BrowserWindow
+<firefox-accounts>
+AREA: server
+topic: render-mode
+area: Devicetree
+Feature: Processor/ARM
+<prompts>
+OS-windows 🪟
+Project:Accounts (in user apps)
+feature: SQL federation
+media playback
+Feature: GUI
+api: dynamiclinks
+SYS: Windows
+pkg/desktop-gui
+New plugin
+source: core:content-type-builder
+game: Minecraft
+3 Graph Visualization
+python bindings
+OS: Mac OS
+Category: Plugin
+Yoast: SEO Features
+techdebt
+macOS
+Search engine
+platform: android
+Multiplayer
+Platform-specific (Windows)
+Shopify
+Web
+i: npm cache
+language/java
+Help (please use the forum)
+🦊 browser specific
+webhooks
+web interface
+backend cpu
+console
+C: VFileInput
+OS-linux 🐧
+enable-device-build
+New: plugin
+app
+Zendesk
+Area: xamarin-android Build
+Project:Windows
+os-browser
+Jetpack App
+Software Request :cd:
+backend: Python
+
+Cluster 6 :
+Salt-SSH
+trigger
+Hook
+2-0-x
+shape inference
+input.postgis
+headliner
+ui/ux
+Tenet:Performance
+Up-for-grabs
+Unicode
+Status: Released
+comp-datetime
+NLL-complete
+qa
+needs:e2e
+HTTP2
+area/proc
+Priority:1
+solaris
+pr-backport
+Area: init
+E2
+idate/itime
+New
+Guess: A day or more
+❔Question
+purs ide
+New architecture
+effort1: hours
+records
+⁉️ question
+A - deps
+10-x-y
+iam
+json
+Sync
+type:intended
+A-edition-2021
+UX/UI
+mruby
+cat/template
+P2
+JITM
+segfault
+up-for-grabs
+21-x-y
+spec
+channel
+3 ArangoSearch
+Status: Awaiting Update :hourglass_flowing_sand:
+aws:cognito
+II Indic / Brahmic / Thai / Tai
+Topic: UI/UX
+3.e
+6.topic: qt/kde
+⌨️ code
+4.18
+Carthage
+P3: Important
+9.0
+A-ui-ux
+v ⬇️
+scaling
+story
+Waiting for QA
+12. first-time contribution
+S - font
+infra
+t: feature
+SYSTEM: runner
+A-rust-2018-preview
+component: frontend
+d2ai
+WG: stories
+P3
+A11yMediumImpact
+🔍 investigate
+hacktoberfest/contrib-2019
+cat/aws-iam
+Ajax
+Qt
+Priority - Medium
+⛑ TypeScript
+component: a11y
+Pack
+backport
+candidate
+meterpreter
+pr: dependencies
+3 - Done
+OS-android🤖
+weekly-report
+Trac
+Dao
+parsing.latex
+Stocks
+meili
+question_old
+DX
+backport-3.9
+S: Open for PR
+nw13
+type: FAQ
+A-Performance
+sso
+Carreira
+contrib-good-first-issue
+area: LWM2M
+size/small
+area: frontend
+aws:sqs
+3.x
+Priority 3
+Git
+PR please
+ui
+Impact-Medium
+A-Config
+ui / ux
+has-PR
+pie
+function: auth
+area-xaml
+2 Fixed
+4.11
+IM
+part: STM
+Targets:Sandstorm
+timeout (7 days)
+3 Cluster
+cla-already-signed
+APIChange
+wsl
+5-0-x
+React
+A-Invite
+preview
+A-headers
+dialect: postgres
+2. Collectors
+dialect: mysql
+Columns
+P3: When Possible
+7-1-x
+T-libs
+#M
+Component: i18n :abcd:
+activesupport
+font
+Kotlin
+jsii
+size-s
+tsh
+gsoc
+E2E Tests
+🕵🏻‍♀️ question
+3-0-x
+new language
+intermediate
+AAD
+FO
+win32
+new command
+vite
+php
+Frontend
+cat/dx
+sync
+LTS-PORTABLE
+On hold
+Frequency
+target:canary
+Type: Epic
+Priority 1: High
+with
+3 AQL
+size/S
+t:persistence
+feat / tok2vec
+P2: required
+area: jsonrpc
+Size: XS
+12.0
+area/gke
+PRs plz!
+3 Pregel
+mu
+Cell type: Numeric
+🤨 Difficulty: Medium
+area/infra
+feature: Secret Service
+Contrib
+r=6.0
+<pwa>
+i ⬇️
+Category: Future
+Priority 1
+Up-for-Grabs
+conda
+Go 项目
+netty
+Platform:Xplat
+pkg:notebook
+算法
+17-x-y
+book
+LDAP
+2.x
+wip
+type: major
+nuget
+feat / config
+smt
+A-runtime
+Type: New Feature :heavy_plus_sign:
+feat / nel
+WP Stories
+IDC
+exchange
+type: backport
+✨ feature
+postgresql
+type:infra
+perf / speed
+change
+Admin UI
+Pkg::AABB_tree
+Priority: 1 - Immediate :fire:
+repeat-contributor
+3.0
+feat / ner
+extension
+area: Kconfig
+Pillar
+🎲 intermittent-test
+已发布
+AakList
+i3-compat
+VarDumper
+3 Foxx
+WG: infra
+24-x-y
+iOS 13
+h2
+theme/consul
+dpd
+BC Break
+SSO
+state/reproduced
+kind: proposal
+E2E
+<state>
+question ❓
+Severity / Medium
+Translations
+pr:e2e
+Next-Iteration
+6.topic: xfce
+new-builder
+A-Sync
+2.2
+Pkg::PMP
+Up-For-Grabs
+7-3-x
+#S
+NSIS
+DNM
+P2: Soon
+core change
+pkg: core
+IQE
+S-Major
+A-grammar
+area/kubectl
+GSoC
+merged/21-x-y
+III VF Replacement
+new-data-source
+🔬 Research
+2.14
+French
+4.19
+rfc-697
+thor
+P2: Very Important
+target:major
+OpSys-Win7
+time-2
+i18n-tracker
+A-grpc
+area: Timer
+qa repro
+T-lang
+moved
+校对认领
+18-x-y
+ready for PR
+area/eks
+Area-FCS
+atom
+Period
+F Installer
+[Status] Proposal
+Perf
+component-tls13
+CANTFIX / UNCONFIRMED
+kotlin
+⚠️ wip
+6.topic: darwin
+-- Glyphset issue
+third party issue
+theme/acls
+IotHub
+types
+requires-nightly
+3.3
+P0
+Vuetify 3 - Phase 3
+Area/E2E Tests
+scope: frontend
+Appearance
+already-looked-at
+Question (JP usage)
+4.7.2
+maybe
+20-x-y
+hacktoberfest/contrib-2021
+High
+Back-end
+planned/3.19
+Milestone-1_6-RC2
+🌲 Project Trim 🌲
+topic: style
+comp-kafka
+3 Documentation
+in-tracker
+Dates
+S3
+spelling
+F Live Preview
+stage/1-reproduction
+Answered
+Guess: A few hours
+topic-pandas-like
+announcement
+F: Localization
+Pri3
+fast-track 🚅
+⛲️ feature
+EPIC
+aws:sns
+feat / ux
+translation
+Uncategorised
+topic: swift
+React Native
+A-inference
+Polish
+area: Flash
+3 Graph
+ES Spec Conformance
+attic
+wayland
+js
+⚙ feature
+c-q7j
+8-x-y
+Difficulty/3:Hard
+TODO
+dx-announce
+Pri0
+Dutch
+A-Metrics
+A-NLL
+squad:core
+A-Push
+up for grabs
+2.7.7
+I Request
+rfd
+area/ux
+postgres
+PD-503
+ux: warnings
+High Severity
+vue3
+severity-major
+blin
+severe
+backend: latex
+/Me
+new-cli
+v:future
+nw2
+Proposal-FinalCommentPeriod
+feat / textcat
+git
+3 Search
+Intl
+arch-wasm
+Reported
+claimed
+x11
+High Contrast
+2.16
+time-5
+a!-mark
+UWP
+sass
+port-esp8266
+PM ✔️
+security 🔒
+shasum
+📖 documentation
+topic-cftime
+RTL
+area/camel
+H - windows
+legacy
+Category-Other
+beta
+project/hf20
+smoke-testing
+Twig
+addition/proposal
+s3
+3.5
+PR: Dependency ⬆️
+0 - new
+9-x-y
+arch-arm32
+component: breadcrumbs
+indent
+EXT
+F: AngularJS
+WS
+ARM
+O-Frequent
+PostgreSQL
+stage1
+Vue
+forwardport
+Third-Party
+GDAL
+W3C
+home
+Severity3
+level 1 :grey_exclamation:
+type: new component
+idea
+syntax
+cloud/milestone-3
+go
+motion
+Video
+area:idempotency
+snap
+IoT/CLI
+A-frontend
+后端
+2 Solved
+T-weapp
+XCUITest
+aws:s3
+II CJK
+area: init
+IO
+BC break
+cat/variable
+LTA
+🔮 thinc
+1
+FREQUENCY: level 2
+ux: polish
+aws:lambda
+cef
+区块链
+13-x-y
+3 Build
+OE
+P0: Critical
+service/elb
+Team
+Priority 2
+fb-exported
+Pkg::Scripts
+wish
+area:cli
+new syntax
+Needs-UX
+Language Change
+ACS
+FW 3.9.0 Beta
+Component: Auth
+wpf
+feat / matcher
+theme/consul-terraform-sync
+TE
+feature: KeeShare
+A11yMAS
+middle-end
+effort/large
+3rd party  issue
+WIP
+area: ADC
+Wayland
+Tenet:WorldReady
+3 JS API
+MLD
+loc
+ASSIGNED
+service/lambda
+timeline
+Product: Highcharts Stock
+V-3
+motioneyeos
+severity: 3 (broken)
+pkg: traverse
+PR: types
+has-pr
+OldVersionOnly
+📦 bundle size
+DNT policy
+T-types
+mobile
+QA ✔️
+ca-derivations
+UIAutomator2
+pages
+glTF2.0
+ace
+dhall
+new-contributor
+sized types
+publishing
+and-ui
+resolution: tracked by a11y
+Lua
+Hotlist-Release
+发布
+New Definition
+state: WIP
+Qt ✨
+sunset-extensions
+type: ci
+O-Arm
+A-Messages-Endpoint
+polish
+area/auth
+S-feature
+Cosmos
+ci:e2e
+arch-wasm32
+phishing 🎣
+Dedicated
+[Pri] Medium
+O-windows
+area/ssh
+1x-backport:completed
+ci
+Wish
+area: Shell
+1x-backport:n/a
+needs:gv
+backport-candidate
+PA-openapi-2-kong
+Area: NVDA
+strings
+Translation
+Windows
+cat/packaging
+depfu
+🎰 how to use
+📌 pinned
+area/addons
+migration
+ocamldoc
+--- Live
+GS
+Package: date-time
+eta
+Yaml
+Component: ContextualMenu
+language:D
+Topwatchers
+project/v9
+Mgmt
+Area-FSI
+quarto
+torch
+area: POSIX
+Could Close
+future
+Type: new-feature
+Status-0_Idea
+🗂 Types
+planned
+Release
+II Commissioned
+native shell
+pinned
+Category: Frontend
+Impact-High
+theme/envoy/xds
+Import Started
+Area - Extension
+rstudioapi
+D-papercut
+Signup
+service/s3
+merged/26-x-y
+type: long-term
+3 Geo
+8.has: package (new)
+third-party
+GIF
+DS - Wayland
+area/ci
+area/tekton
+📝 documentation
+symbolizers
+Priority:3
+WinUI3
+状态_已解决
+Timeseries
+Migrated
+PR: next
+CMake
+X9D
+feat / tagger
+13.0
+22-x-y
+new quest
+component-x509
+new-libs
+metrics
+Atomic
+solcbin
+entry-preview
+OTI
+26-x-y
+Cognito
+Type: Epic :call_me_hand:
+pkg: preset-env
+port-stm32
+New contributor
+Q for ourselves
+Mailer
+WSL
+TS
+Posts List
+4.13
+series
+ReleaseCandidate
+sg
+package:theme-lark
+P1
+odin
+3 Core
+! Feature
+early-in-cycle
+responded
+WG-Language
+type: performance 🏃‍♀️
+🤔 Need Reproduce
+AWS
+category/ux
+Russian
+UI
+GSoD
+Priority:2
+cognito
+Pkg::BGL
+[Pri] BLOCKER
+前端
+theme/dns
+component: i18n
+Next
+estimate/1d
+to-be-backported
+unicode
+area: asf
+area: West
+WONTFIX
+language
+planned/3.15
+J3 Issue
+Cabal: other
+size: xs
+size: M
+Prepublishing Nudges
+area: extensions
+planned/3.16
+theme/tls
+extensions
+cinfra
+category:new feature
+Tracks
+hasPR
+scope: angular
+2.0
+ci/flake
+physics
+category/dx
+II Submission
+convention
+target:go
+Estimation - 1 (XS)
+Auth
+t:io
+Vulkan
+UI/UX
+SDL2
+Blaze
+Feature: Want this? Upvote it!
+IN
+19-x-y
+状态_重复
+backport-3.8
+How do I
+Numerics
+★
+🌙 nightly
+ldf
+Backport
+A-edition-2018-lints
+cla: yes
+2.1
+faq-able!
+yoast cs/qa
+imported
+Milestone-Planned
+port-nrf
+Miscellaneous
+✶ breaking
+rfe
+HR
+lambda
+S2
+2 - In Progress
+[Dúvida]
+PR: Needs +2
+pr submitted
+target: master & n-1
+Selenium
+Pkg::Mesh_3
+electron
+🐉 Fenix
+Pkg::Number_types
+CMake scripts
+Epic
+Type: Breaking
+new exchange
+stage/tracked
+new collector
+ORM
+runtime
+new-module
+feature-iis
+6-0-x
+component: date-picker
+a-comments
+topic: video 📹
+CI
+extmod
+LanguageChange
+(S2 - Confirmed)
+area: backend
+theme/auth
+Portuguese
+6-1-x
+Wording ✔️
+[Focus] i18n
+Timedelta
+category/front-end
+NLL-sound
+preset
+language/de
+机器学习
+Future
+2.3
+epic
+Types
+Category-I18N
+t:core
+3 Optimizer
+ie
+ux: display
+XF
+area/gitlab
+A-libtest
+depency ⬆️
+Stretch
+planned/3.20
+swift
+Major
+flakes
+D3D9
+E8
+Mobile
+III Expand styles
+Stats
+23-x-y
+spike
+ntheory
+jQuery
+Glimmer2
+Migrations
+new-resource
+has PR
+pkgsite
+size/L
+International
+🛰️ federation
+ticket
+time-3
+waiting for ci
+area: jsx
+⚑ cross platform
+Severity: 3
+language/fr
+kind/ux
+CLA Signed
+2.9.x
+component: premium
+Feature: Progress
+feature:AR
+P3: important
+Language
+Front-end
+cat/deployment
+FAQ
+backend
+Languages
+Pkg::Triangulation_2
+sets
+Algos
+domain:dx
+Main
+Release Notes
+Responded
+:racehorse: performance
+PGF / sceFont
+domain:ui/ux
+Priority: Medium
+size/XXL
+FBX
+Please! ♥︎
+area/bpf
+front-end
+topic: shadow
+Pathfinding
+area: SPI
+New Command(s)
+A-unicode
+type/ci
+Categorical
+intro
+A-ffi
+severity: major
+Messenger
+P1: High Priority
+area: PWM
+T: feature
+area: perf
+area/tls
+type: new option
+area: cli
+IO JSON
+cef3
+Product:NuGet.exe
+area: DHT
+Suggested
+AKS
+i18n
+BACKPORTED
+NUX
+Releases
+CI 🤖
+3 ImportExport
+stats
+d2:moderate
+翻译完成
+Fuzzer
+25-x-y
+topic: frontend
+Dune 2000
+English
+arch-arm
+💡idea
+Order
+Haskell
+B - performance
+lightning ⚡
+level: 1
+area: next
+Previews
+bonitoo
+area-VM
+A11yCT
+needs-ci
+New Layer
+todo
+ux: ready
+OKR3.2 Candidate
+3
+Cell type: Date
+cat/lambda
+产品
+hacktoberfest/contrib-2020
+RPi
+npm
+3.0 spec support
+Component: Breadcrumb
+14-x-y
+needs-fcp
+component: NewGRF
+问题标注
+3: Medium complexity
+Priority: 2 - High :cold_sweat:
+WPF
+RTFM
+backport/requested 🗳
+7.x
+7-0-x
+待验证
+c-sn
+A-simd
+feature: translation/i18n
+severity/mid
+string
+area: native port
+Angular
+Difficulty-­2_Medium
+¯\_(ツ)_/¯
+colorbar
+Estimation - 3 (M)
+11-x-y
+cross
+SFrame
+Strings
+type: feature :tada:
+C: DateTimePicker
+A-impl-trait
+area: Other
+dart
+🧪 has-tests
+UX
+II Accepted
+st-hold
+frontend
+Priority: 3 - Medium :unamused:
+Salt-Cloud
+A-lifetimes
+area/frontend
+Package: vue
+Category: UX
+breaking
+Team Fortress Classic
+appium core
+topic: DX
+Moving
+II Arabic / Hebrew / Semitic / RTL
+topic: flake ❄️
+申请译者
+Backend
+size: L
+3 API
+platform: nRF
+Oops
+speech
+code-gen
+rtl
+3.1
+area: NIOS2
+A-io
+verbs :running_woman:
+ThirdParty
+CLA signed
+恶意issue
+FIM
+ssh
+需求
+3rd_party
+qt
+lang:angular
+🤝Welcome PR
+qtwebengine
+next
+⚑ perf
+In Progress
+size-xs
+BLOCKER
+Infrastructure: i18n
+final-comment-period
+SR300
+stage: fire watch
+type: new rule
+generalize
+IoT
+planned/3.18
+Salt-API
+🛬 needs landing
+1 - Ready
+12-x-y
+size/XS
+sentry
+3 UI
+bpf
+Squirrel.Windows
+I New Font
+ARMv6
+ERRATA
+first-timers-only
+RFR
+vscode-extension
+📱mobile
+faq
+Difficulty/2:Medium
+Unlisted Change
+must have eventually
+Must-have
+Pri2
+host/darwin
+packs
+3 Metrics
+resolution:NoResponse
+topic: canvas
+type:ci
+feature: ui/ux
+Priority/High
+yellowlist
+third party
+service/firehose
+later
+dotnet-fsharp/prod
+@clr/angular
+v-3.x
+8.x
+type: other
+Plans
+stage: proposal 💡
+❔ question
+area/activemq
+ES6
+okhttp
+language/dotnet
+A-Federation
+T: Feature
+Style
+T-Other
+3 Index
+AakScript
+esnext
+🏗️ build
+Milestone-1_5-Final
+part: ssreflect
+t:http
+size/XL
+PR: author's turn
+Red Alert
+D-terse
+Pages
+ux
+7-2-x
+2
+effort2: days
+WG: runtime
+TK
+Estimation - 2 (S)
+pr/dependency
+needs: backport
+1day
+O-wasm
+9 WIP
+🔧 setup issue
+E3
+User Experience (UX)
+platform: NXP
+mqtt
+date-picker
+Has PR
+area: I2C
+wcag/2.1
+translations
+Severity: 2
+back-end
+make
+api: auth
+Syft
+crud-ui
+language/ja
+Nested rows
+instance
+must have
+Waiting for PM
+g3: reported
+Soon
+UI change
+aws
+area/fox
+UX ✔️
+Polling
+设计
+A-syntaxext
+migrations
+🌟 feature
+Category-EclipsePlugin
+t:model
+new
+Beta
+activejob
+post3x
+Keep
+addressed
+2 - pick next
+8.has: module (new)
+rule
+new contributor
+auth
+language:vala
+DS - X11
+fuzz
+c# 7
+area/lighthouse
+Resolution-Answered
+new-pr 🌱
+JRuby
+ldap
+其它
+answered
+🎨 ui
+Core: Walkontable
+Build: CMake
+T-Task
+cuIO
+creds
+pkg/reporter
+1: PM Review
+iot
+provisioner/salt
+X11
+Releasing
+Extensions
+perf
+team-apex
+agent
+area: linq
+ready
+IPython
+3 RocksDB
+III Expand glyphset
+不接纳
+a11y
+VSF1
+QA
+ha
+文档
+arch
+channel:rail
+target:swift
+picked
+TSC
+area: ARC
+new rule
+2.15
+wbx
+💸 caching
+area: Xtensa
+🤔 Thoughts?
+size: S
+hornet
+Tiled Gallery
+time-to-value
+A-core
+文章推荐
+effort3: weeks
+c-ib
+恶意 issue
+Timezones
+type: todo 💚
+size-m
+S: has PR
+Select
+area/runner
+FREQUENCY: level 1
+frontend-platform
+I/O
+3-1-x
+3.2
+reviewed once
+insights-beta-3.31
+cat/telemetry
+重要
+how-to
+cmake
+on-hold
+st:review
+AMP
+module: octree
+ux: interaction
+d ⬆️
+CO
+area/aclk
+NoResultsView
+type: demos
+native
+cat/dependency
+part: CoqIDE
+finished-final-comment-period
+⚛️ React-related
+D3D11
+universe
+APPLETS
+language/ko
+Size: S
+Preview
+l500
+nitro
+on hold
+ONNX
+area/kata-qa
+epic/flux
+Tiberian Sun
+Apache
+Approved by qa
+MMU2S
+Resolution:NotRepro
+<=(- UBO -)=>
+termux
+area: i18n
+Category-JRE
+[Pri] High
+1x-backport:pending
+AtD
+wip ⚒
+funded on issuehunt :dollar:
+size/M
+Combinations
+area/kubelet
+should have
+area/dap
+⌨️ Input
+level: 2
+T260 series
+type/flake
+lsif
+ux: installation
+Build and CI
+major
+cla signed
+NTI
+cef1
+Ready
+New: theme
+A-const-fn
+<push>
+VR
+backported
+msfconsole
+Java 项目
+T-infra
+@aws-cdk/aws-iam
+Pinned
+backend amd
+game: Rust
+TIMEOUT
+UI / UX
+planned/3.17
+GFI Candidate
+3rd party issue
+Guess: 2 hours
+Jessie
+ocamlbuild
+dx
+type: wish
+topic-zarr
+3 Packaging
+V3
+F-react
+physics.units
+cla:yes
+Spanish
+joins
+distro: CentOS
+planned/3.13
+2.13
+其他
+known-issue
+nsis
+Component: Calendar
+O-Occasional
+service/waf
+beginning-contributor
+Backend Related
+Tiberian Dawn
+E1
+Size: M
+windows
+Pkg::Triangulation_3
+t:client
+Status: Available :wave:
+Import / Export
+WordAds
+JVM
+P2: Important
+功能增强
+Photon
+F-vue2
+fwrite
+A-SSO
+Component: DatePicker
+Priority-Medium
+pkg: types
+Batch
+
+Cluster 7 :
+kind: compile error
+error message
+bug/severity:minor
+__do-not-use__/fabric8
+STATE: Stale
+t2:defect
+user error
+2 Out Of Date
+Area:ErrorHandling
+do not merge
+Incomplete
+:watch: Not Triaged
+NotPassengerIssue
+no-backport
+Fill issue form or you will be REJECTED
+effort-tiny
+__do-not-use__/wiki
+P-low
+Ignore changelog :mute:
+not-enough-information
+Changelog/Not Needed
+resolution:Duplicate
+hidden arguments
+not-our-bug
+error handling
+language:rust
+build-failure
+PR postponed
+Not a Bug
+Stalled
+slow code import
+no QC knowledge needed
+Error Handling
+severity-minor
+A-spurious
+Small
+[Status] Not Ready for Review
+re: error-message
+cant reproduce
+分类_bug
+notimpl
+small feature
+ux: error reporting
+Rejected
+type: trivial
+z_Noto
+Test-Failures
+Stale No Activity 60 Days
+Dark mode
+Closed: Duplicate
+api: inappmessaging
+pr/no-squash
+Unfortunate
+docs-not-required
+irrelevance
+bug: crash
+Status: Stale :bread:
+Resolution: Not An Issue
+declined :no_entry_sign:
+Shortcodes / Embeds
+Hiding
+P: low
+t: problem
+DO_NOT_MERGE
+incomplete info
+Status: Duplicate
+not following template
+trivial
+rust
+resolution:NotSpyder
+state:not-testable
+Minor Bug
+miscompilation
+resolution: can't reproduce
+needs info :mailbox_with_no_mail:
+Error Reporting
+Status: Inactive
+Priority-Low
+System or Player Issue (Not HB)
+template missing/incomplete
+P - low
+topic:offline
+PR: Unaddressed comment(s)
+question (please use Discord instead)
+* NO MERGE *
+Issue: Not a bug
+*out-of-scope
+broken site
+severity: low
+-- missing sources
+No Activity
+Not Suitable
+no update
+F - insufficent detail
+Type: Not a bug
+Works for me / Can't reproduce
+Status:Inactive
+Minor
+Test instructions missing
+P4: minor
+pr-not-for-changelog
+Standalone
+Lazy Images
+p-low
+error-handling
+type: minor
+binary
+False positive
+Low Hanging Fruit
+termination
+poor-formatting
+type: error message
+S-Minor
+broken-IE
+semver/none
+do not merge yet
+DO NOT MERGE
+geo-restricted
+Status: Can't reproduce
+problem
+DO-NOT-MERGE
+STATE: Duplicate
+cant-reproduce
+low effort
+dark mode
+limits
+resolution: not core
+size: small
+auto update failing
+Status: No Recent Activity
+CLOSE IF NO RESPONSE
+missing information
+consider closing
+Resolution: Duplicate
+S1: Confusing
+PR not qualified
+syntax: less
+Dropping Python 2
+test: flaky
+I-slow
+feature: insufficient votes
+NonCommutative
+rejected
+effort: low
+minor
+Notifier
+Shortcoming
+:heavy_check_mark: Resolution: Won't Fix
+P0: Drop Everything
+pr/no-changelog
+has-failing-test
+loc: wrong translation
+abstract
+orphaned
+Do not merge
+cannot reproduce or not an issue
+broken-link
+No details provided
+not reproducible
+area: errors
+Priority: Low
+F - not a bug
+failed
+Resolution: not our issue
+severity/low
+[Status] DO NOT MERGE
+Incompatible
+error-msg
+out of scope
+severity:trivial
+B-unstable
+FrozenDueToAge
+D-confusing
+not a bug
+Resolution:NotABug
+No Feedback / Outdated?
+single-reviewer
+bug_somewhere_else
+flaky
+error better
+Type-Defect
+[Type] Novice
+lifecycle/rotten
+2 Won't Fix
+T: bug
+S2: Inconvenient
+kind: anomaly
+numba
+5 - DO NOT MERGE
+test-only
+do-not-merge/hold
+Stale
+resolution:expired
+severity-low
+Duplicate Report
+pr-change-not-shipping
+1 Question
+uncaught-exception
+Status:Excluded from icebox cleanup
+[Pri] Low
+closing-soon
+cla-not-required
+Status: Stale
+Online only
+changelog: non-user-facing
+disabled-test
+Win only
+package:restricted-editing
+Resolution:Duplicate
+Linux only
+S4: Broken
+build-error
+Not Ready for Merge
+probably-wont-happen
+not-bug
+Severity: 3 - Medium :unamused:
+frozen-due-to-age
+missing MCVE
+Inactive
+suspended
+skip-public-jenkins
+Status: Do Not Merge 🚫
+low impact
+Not Reproducible
+Impact:few
+T: Bug
+Outdated
+INVALID
+declined
+not-an-issue
+PR: unreviewed
+Trivial
+Low Severity
+t: bug
+CannotReproduce
+Unowned
+expired
+do not land
+Priority - Low
+T-Defect
+severity: inconvenient
+Resolution: Won't Fix
+Wrong Result
+Bug-FalsePositive
+[Status] Stale
+Not a DietPi issue
+Defect
+API: shallow
+Type: Defect
+:moon: Out of scope
+freq1: low
+error-message
+Do Not Merge
+unstable option
+browser-bug
+Resolution-Duplicate
+closing soon
+not reproducible / bug report
+effort-low
+dco/no
+Cannot Reproduce
+PR: CI-not-ok
+remote
+effort/small
+Priority-1_Little Interest
+inactive
+notebooks
+cloud
+reject
+difficulty: 1️⃣
+missing-log
+semver/minor
+effort: 1- tiny
+low hanging fruit
+memory leak
+not-supported
+Resolution: Stale
+severity: trivial
+severity: minor
+Evil
+pr/no-metrics-test
+browser bug
+Impact-Low
+unable to reproduce
+not-notes-worthy
+do-not-close
+not-in-changelog
+Resolution-Won't Fix
+Low
+SEV: Low
+inactive-30d
+feature: shadow
+cannot-reproduce
+Uncategorized problem report
+pr-no-backport
+Missing Tests
+stress
+Severity / Minor
+😴 orphan
+impact/low
+Status: Won't Fix
+NO FIDDLE/REPRO
+only-with-option
+Resolution: Can't Repro
+wrong-repo
+filter issue
+do-not-merge
+Reason: Won't support
+API:REST
+B - missing feature
+S-inactive
+Won't Fix
+non issue
+Issue Stale (automatic label)
+on hold / maybe wont
+Do Not Merge ⛔️
+low
+pr-not-reviewed
+semver: minor
+under-discussion
+DNS Spoofing (Tampering)
+Tests/Not Needed
+no-repro
+Condition Zero
+wont-backport
+skip news
+1 Bug
+NOT READY FOR MERGE
+Priority 3: Low
+changelog:skip
+PR: small
+CherryPickApproved
+OBSOLETE
+Undecided
+dunno
+can't reproduce
+false
+Resolution: Declined
+No Template
+Wont Fix
+storm
+inactive-90d
+cla: no
+PR: non-main
+no-docs-needed
+not enough info
+not follow template
+Low Impact
+Unit Test Failed
+O-Uncommon
+Unstable (example)
+error-messages
+Changelog-Missing
+Status-Duplicate
+test-failure
+0 - Backlog
+Area - Null Handling
+Resolution: Cannot Reproduce
+Unable to replicate :coffee:
+Missing-data
+[Type] Broken Window
+__do-not-use__/osgi
+likelihood/low
+__do-not-use__/kubernetes
+__do-not-use__/core
+target:minor
+I-unsound
+Sparse
+not-a-bug
+Unimplemented
+assumptions
+Resolution: Obsolete
+skip-all-tests
+incomplete
+severity:minor
+topic-error reporting
+Reason: Duplicate
+info: no example attached
+small
+pr/do-not-merge
+defect
+Docs/Not Needed
+no-response
+hotlist: error messages
+cannot reproduce
+t:bug
+type:defect
+secrets
+💥 crash
+do not test
+Low Priority
+No Code Attached Yet
+Can't reproduce
+severity: 4 (inconvenient)
+Deleted
+Type: Undecided
+security vulnerability
+__do-not-use__/jmx
+

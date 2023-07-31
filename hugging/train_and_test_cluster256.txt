@@ -1,0 +1,7077 @@
+Cluster 0 :
+users
+user experience
+user preferences
+Share with users
+consumer
+user: looking for contributors
+type: user experience
+User Experience
+
+Cluster 1 :
+scope:bootstrap
+sig/scalability
+Product: Highcharts Gantt
+Product: Highcharts Maps
+ExpertNeeded
+topic: swift
+closable
+Product: Highcharts
+Product: Highcharts Stock
+Fluent UI react (v8)
+4: Reviews Complete
+PR: Spec Compliance :eyeglasses:
+Feature: Want this? Upvote it!
+faq-able!
+Priority: 2 - High :cold_sweat:
+Hotlist-Chrome
+Package: fluent-theme
+target:swift
+s3:detailed
+Rich Notifications
+
+Cluster 2 :
+Brands
+Demo Programs
+VoiceOver
+topic: custom elements
+<customtabs>
+internals
+internal-issue-created
+domain: internal
+Alias
+Status-0_Idea
+CGAL 3D demo
+for: internal contributor
+stage: internal
+internal
+PR: Internal
+Topic: alias
+category:internal
+Customized
+Type: Demo needed
+intro
+customization
+command: mods
+Compilation
+compilation
+Internals
+needs: demo
+Package: remix
+Status: Internal
+type: demos
+Custom Content Types
+Custom CSS
+
+Cluster 3 :
+Priority-9_Showstopper
+Carthage
+9.0
+backport-3.9
+topic: popover
+pie
+dialect: postgres
+php
+postgresql
+Pri-Critical
+OS-Plan9
+9 Review Required
+Pri0
+postgres
+Proposal-FinalCommentPeriod
+PostgreSQL
+FW 3.9.0 Beta
+theme/consul-terraform-sync
+project/v9
+X9D
+[Pri] BLOCKER
+topic: history
+PHP 8.x
+final-comment-period
+9 WIP
+rfc-619
+Tiberian Sun
+Tiberian Dawn
+
+Cluster 4 :
+t2:defect
+build-failure
+A-spurious
+Unfortunate
+irrelevance
+rust
+miscompilation
+broken site
+F - insufficent detail
+False positive
+broken-IE
+type: unexpected behavior
+S1: Confusing
+Shortcoming
+orphaned
+broken-link
+B-unstable
+D-confusing
+Type-Defect
+lifecycle/rotten
+S2: Inconvenient
+kind: anomaly
+risk
+T-Defect
+severity: inconvenient
+Wrong Result
+Defect
+Type: Defect
+unstable option
+memory leak
+Evil
+unexpected behaviour
+storm
+O-Uncommon
+Unstable (example)
+[Type] Broken Window
+assumptions
+defect
+type:defect
+security vulnerability
+
+Cluster 5 :
+NeedsInvestigation
+needs documentation
+PR: Conceptual concerns
+Pending contributor action
+clarification-needed
+needs requirements
+needs example
+needs-input
+needs-team-attention
+NeedsDecision
+Status: Response Needed
+requires-configuration
+needs sandbox
+INTENT TO IMPLEMENT
+specification required
+Documentation Required
+Need sample stream
+needs_template
+Contribution Needed
+QA Needed
+needs response
+account-needed
+Needs Specs
+needs-issue-template
+needs followup
+need: description
+Submitter Attention Required
+REQUIREMENT
+locale approval needed
+needs implementer interest
+Needs Submitter Response
+Needs documentation
+
+Cluster 6 :
+A-codegen
+component: snippet editor
+Category-Compiler
+compilers
+I-compiletime
+Project:Isobuild:Performance
+new-compilers
+api: crashlytics
+Code Cleanup
+Machine Learning
+ascode
+:memo: WYSIWYG Editor
+compiler/runtime
+J4 Backend Template
+sample-code
+Spec: Class Fields
+codegen
+Schema Generation
+I-compilemem
+product: VSCode
+code cleanup
+Template Processor
+Code cleanup
+input/pointer
+compiler-driver
+Project:Isobuild:Minifiers
+ruby-compat
+js runtime
+topic:codegen
+Component: TeachingBubble
+T-compiler
+bug:retest
+compiler-issue
+Area-Compiler-CodeGen
+Area-Compiler-Checking
+pkg:codeeditor
+component: schema (JSON+LD)
+SYSTEM: compiler
+programming
+Code Refactor
+Project:Isobuild
+user-code-execution
+Feature: Embedded Template
+CZI: Codegen
+Generated Code
+templates
+needs code sample
+
+Cluster 7 :
+test-reliability
+Unit/System Tests
+3 - Testing
+component-test
+unit testing
+Package: experiments
+[Status] Tested on WP.com
+calibration
+Component-Tests
+Maintainers Checked
+WG-Quality-Test
+pr-linter/cli-integ-tested
+t:replicated-event-sourcing
+run-mmp-tests
+Unit Tests
+wcag/2.1/auditing
+ci/integration-test-gcp-ok
+cabal-install: cmd/check
+A: experiments
+
+Cluster 8 :
+contribution:core
+t:http:core
+c:core
+maintable
+core.sympify
+grid-core
+Core Data
+Category: Core related
+contribution/core
+squad:core
+legacy
+area-Infrastructure-coreclr
+core feature
+core work
+Core
+in: core
+py-core
+support:core
+Core: Handsontable
+component:core
+scope: core
+area/core
+core workflows
+area/Nacos Core
+Core: Alignment / height / width
+t:core
+Area: core
+topic: core
+a: core
+api: core
+Core Team
+package:core
+area: core
+command:core
+Package: Core
+A-core
+core
+Azure.Core
+source: core:strapi
+Category: Core
+
+Cluster 9 :
+Alerting :bell:
+Component: Dialog
+Component: MessageBar
+ux: warnings
+Blogging Reminders
+Calling
+Component: Notifications
+info: alerts
+component: notifications
+alerting
+command: monitor
+Notifications
+topic: dialog
+warnings
+
+Cluster 10 :
+shape inference
+geometry
+area: gps
+needs: analysis
+Doc: Optimization Site
+Need Reproduce :telescope:
+Beta Request
+optimization
+Type: Regression
+Type / Optimization
+estimate/2d
+need to optimize
+atn-analysis
+Feature: Analysis
+component:Profiler
+Schema Introspection
+beta
+Solver
+Dynamics
+Software Rasterizer
+optimize
+Optimization
+functions
+optimizer
+navigation
+functions.elementary.piecewise
+type: optimize
+Analysis
+Functions
+dynamic analysis
+Schema Comparison
+topic: navigation
+Beta
+ergonomics
+MapServer
+Functional Review
+solvers
+
+Cluster 11 :
+Type: Feature Request :sparkles:
+:gift: Rewarded on Issuehunt
+innovation
+light
+rewarded on issuehunt :gift:
+simulation enhancement
+awaiting review :sparkle:
+enhancement :sparkles:
+<awesomebar>
+positivity
+shiny
+helps: Spark
+Type: Enhancement :bulb:
+Yoast: SEO Features
+boost
+
+Cluster 12 :
+4.x candidate
+4 - Needs cuIO Reviewer
+4.17
+4.18
+4.x
+MJML 4
+OKR3.4 Candidate
+4.11
+4.0
+Priority-4_Some Interest
+4.15
+travis
+4.19
+4.4
+area: T4
+cloud/milestone-4
+S4
+estimate/4d
+d435i
+403/451
+4.20
+4.12
+G2 4.0
+4.13
+S4: Broken
+4.14
+4.3
+P4
+J4 Issue
+Milestone-1_4-RC
+4.1
+3.4
+4-2-x
+Travis
+4.2
+4.16
+4.10
+4 Windows
+Milestone-1_4-RC2
+severity: 4 (inconvenient)
+
+Cluster 13 :
+Indexing
+Component: DetailsList
+Information
+description page
+overviews
+topic: browsing context
+mp
+registry
+topic-indexing
+knowledge base
+informational
+Account
+topic: media
+command: details
+database
+Addresses
+Information :information_source:
+Media
+Event Hubs
+Gathering Info
+EventDispatcher
+Activity Log
+Plans & Checkout
+roadmap
+topic: events
+information
+access
+:bookmark_tabs: Information Architecture
+Feature: Item Details Popup
+Groupby
+component: indexables
+Checkout
+Database
+
+Cluster 14 :
+S-waiting-on-review
+Awaiting Response
+waiting for clarification
+waiting-on-reporter
+Awaiting Submitter Action
+Waiting for QA
+Awaiting for response
+A-async-await
+pending-close-response-required
+👀 Awaiting Response
+stage: awaiting response
+Waiting for response
+state: awaiting PR
+pending-approval
+Waiting User Reply
+PendingFeedback
+Waiting for issuer
+s1:awaiting input
+Awaiting Reply
+WaitingForCustomer
+waiting-for-answer
+ready-to-ship
+9 Waiting for Jenkins
+waiting-response
+pending-response
+waiting-for-response
+waiting-for-info
+pending_action
+Waiting info
+WaitingForInfo
+🏓 awaiting-team-response
+waiting for contributor
+S-waiting-on-team
+waiting
+Waiting for wording
+S: Pending Release
+S-waiting-on-bors
+pending / waiting
+waitingOnResponse
+Pending Next Release
+waiting for more input
+waiting for response
+waiting for information
+waiting-for-clarification
+Pending
+Awaiting Information
+awaiting response
+stat:awaiting response
+waiting for answer
+pending
+Waiting for rebase
+waiting for user action
+Awaiting input
+waiting for objections
+awaiting-response 💤
+Status: Waiting for answer
+
+Cluster 15 :
+doc
+DRM
+in: docs
+type: doc
+needs doc
+type: docs
+docs-not-required
+t:docs
+type:docs
+Docs Issue
+Docs
+area: docs
+current docs
+Docs/Done
+Category: Doc
+Type:Docs
+AREA: docs
+A-Docs
+docs-experience
+needs-docs
+scope: docs
+CL-Docs
+BETTER DOC
+A-docs
+📚 docs
+docs-completed
+docs-required
+area/docs
+docs
+Doc
+docs-needed
+docs-pr-required
+historical docs
+doc-provided
+Docs/Not Needed
+i: docs
+S - docs
+
+Cluster 16 :
+bug/severity:minor
+effort-tiny
+P-low
+slow code import
+severity-minor
+Small
+small feature
+type: trivial
+size/small
+Dark mode
+P: low
+trivial
+snack
+Priority-Low
+P - low
+severity: low
+Minor
+P4: minor
+Lazy Images
+p-low
+type: minor
+Low Hanging Fruit
+S-Minor
+low effort
+dark mode
+size: small
+syntax: less
+I-slow
+effort: low
+minor
+Priority: Low
+severity/low
+severity:trivial
+severity-low
+[Pri] Low
+low impact
+Impact:few
+Trivial
+Low Severity
+Priority - Low
+API: shallow
+freq1: low
+effort-low
+I Small Fix
+effort/small
+effort: 1- tiny
+low hanging fruit
+area/introspection
+severity: trivial
+severity: minor
+Impact-Low
+Low
+SEV: Low
+Severity / Minor
+impact/low
+API:REST
+low
+Priority 3: Low
+PR: small
+Low Impact
+likelihood/low
+target:minor
+Sparse
+severity:minor
+small
+Low Priority
+
+Cluster 17 :
+OS-OpenBSD
+openoffice/libreoffice
+OS-FreeBSD
+download
+🔮 Renderer (WebGL)
+opencv
+Packaging/Debian
+OpenGL
+Done - Download from GitHub (see docs for how)
+FreeBSD
+opengl
+OS-NetBSD
+desktop
+openCypher
+os-freebsd
+os/bsd
+<download>
+bot: merge on green
+Render: OpenGL
+Open XML (Word 2007+)
+desktop-access
+OpenSSL
+distro: Debian
+
+Cluster 18 :
+component: gutenberg
+APIChange
+Area-LangService-API
+Tom's Wishlist
+A-miri
+GoogleUtilities
+area: API
+area: Kernel
+terraform-deployment-examples
+@appium/docutils
+asset pipeline
+utilities.lambdify
+area/gitlab
+federated-store
+Haskell
+area:api
+appium core
+Area-LangService-AutoComplete
+Gutenberg
+area: api
+
+Cluster 19 :
+分类_bug
+🛑 bug
+bug-hunt
+and-bugs
+bug 🐞
+type: bug 🐞
+bugs life
+🐛 Type: Bug
+bugs
+Bug 🐞
+🐞 bug
+🐛 bug
+
+Cluster 20 :
+ag-grid engaged
+meterpreter
+A: templating
+scheduler
+Area - Data & Transform
+tool: action
+integrals.transforms
+Input
+input
+Synapse
+Feature: Loadout Optimizer
+submodules
+converters
+S - input
+Event Grid
+Category: Controller
+Process
+Input/Controller
+area/ansible
+runtime
+Output-Formatting
+area: router
+Product:VS.Oe
+inputs
+vector
+Output
+integrals.manualintegrate
+area/circuits
+processing
+area: Counter
+comp-optimizers
+area: Process
+
+Cluster 21 :
+Needs More Info :man_shrugging:
+pr-linter/exempt-integ-test
+backport-check-skip
+pr-linter/exempt-test
+pr/no-squash
+greenkeeper
+Status: Stale :bread:
+Shortcodes / Embeds
+bot:chronographer:skip
+Cart rules
+skip-change-log
+pr-linter/exemption-requested
+noresponsefromsubmitter
+keep-service-tests-green
+Outside of DietPi scripts
+stage/merge-when-tests-green
+test-only
+issue template not followed: read posting rules...
+package:restricted-editing
+skip-public-jenkins
+Greenkeeper
+filter-control
+A-borrow-checker
+Product:VS.PMConsole
+filter issue
+pr-linter/exempt-readme
+
+Cluster 22 :
+CXP Attention
+Azure CLI Team
+hcc/cst
+part: coqdoc
+team-clg
+component/cli
+cla-already-signed
+CLA
+area/cli
+squad:ccx
+cncf-cla: yes
+CLI/RPC ▶
+scope: cli-service serve
+src-cli
+imported-into-CL
+cncf-cla: no
+component:cli
+IoT/CLI
+area:cli
+CL-CodeCleanup
+feat / cli
+@clr/ui
+Authorization-cli
+cla-signed
+feature: CLI
+scope: cli
+cla: yes
+topic: cli
+CL-Test
+CLA Signed
+Functions-cli
+CLI
+area: cli
+Partner:CLI-SDK
+A: cli
+CLA signed
+FIM
+pkg: cli
+SYSTEM: CLI
+cli
+Component: CLI
+Focus: CLI
+cla signed
+theme/cli
+cla:yes
+CL-General
+
+Cluster 23 :
+valued-contributor
+Contributor OK
+SUPPORT
+Contributions are welcome
+Support
+contributor friendly
+contributions welcome
+Contributions Welcome
+good_for_contributors
+Savedata
+support
+admired-contributor
+contribution
+Contribute
+Contribution
+help appreciated
+help welcome
+contribution welcome
+
+Cluster 24 :
+compatibility: WooCommerce
+CSS compatibility
+tp:hygiene
+A-Spec-Compliance
+compatibility: WPML
+🤯  Type: Compatibility
+Anki Ecosystem Compatibility
+compatibility:PHP7
+backward compatibility
+type/backward-compatibility
+Compatibility
+compatibility
+sql-compatibility
+logic
+
+Cluster 25 :
+C-question
+feature: votes required
+T: question
+t4:question
+t: question
+X2: answer required
+T: Question
+
+Cluster 26 :
+2-0-x
+HTTP2
+2 Out Of Date
+App-d2x
+Need 2 check
+P2
+area: LWM2M
+2 Fixed
+2. Collectors
+feat / tok2vec
+P2: required
+2.x
+2.2
+2.14
+P2: Very Important
+time-2
+V-2
+Pkg::Arrangement_on_surface_2
+nw2
+2.16
+2 Solved
+FREQUENCY: level 2
+Priority 2
+Second Review Required
+UIAutomator2
+PA-openapi-2-kong
+II Commissioned
+support:2
+Priority:2
+2.0
+II Submission
+SDL2
+Beta :test_tube:
+2.1
+S2
+2 - In Progress
+PR: Needs +2
+2.9.x
+d2:moderate
+OKR3.2 Candidate
+II Accepted
+area: NIOS2
+Pri2
+2
+effort2: days
+Estimation - 2 (S)
+wcag/2.1
+Severity: 2
+md2
+2 - pick next
+2.15
+3.2
+2 - Working
+level: 2
+Guess: 2 hours
+2.13
+P2: Important
+F-vue2
+
+Cluster 27 :
+C-tracking-issue
+A: plots
+preferences
+needs-pick
+topic-groupby
+category/localization
+S - selection
+topic: cross-origin-embedder-policy
+Package: replay
+topic-CF conventions
+plots
+topic-arrays
+Component: SwatchColorPicker
+component:Plots
+A-specialization
+Categories
+topic: cross-origin-opener-policy
+topic: event loop
+Category-Other
+Component: GroupedList
+Component: Playlist
+Component: List
+plotting
+A-collections
+component: select
+Category: Rules
+groups
+Cabal: other
+topic-plotting
+Core: Selection
+topic-backends
+Component: ChoiceGroup
+component:Variable Explorer
+area: Other
+type: other
+plan-item
+distribution
+component: options parsing
+component: social
+Core: Callbacks
+Combinations
+Selector
+component:Preferences
+Manipulation
+
+Cluster 28 :
+feature: DistSQL
+segfault
+diff/show
+sso
+part: STM
+Columns
+target:csharp
+FO
+compat
+SSO
+stdlib
+A-grpc
+F: Localization
+core.evalf
+dask-cudf
+rfd
+Compat
+LTA
+cef
+Category-RPC
+depfu
+gopls
+rstudioapi
+udl
+solcbin
+gRPC
+ldf
+rfe
+[Dúvida]
+ros
+extmod
+F-generic_const_exprs
+area-mvc
+grel
+A-ffi
+SFrame
+MSAL
+grpc
+rdp
+ssh
+RFR
+dotnet-fsharp/prod
+msfvenom
+part: ssreflect
+part: ltac
+lsif
+msfconsole
+gRPC-proxy
+fwrite
+A-SSO
+
+Cluster 29 :
+nw13
+win32
+12.0
+wip
+smt
+NSIS
+component-tls13
+communicator/ssh
+S3
+aws:sns
+Dutch
+port-esp8266
+s3
+arch-arm32
+component: breadcrumbs
+aws:s3
+WIP
+state: WIP
+arch-wasm32
+area/ssh
+service/s3
+13.0
+port-stm32
+service/ssm
+s3sync
+Network - CDN
+Messenger
+Component: Breadcrumb
+platform: STM32
+A-simd
+Platform: ESP32
+SR300
+Service Bus
+platform: NXP
+Network - DNS
+Render: Direct3D 12
+insights-beta-3.31
+Spanish
+nsis
+service/route53
+
+Cluster 30 :
+api: instanceid
+service/apigateway
+in: API
+api: hosting
+service-api
+API Design
+Information Architecture
+install from api
+api
+T-libs-api
+category:user api change
+Package: @directus/api
+Type: API Change
+api-breaking
+feature-middleware
+tp:API_settled
+API change
+api: performance
+A: api
+Category: API
+I API / Website / Platform
+WPCOM API
+API design
+SYSTEM: API
+API Management
+api: database
+Component: API
+Feature: API
+theme/api
+aws:apigateway
+A-Admin-API
+Component / API
+api: installations
+api: analytics
+API
+apidocs
+API: mount
+PR: API Modified
+api issue
+Functionality:SDK
+api: functions
+api: dynamiclinks
+experimental API
+
+Cluster 31 :
+⌨️ code
+🔍 investigate
+meili
+👩‍💻 Code example needed
+🎲 intermittent-test
+🔬 Research
+Documentation ✔️
+🌲 Project Trim 🌲
+🧩 implementation-detail
+fast-track 🚅
+security 🔒
+📖 documentation
+Documentation ✏
+Needs: documentation 📄
+📦 bundle size
+🎰 how to use
+📌 pinned
+api-review/requested 🗳
+🛠 tooling
+📝 documentation
+🛰️ federation
+difficulty: 1️⃣
+👥 needs discourse
+topic: flake ❄️
+😴 orphan
+🏓 awaiting-contributor-response
+🛬 needs landing
+🏗️ build
+🔧 setup issue
+✅ testing
+🗃️ data issue
+⌨️ Input
+
+Cluster 32 :
+Category: Gameplay
+Video
+Component: Avatar
+motioneyeos
+remote-explorer
+actionmailer
+! Feature
+featurerequest
+actionpack
+topic: video 📹
+tv-provider-account-needed
+Category: Gameplay Content
+remote
+VideoPress
+AppImage
+Camera Uploads
+FeatureRequest
+
+Cluster 33 :
+Merged_in_5.0
+merged/25-x-y
+Merged_in_4.12.1
+Merged_in_5.1
+merged/21-x-y
+Merged_in_4.14.3
+Merged_in_4.12.2
+Merged_in_4.13
+Merged_in_5.3
+merged-by-bors
+Merged_in_4.14
+Merged_in_4.14.1
+merged/26-x-y
+merged/23-x-y
+Merged_in_4.13.1
+merged/22-x-y
+Merged_in_5.3-beta1
+Merged_in_4.14.2
+merged/24-x-y
+Merged_in_4.13.2
+Merged_in_5.2
+
+Cluster 34 :
+needs:e2e
+E2
+aws:ec2
+d2ai
+E2E Tests
+h2
+E2E
+pr:e2e
+Area/E2E Tests
+service/ec2
+ci:e2e
+ec2
+area: I2C
+
+Cluster 35 :
+6.topic: kernel
+6.topic: qt/kde
+Fabric 6
+r=6.0
+6.topic: nixos
+6.topic: xfce
+6.topic: darwin
+6.topic: haskell
+Milestone-1_6-RC2
+Polish
+polish
+s6:need sample
+6.topic: closure-size
+6.topic: GNOME
+6-0-x
+6-1-x
+4.6
+dsm 6
+ARMv6
+Milestone-1_6-RC
+ES6
+6.topic: golang
+
+Cluster 36 :
+GEXF
+backend: ghc
+scaling
+gstreamer
+gsoc
+Frequency
+area/gke
+component: ghci
+#S
+GSoC
+[Focus] GDPR
+GDAL
+Feature: Sleigh
+glTF2.0
+needs:gv
+GS
+GIF
+sg
+GSoD
+caffe
+area-GC
+spike
+Glimmer2
+helm
+GS: Hardware
+platform: nRF
+Helm
+golang
+needs bikeshedding
+relates-to: gorm
+gsoc-outreachy
+GC Attention Set
+GFI Candidate
+Tag: GSoC
+
+Cluster 37 :
+Project management
+WG-Interactive-HelpSystem
+cp-core-workflow
+object manager attribute
+Marketing
+source: core:content-manager
+managed-instances
+Component: Coachmark
+repo-management
+management/tracking
+Component: CommandBar
+Cognitive - Metrics Advisor
+component:config-management
+team/growth-product
+Schema Management
+team/growth-marketing
+component: rest api
+WP REST API
+Resource Manager-cli
+management/devenv
+WG-Cmdlets-Management
+Yoast: Management
+Productcomments
+Resource Manager
+module: tutorials
+
+Cluster 38 :
+Cabal: parser
+topic: parser
+parser
+pkg: parser
+S - parser
+Feature: C-Parser
+parsing
+A-parser
+parser/interpreter
+feat / parser
+
+Cluster 39 :
+Salt-SSH
+A - deps
+SYSTEM: runner
+scope: eslint
+T-libs
+tsh
+area: eslint
+feature: Secret Service
+ES Spec Conformance
+Synology
+component: nix
+MIBs
+T-weapp
+T-types
+T-cargo
+feature: SSH agent
+TS
+Russian
+🐉 Fenix
+domain:ts
+dask
+Externs
+bsd
+Flow -> TS
+cross
+T-Other
+TK
+t:model
+T-Task
+TSC
+synology
+NoResultsView
+component-tls
+
+Cluster 40 :
+Priority:1
+effort1: hours
+Priority 1
+P0
+stage/1-reproduction
+stage1
+1
+1x-backport:completed
+1x-backport:n/a
+1 Question
+P1
+estimate/1d
+target: master & n-1
+level: 1
+1 - Ready
+1day
+1 Feature
+1: PM Review
+FREQUENCY: level 1
+1 Analyzing
+1x-backport:pending
+
+Cluster 41 :
+__do-not-use__/fabric8
+no-backport
+__do-not-use__/wiki
+api: inappmessaging
+declined :no_entry_sign:
+needs info :mailbox_with_no_mail:
+No details provided
+Online only
+No Template
+__do-not-use__/osgi
+__do-not-use__/kubernetes
+__do-not-use__/core
+info: no example attached
+No Code Attached Yet
+__do-not-use__/jmx
+
+Cluster 42 :
+area-hosting
+Settings
+Positions
+configuration
+area: examples
+Area:Settings
+area/simulation
+layout
+area: Settings
+Layouts
+Site Settings
+area: mapping
+Category: Settings
+area-rendering
+area: theme
+Area - View Composition
+area: configuration
+Area: theme
+area: common
+area/quality
+area: Display
+Area - Interaction
+area/observability
+area: ensure
+Layout
+area/promote
+Area/Localization
+Area - Lookups
+Attributes
+Focus:Habitat
+area:playground
+settings
+area: Configuration System
+area/example
+area: forms
+area/ui
+area/usability
+
+Cluster 43 :
+doc-bug
+bug/major
+- Bug tracker -
+z-bug
+b=bug
+BUG REPRODUCED
+doc bug
+upstream-bug
+B-bug
+dev bug
+i: bug
+Bungie API Bug
+Upstream-Bug
+type: bug :sob:
+B - bug
+Bug :-(
+! Bug
+C-bug
+Bug-Assert
+Upstream Bug
+a=need bugwash
+bugathon
+Hi-Pri Bug
+Starter bug
+1 Bug
+is-bug
+S-bug
+third-party bug
+
+Cluster 44 :
+NLL-complete
+Component: mosquitto-broker
+Regex
+language:rust
+stage: routed to ct
+parsing.latex
+information_old
+overlay
+#M
+regex
+Libs-Tracked
+pr: lgtm
+old-milestone: cabal-install 2.0
+-- Glyphset issue
+A-NLL
+CLA Signed :heavy_check_mark:
+backend: latex
+topic-cftime
+stat:awaiting tensorflower
+needs-cfn
+Tenet:WorldReady
+OldVersionOnly
+c:e:tmux
+Milestone-1_2-RC
+Component: ContextualMenu
+A-incr-comp
+Component: libmosquitto
+area: POSIX
+collectors/ebpf
+topic: source-drupal
+LGTM
+WONTFIX
+imported from old code repo
+feat / serialize
+A-edition-2018-lints
+port-nrf
+stage/tracked
+lgtm
+A-libtest
+ntheory
+A-rustdoc-ui
+Already Fixed on Master Branch
+babel-8-dev → main
+A-impl-trait
+Resolution:NeedMoreInfo
+generalize
+crud-ui
+creds
+Libtorrent
+wbx
+feat / lemmatizer
+part: CoqIDE
+Returns one-title-many-torrents
+Resolution:NotRepro
+A-const-fn
+game: Rust
+Overlay
+
+Cluster 45 :
+Applications :floppy_disk:
+C: VSlider
+topic: img
+topic: cy.origin
+bot
+CPU emulation
+tctl
+cypher
+Area: Hardware Support
+CPU
+machine-id
+Kernel related :dna:
+emulator-suite
+perf / memory
+Cython
+OpSys-OSX
+Feature: Loader/ELF
+team-cypher
+area: X86
+arch-arm64
+Device :desktop_computer:
+osm
+Emulator-Win
+cython
+Symfony layout
+backend nvidia
+Pkg::Kernel_23
+:computer: Front-End
+Area-PowerShellGet
+A-mir
+provider/vmware
+Category-SuperDevMode
+arch-x86_64
+emulators: functions
+github
+emulators: auth
+arch-x86
+module: gpu
+Firmware: HLE
+Compute - VM
+in_zendesk
+OpSys-x64
+in: kernel
+area: USB
+Image Request :floppy_disk:
+Component-FullMode
+Firmware: ArduPilot
+winforms
+team-kernel
+Feature: Processor/x86
+Real Devices
+Feature: Processor/ARM
+ux: emacs
+backend cpu
+C: VFileInput
+Zendesk
+part: kernel
+Software Request :cd:
+
+Cluster 46 :
+feedback needed
+a=feedback please
+feedback-provided
+needs-author-feedback
+needs feedback
+pending OP feedback
+requires feedback
+needs: feedback-from-author
+need-feedback
+feedback
+Needs: Actionable Feedback :female_detective:
+need feedback
+Pending feedback
+9.needs: reporter feedback
+Feedback
+awaiting-feedback
+product-feedback
+waiting for feedback
+waiting-on-feedback
+awaiting-user-feedback
+pending:feedback
+Waiting feedback
+Feedback Requested
+wait for feedback
+Review - In feedback
+needs: feedback
+feedback required
+awaiting feedback
+9.needs: community feedback
+needs-feedback
+waiting-for-feedback
+Feedback Needed
+Type: User Feedback
+Needs: Author Feedback
+waiting-user-feedback
+Status: Feedback Needed
+Awaiting Feedback
+awaiting developer feedback
+waiting-feedback
+waiting on submitter feedback
+
+Cluster 47 :
+⁉️ question
+question-answered
+question_old
+usage question
+🕵🏻‍♀️ question
+Question :grey_question:
+type/question
+question ❓
+Question (JP usage)
+[Type] Question
+type:question
+Type: Question :grey_question:
+type:Question
+kind: question
+TYPE: question
+<Question>
+:speech_balloon: Question
+Usage Question
+Need Clarification :grey_question:
+question :grey_question:
+Type: Question
+Question / Support
+Issue-Question
+How do I
+❔ Type: Question
+i: question
+question :question:
+type: question 🙌
+Question
+❔ question
+Priority: COULD
+inquiry/question
+Resolution:Question
+Type: Question ❔
+:question: Question
+*question
+type: question
+question
+question/support
+
+Cluster 48 :
+type: ci
+ci
+area/ci
+CI/CD
+PR: CI-ok
+ci/flake
+CI
+Component / CI
+waiting for ci
+component: premium
+type/ci
+PR: CI-not-ok
+CI settings
+CI 🤖
+needs-ci
+module: ci
+type:ci
+
+Cluster 49 :
+Status: Needs Work
+Status: Work in Progress
+Ready for work
+needs work
+Work In Progress
+X5: work required (PR / Help Wanted)
+stage: ready for work
+Issue: Ready for Work
+needs more work
+needswork
+needs: more work
+needs-work
+needs: work
+
+Cluster 50 :
+S: needs more information
+needs: more info
+kind/needs more info
+needs more information
+Needs more data
+more info needed
+need more info
+more info requested
+need more data
+🤷‍♂️ More info needed
+Needs More Information
+Need More Details
+Needs more info
+More-info-needed
+Status: Needs More Information
+Requires more info
+more-details-needed-from-op
+more-information-needed
+more-info
+need more information
+needs more info
+need-more-info
+needs-more-info
+needs more info :information_source:
+user: more info needed
+More information needed
+needs-more-input
+needs: more information
+🕵 needs more info
+Need More Info
+more information needed
+more information requested
+state/needs-more-info
+need-more-information
+S: Need More Data
+needs-more-information
+X0: need more information
+moreinfo
+more-info-needed
+
+Cluster 51 :
+suggestion
+Idea/Wishlist
+candidate
+Ideas
+Type:Suggestion
+type: proposals
+kind: proposal
+Proposal-Hold
+proposal
+[Status] Proposal
+iteration-plan
+idea
+Proposal
+suggestion-module
+selected for development
+Suggested
+suggestion-feature
+stage: proposal 💡
+Suggestion
+
+Cluster 52 :
+Fill issue form or you will be REJECTED
+t: problem
+resolution: can't reproduce
+:heavy_check_mark: Resolution: Won't Fix
+2 Won't Fix
+probably-wont-happen
+Resolution: Won't Fix
+Resolution: Stale
+Resolution-Won't Fix
+Status: Won't Fix
+Resolution: Can't Repro
+Reason: Won't support
+Won't Fix
+on hold / maybe wont
+Resolution: Declined
+Wont Fix
+Resolution: Cannot Reproduce
+Unable to replicate :coffee:
+
+Cluster 53 :
+cat/template
+cat/aws-iam
+cat/dx
+target:canary
+component: AI/Game script (squirrel)
+cat/config-schema
+cat/variable
+cat/aws-event-api-gateway
+cat/packaging
+cat/plugin
+cat/local-dev
+cat/aws-event-http-api
+cat/dashboard
+cat/deployment
+cat/lambda
+dart
+cat/cli
+cat/telemetry
+cat/dependency
+
+Cluster 54 :
+area: Networking
+wifi
+Networking
+area: Ethernet
+Network
+Category: Wifi
+area-networking
+networking
+theme/networking
+area: connectivity
+area/networking
+network
+topic: network
+Category: Network
+area: Networking Clients
+Networking / adhoc
+
+Cluster 55 :
+Scoped storage
+theme/storage
+archival
+Cache
+area/vault
+storage
+theme/vault
+Feature: Vault Organizer
+Project: Component Store
+Project: Router Store
+Logistics
+Storage-cli
+area/storage
+4. Storage
+<storage>
+emulators: storage
+store
+Project: Store
+api: storage
+Storage
+
+Cluster 56 :
+needs-rebase
+TCP Reset
+reimplementation
+in: redis
+Reshaping
+repeat-contributor
+RE-MediaHost
+replaced
+rewriting
+needs_rebase
+clarification
+Resolution: Refine
+Topic: Stabilization
+Rescope
+obsolete – reopen if necessary
+Reproducible
+part: extraction
+needs: rebasing
+t:remoting
+RE-Request
+WG-Remoting
+Backup & Scan
+PR: Rebase me!
+Area:RestoreCPM
+needs: rebase
+Resample
+relnotes
+reproducible
+With reproduction steps
+Recovery Services Backup
+Backup
+t:remoting:artery
+Area:RestoreRepeatableBuild
+Resizing
+[Resolvido]
+
+Cluster 57 :
+Needs information
+Status: Information needed
+info-needed
+needs-info
+Needs Information
+Needs: info
+⚑ needs info
+Needs info
+needinfo
+need-info
+needs_info
+Need Details
+Status-NeedInfo
+Information Required
+Need Information
+Needs-Info
+X-Needs-Info
+Need information
+Needs Info
+other: info needed
+need info
+needs information / data
+needs: info
+st-need-info
+Need info
+NeedsFix
+info needed
+needs info
+Status: Needs Info
+Need Infos
+NEEDINFO
+needs-details
+stage: needs information
+
+Cluster 58 :
+topic: session
+X3: discussion required
+under discussion
+type: question or discussion
+needs-opinions
+issue: discussion
+i: discussion
+Needs Discussion
+Discussion
+[Discussão]
+Status: To be discussed
+- Forum -
+Type: Discussion/Question
+type: discussion 🔥
+stage/needs-discussion
+Needs Team Discussion
+:coffee: Open to discussion
+Question / Discussion
+Needs: Discussion
+Type: Discussion
+needs-discussion
+st-discussion
+discussion / investigation
+t3:discussion
+Type: Discussion :thought_balloon:
+Issue-Discussion
+discuss
+type:Discussion
+needs discussion
+Pending-Discussion
+State / In discussion
+N-discussion
+needs: team discussion
+<Suggestion / Discussion>
+state: needs discussion
+type: discuss
+Type:Additional Discussion
+Status: Discussion
+Status: Needs Discussion
+discussion
+type: question / discussion
+Discuss
+type: discussion
+
+Cluster 59 :
+user question
+topic-fees
+Permissions
+kind: user messages
+Consulting Request
+Request
+support: usage question
+site-support-request
+type: user-question
+application-access
+wait-info
+Awaiting User Input
+module: registration
+A-Application-Service
+Status: Archived
+repository-permissions
+rule-request
+User-Pending
+waiting-for-user
+request
+source:user request
+type: usage
+type: game server request
+Component: Player :play_or_pause_button:
+user_pending
+access-requests
+type:option request
+Definition:Request
+use case
+permissions-center
+<prompts>
+
+Cluster 60 :
+type:support
+Support Center
+Companion
+SupportCentral
+type: support
+Service Team
+Pillar
+Service
+services
+Support Request
+Type: Support
+sass
+service/elasticsearch
+support-request
+support/RFC
+Service Fabric
+service/elasticache
+service-badge
+:dog2: Support
+service/ecs
+provider
+Services
+Type: Question / support
+Service Attention
+Service Team Support Request
+sdk-support
+Support request
+
+Cluster 61 :
+build tooling
+type: build
+Build system
+c=build
+vsts-build
+architecture
+Focus :Plan Build
+area/build
+Area-Maintainers-Build
+in-development
+development
+Build
+package/build
+JUST FOR BUILDING
+in: build
+Category: Build
+area: Architectures
+pr-build
+process: build
+component/build
+CL-BuildPackaging
+build & flash
+build-package
+Good first issue :mortar_board:
+package:build-classic
+Type: Building
+Site Creation
+WIP: Building
+area: Build System
+builds
+projects
+cabal-install: sandbox
+Area: Build System
+build-system
+cabal-install: other
+t:build
+build system :building_construction:
+Cabal: cmd/build
+concrete
+Builders
+cp:build
+area: build & ci
+Feature: Build
+build
+area: scaffold
+comp:build
+Category: Build/CI
+Build: Makefile
+build/packaging 📦
+scope: cli-service build
+type:build/install
+Infrastructure: Build
+area: build-utils
+tag:Build System
+alternative build
+Topic: Architecture
+type: development
+build system
+build / code
+component: build
+Area - Refactor :building_construction:
+Type: Architecture
+develop
+Type: Build System; Packaging; Docs; Translations
+Component-Build
+Build and CI
+
+Cluster 62 :
+Please help
+Guidance
+community help wanted
+Help Wanted ✨
+task: help-wanted
+help wanted :sos:
+help_wanted
+Status: Help Wanted
+Meta: Help Wanted
+community:Help wanted
+Z-Help-Wanted
+Type: Need Help
+E-help-wanted
+Help Wanted :wave:
+user: need help
+Type: Assistance needed
+issue: help wanted
+contrib-help-wanted
+help wanted/question
+help wanted
+help wanted :raised_hand_with_fingers_splayed:
+component:Help
+Needs-help
+help
+help needed
+Help wanted
+guidance
+🙏 help-wanted
+Help Needed
+Help Wanted
+help-wanted
+N-help
+♥ help
+
+Cluster 63 :
+Counter-Strike
+PR: Breaking Change :boom:
+Breaking change
+breaking-change
+- Breaking Change
+PR: Breaking Change
+Type:Breaking Change
+Type: Breaking
+flag: breaking change
+category/breaking
+distribution: Snap
+BREAKING CHANGE
+type: breaking change
+breaking
+Breaking-Change
+breaking changes
+Type: Breaking Change
+breaking change :warning:
+Breaking Change
+breaking change
+
+Cluster 64 :
+A-Federated-Join
+hold-merge
+Merged
+PR: merged
+Merge Conflicts
+S: has merge conflicts
+merge me
+squash+merge me
+pr-merged
+action: merge
+Merge conflict
+Package: merge-styles
+Has Merge Conflict
+plan to merge
+merge-me
+merge conflict
+disposition-merge
+needs rebase or merge
+Merge cells
+
+Cluster 65 :
+area/install
+installing nvm
+Installation
+install
+Focus: Studio
+installation/env
+topic: installation
+Functionality:Install
+Installers
+component/installer
+Install
+Tech/React Native
+Feature: Launch
+installation
+c:installation
+part: installation
+installer
+command: install
+Area: installer
+
+Cluster 66 :
+:massage: UX
+ui/ux
+UX/UI
+Topic: UI/UX
+A-ui-ux
+ux: case splitting
+ui / ux
+ux: integration
+feat / ux
+area/ux
+ux: polish
+Needs-UX
+RE-UX
+tag:Design and UX
+category/ux
+UI/UX
+ux: display
+kind/ux
+domain:ui/ux
+ux: ready
+UX
+Category: UX
+feature: ui/ux
+ux
+User Experience (UX)
+UX ✔️
+ux: interaction
+docs-ux
+ux: installation
+UI / UX
+epic:ui-ux-improvements
+
+Cluster 67 :
+Component: FocusZone
+OpSys-All
+area/proc
+area/health
+Category: Security
+info: example-attached
+part: tactics
+area/ingress
+area: ARM
+Area: Theming
+deployment
+team/security
+On Deck
+area/gates
+Area: Narrator
+Area-FCS
+scope:reporters
+area: acquisition / activation
+scope:command
+area-commandlinetools
+Area-VS-FSI
+area: Security
+Area-FSI
+area/helm
+coverage
+External
+Area - ZooKeeper/Curator
+area/ros
+area: asf
+squad:features
+Area - Operations
+Component: FocusTrapZone
+area/mounts
+area: Shields
+area/commandline
+Coverage
+scope
+area/prow
+operations
+environment pane
+area/controller
+area: go
+area/lighthouse
+Part of scope
+area: security
+scope:assertions
+area/security
+area/remap
+area-signalr
+area-security
+
+Cluster 68 :
+New
+New architecture
+newcomer
+new language
+new command
+Good for New Contributors
+Type: New Feature :heavy_plus_sign:
+new-builder
+new-data-source
+New Functionality
+new-cli
+0 - new
+New Public Tracker
+type: new component
+new rule value
+new device support
+new-contributor
+New Definition
+Type: New Feature
+Type: new-feature
+new algorithm
+8.has: package (new)
+new quest
+new-libs
+new-feature
+New contributor
+category:new feature
+New Feature
+new exchange
+new collector
+new-module
+New Private Tracker
+new-resource
+New Command(s)
+type: new option
+PR: New Feature
+New Layer
+component: NewGRF
+type: new feature
+New feature
+component: new / init / solver
+type: new rule
+I New Font
+semver-minor: new stuff
+new
+8.has: module (new)
+new contributor
+new-pr 🌱
+New Package
+new rule
+new feature
+New: theme
+
+Cluster 69 :
+pr-backport
+backport
+type: backlog
+type: backport
+Back-end
+backport-required
+move to backlog
+Backlog
+backport-candidate
+:factory: Back-End
+needs-backports
+to-be-backported
+backport-3.8
+Backport
+area: backend
+stage: backlog
+backend
+BACKPORTED
+backlog
+Backend
+needs: backport
+area/backend
+back-end
+0 - Backlog
+backend: Go
+backport/website
+backported
+backend amd
+Backend Related
+
+Cluster 70 :
+pr-documentation
+scope:documentation
+area: Documentation
+c:documentation
+Component: DocumentCard
+Project: Schematics
+:memo: documentation
+in: document
+Area-Maintainers-Documentation
+Tag: Documentation
+tag:Documentation
+9.needs: documentation
+category:documentation
+Functionality:Signing
+Documentation
+Related to: Documentation
+Component: Documentation
+topic-documentation
+6.topic: documentation
+Feature: Documentation
+type:documentation
+type: document
+area: documentation
+Category-Documentation
+type: Documentation
+ux: documentation
+domain: documentation
+Type: documentation
+Area: Documentation
+component: documentation
+Category: Documentation
+document conformance
+Type: Documentation
+topic:documentation
+category-documentation
+documentation
+documentation & specs
+T: documentation
+8.has: documentation
+comp-documentation
+kind: documentation
+type: documentation
+category/documentation
+document
+PR: Documentation
+group/documentation
+
+Cluster 71 :
+jira-migration
+comp: migrations
+Impact: Migration
+migration
+CSS Modules migration
+Migrated
+Carousel
+decouple-migrations
+Migrations
+insights-settings-migration
+growth
+migrations
+<migration>
+
+Cluster 72 :
+feature :gear:
+fetcher
+Site Picker
+Component: Pickers
+provisioner/puppet
+heuristic
+Category: Stabiliy
+bundler
+feat / tagger
+Bounty
+Feature: Item Movement
+Extra Sidebar Widgets
+needs: plunkr
+Component: TagPicker
+gitserver
+decktracker
+bounty
+package:utils
+topic: fetch
+provisioner/chef
+provisioner/ansible_local
+provisioner/ansible
+
+Cluster 73 :
+needs-review
+need review
+pending review
+STATE: Need clarification
+Status: Pending Review
+Status: Review Needed
+stage: needs review
+Needs further review
+Status: Code Review Needed
+Needs Code Review
+needs: code review
+PR: reviewed-changes-requested
+pr:needs-review
+Needs Label Review
+Needs Review
+needs clarification
+inquiry/pending clarification
+awaiting review
+Status: Requires Reporter Clarification
+needs: review
+needs-reviewer
+GH Review: review-needed
+pr - needs review
+🕵️‍♀️ needs review
+needs: UX team review
+Needs review
+[Status] Needs Copy Review
+Review - Needed
+needs review
+Flow: Pending review
+pr/needs-review
+attention: needs-review
+Status: Needs Review
+[Status] Needs Code Review
+
+Cluster 74 :
+cherry-pick/2.6
+cherry-pick/2.4
+CherryPickCandidate
+Cherry Picked to Stable Branch
+cherry-pick/2.5
+cherry-pick/2.3
+CherryPick/Done
+component: tree
+type: cherry
+Twig
+npm: @cypress/vue
+:rose: has-reproduction
+raspberry pi
+tree-sitter
+CherryPickApproved
+cherry-pick/2.2
+pr-cherrypick
+cherry-pick-completed
+
+Cluster 75 :
+:watch: Not Triaged
+Ignore changelog :mute:
+Stale No Activity 60 Days
+Resolution: Not An Issue
+System or Player Issue (Not HB)
+No Activity
+no update
+Standalone
+semver/none
+resolution: not core
+Status: No Recent Activity
+NonCommutative
+abstract
+Resolution: not our issue
+No Feedback / Outdated?
+single-reviewer
+changelog: non-user-facing
+not-an-issue
+NO FIDDLE/REPRO
+Tests/Not Needed
+no-repro
+no-docs-needed
+no-response
+do not test
+
+Cluster 76 :
+auto-bitrotten
+theme/autoscaling
+autosquash
+feature: Auto-Type
+Autoupgrade
+automerge
+<autofill>
+Auto-Assign
+auto-type
+A-inline-assembly
+package:autoformat
+autoCloseOldIssue
+autocompletion
+Automerge
+AutoMerge
+Auto-completion
+C: AutoComplete
+service/autoscaling
+credit-card-autofill
+auto-migrated
+auto-merge
+Auto-Resolve
+A-destructors
+auto-index-on-prem
+
+Cluster 77 :
+t:http:client
+Category: Client
+AREA: client
+customer-reported
+sales-onboarding
+theme/client
+client: vs
+Customer groups
+Customer service
+Product:VS.Client
+customer-response-expected
+customer-replied-to
+area/Client
+client
+area: client
+Client
+Sales
+Customer
+Customer Usage
+A-client
+customer
+Feature: Vendors
+t:client
+
+Cluster 78 :
+@aws-cdk/aws-certificatemanager
+@aws-cdk/aws-cloudfront
+@aws-cdk/assets
+@aws-cdk/aws-codepipeline
+aws:sqs
+@aws-cdk/aws-synthetics
+A-headers
+@aws-cdk/core
+@aws-cdk/aws-redshift
+@aws-cdk/aws-events
+@aws-cdk/aws-elasticsearch
+@cds/core
+theme/acls
+@aws-cdk/aws-rds
+@aws-cdk/aws-ecs-patterns
+@aws-cdk/aws-appmesh
+@aws-cdk/custom-resources
+@aws-cdk/aws-lambda
+@aws-cdk/aws-ecr
+@aws-cdk/aws-cloudwatch
+@aws-cdk/aws-cognito
+@aws-cdk/aws-kinesis
+@aws-cdk/aws-cloudformation
+service/elb
+@aws-cdk/aws-elasticloadbalancing
+@aws-cdk/aws-ssm
+@aws-cdk/aws-secretsmanager
+@aws-cdk/aws-sns
+@aws-cdk/aws-efs
+AWS
+@aws-cdk/aws-autoscaling
+@aws-cdk/assertions
+@aws-cdk/aws-appsync
+@aws-cdk/aws-stepfunctions-tasks
+@aws-cdk/aws-ecs
+@aws-cdk/aws-lambda-event-sources
+@aws-cdk/aws-apigateway
+@aws-cdk/aws-events-targets
+@aws-cdk/pipelines
+okr/distribution/admin-experience
+@aws-cdk/aws-stepfunctions
+@aws-cdk/aws-lambda-nodejs
+@aws-cdk/aws-glue
+@aws-cdk/aws-ecr-assets
+@aws-cdk/aws-ec2
+aws-cdk-lib
+@aws-cdk/aws-sqs
+@aws-cdk/aws-batch
+@aws-cdk/aws-logs
+@aws-cdk/aws-codepipeline-actions
+⭐️ EU-FOSSA Hackathon
+@aws-cdk/cloudformation-include
+@aws-cdk/aws-route53
+aws
+@aws-cdk/cfnspec
+@aws-cdk/aws-s3-deployment
+@aws-cdk/aws-s3
+@aws-cdk/aws-eks
+@aws-cdk/aws-codebuild
+@aws-cdk/aws-iam
+@aws-cdk/aws-kms
+
+Cluster 79 :
+json
+backend: JVM
+II Indic / Brahmic / Thai / Tai
+Qt
+css
+E-needs-mcve
+cp:reql
+ui: CSS
+jsii
+D400 Series
+area: jsonrpc
+feat / nel
+Styling (CSS / Less)
+tp:ReQL_proposal
+feat / ner
+target:cpp
+scope: misc
+js
+c-q7j
+lang:css/scss/less
+EXT
+RSX
+II CJK
+ca-derivations
+R200
+quarto
+Q for ourselves
+JF/bazel
+yoast cs/qa
+Area: JS Styling
+jQuery
+area: jsx
+Please! ♥︎
+RPi
+c-sn
+area: MISRA-C
+II Arabic / Hebrew / Semitic / RTL
+qt
+RSS
+yellowlist
+nix-shell
+CSS
+r=trunk
+mqtt
+A-rustdoc-json
+l500
+Category-JRE
+c=H/2
+Jessie
+JVM
+
+Cluster 80 :
+solaris
+part: universes
+atom
+Infinite Scroll
+OS-Solaris
+Cosmos
+universe
+Photon
+
+Cluster 81 :
+area: upstream
+upstream-gopls
+upstream/vscode
+upstream (bug)
+upstream-terraform
+Stream Issue
+Type: Upstream
+Upstream Issue
+downstream
+upstream issue
+Fixed upstream
+t:stream
+Upstream
+- Upstream is working on it
+-- Needs Upstream Resolution
+type: upstream
+upstream :arrow_up:
+resolution: upstream issue
+needs-upstream-help
+Upstream Change Needed
+upstreambug
+👆 Is Upstream
+Reported upstream
+resolution:upstream
+Should report upstream
+upstream
+area: flow
+
+Cluster 82 :
+theme/core
+theme/config
+theme/template
+theme/streaming
+theme
+Brand Icon
+theme/ui
+theme/telemetry
+theme/certificates
+theme/dependencies
+themes
+theme/website
+theme/hcl
+theme/metrics
+theme/security
+theme/envoy/xds
+theme/connect
+Package: azure-themes
+theme/variables
+theme/dns
+theme/tls
+theme/contributing
+ui: theme
+theme/internals
+theme/deployments
+Theme & logo
+Themes
+theme/scheduling
+
+Cluster 83 :
+platform: macOS
+platform/macOS
+MacOS
+OS: MacOS
+os/macos
+OS-mac
+Mac Specific Issue
+osx
+4 MacOSX
+os: macOS
+platform: mac
+mac
+macos
+O-macos
+Platform: macOS
+os-macos
+H - macos
+OSX
+TG macOS Swift
+platform: macos
+Mac only
+OS: Mac
+Platform-specific (Mac OS X)
+os/macOS
+OS:macos
+e:macos
+os:macOS
+Mac
+component: os x / macos
+OS-macOS
+OS: macOS
+OS: MacOS X
+OS:MacOS
+OS: Mac OS
+macOS
+
+Cluster 84 :
+cuDF (Python)
+python
+language/python
+target:python2
+python-api
+@aws-cdk/aws-lambda-python
+Dropping Python 2
+6.topic: python
+collectors/python.d
+pythonwin
+target:python3
+if_python
+Lang: Python
+Python 项目
+area: python
+component:Python Console
+Python
+4 - Needs cuDF (Python) Reviewer
+python bindings
+backend: Python
+
+Cluster 85 :
+User Interface (UI)
+Component-UI
+category/ui
+ui
+component:ui
+Category: UI
+UI performance
+ui: layout
+Fluent UI react-components (v9)
+ui-needed
+and-ui
+UI
+package:ui
+component: output (UI/UX)
+scope: ui
+Component: UI
+Category-UI
+
+Cluster 86 :
+hotlist: animations
+tilemap
+Render issue
+rendering
+editor-rendering
+topic: rendering
+estimate/3d
+Rendering
+topic: render-mode
+S - render
+Topic: Rendering
+renderer
+
+Cluster 87 :
+headliner
+type: major
+GLOBAL
+S-Major
+target:major
+severity-major
+epic/logviewer
+Topwatchers
+type: long-term
+Type: Epic :call_me_hand:
+General
+Major
+severity: major
+team-apex
+HARDFORK
+major
+
+Cluster 88 :
+OS: Windows
+theme/platform-windows
+OS:Windows
+platform/windows
+Platform: Microsoft Edge
+H - windows
+🖼 Platform: Windows
+area/windows
+O-windows
+Windows
+Platform: Windows
+guest/windows
+OS:windows
+os/windows
+O-windows-msvc
+host/windows
+OpSys-Windows
+OS: windows
+MS/Windows
+SYSTEM: window management
+platform: Windows
+OS-Windows
+os: windows
+component:Main Window
+Squirrel.Windows
+component: windows
+os-windows
+platform-windows
+platform: windows
+OS-windows 🪟
+SYS: Windows
+Platform-specific (Windows)
+windows
+Project:Windows
+
+Cluster 89 :
+Type:Feature
+feature: subtitle
+t: feature
+Profile
+Feature proposal
+Appearance
+features
+type/feature
+component:Outline Explorer
+feature-razor-pages
+Feature
+S-feature
+feature
+type:feature
+type:Feature
+scope: angular
+facets
+feature-iis
+type: feature
+Features
+feature:AR
+Type-Feature
+A-traits
+topic: shadow
+T: feature
+feature/code-coverage
+Type: Feature
+feature/coverage-gap
+Angular
+type: feature :tada:
+feature: shadow
+T: Feature
+is-feature
+feature: mask
+tag:Feature Parity
+kind: feature
+Feature: Compare
+
+Cluster 90 :
+Shopping carts FO
+Feature:Cards:Attachments
+collectors/go.d
+Stocks
+area: File System
+topic-wallet 👛
+system administration :briefcase:
+area: files
+File Servers
+Shopping carts
+find in files
+File list
+Payment methods
+files pane
+Catalog
+Container Registry
+filecoin
+assets :file_folder:
+Discounts
+component:Find in files
+Area-Library
+Pay With Paypal
+Saving issue
+Component: Card
+library
+Cabal: file format
+Credit notes
+topic-walletstorage 💾
+area: wallet
+Filesystem
+Subscriptions
+Currencies
+Area-FileSystem-Provider
+libraries
+GDPR
+funded on issuehunt :dollar:
+Shopify
+
+Cluster 91 :
+rollup
+Component: SpinButton
+Kotlin
+Component: Slider
+netty
+area/kubectl
+kotlin
+potato
+comp-kafka
+PD-503
+area/camel
+F: AngularJS
+bitbucket
+Half-Life
+kubernetes
+Project:Minimongo
+feature: KeeShare
+PR: Possible Perf Regression :snail:
+component-x509
+Vulkan
+Component: Federation :ferris_wheel:
+NLL-sound
+Stretch
+feature-kestrel
+qtwebengine
+kudos
+Render: Vulkan
+clipper
+area/bitbucket
+language/ko
+area/kubelet
+kubernetes-access
+distro: CentOS
+kapacitor
+
+Cluster 92 :
+platform: linux
+linux
+platform: Linux
+os: linux
+platform/linux
+OS-Linux
+OS Linux / Mono / *nix
+Linux
+Platform-specific (Linux/POSIX)
+tested manually on Linux
+O-linux
+H - linux
+OpSys-Linux
+O-windows-gnu
+Linux only
+os-linux
+🐧 Platform: Linux
+os:linux
+OS:Linux
+OS: Linux
+Platform: Linux
+OS: linux
+port-unix
+OS-linux 🐧
+
+Cluster 93 :
+Half-Life:Opposing Force
+has-conflicts
+question (please use Discord instead)
+Status: conflicts
+PR: conflict
+battlegrounds
+problem
+RIoT
+conflict
+Conflicting Files
+has conflicts
+conflicts
+Contributor Pain
+Issue: External issue
+
+Cluster 94 :
+dialect: mysql
+Cognitive - Form Recognizer
+Translations
+A-grammar
+spelling
+grammar
+translation
+needs translation
+syntax
+syntax: scss
+new syntax
+Language Change
+component: language
+Translation
+topic: cookies :cookie:
+Lexical Preservation
+language
+category-readability
+LanguageChange
+language-definitions
+Grammar
+Language
+Languages
+English
+dialect: mssql
+language-support
+Syntax-checking
+translations
+language/ja
+A-syntaxext
+language:vala
+area: language services
+Area: Fluent
+
+Cluster 95 :
+area: debugging
+Debugging
+component:Debugger
+debugging
+Area-Debug
+debug
+area: Debugging
+Debugger
+cookie
+needs-debug-gist
+debugging-prerequisite
+Debug
+metabug
+Status: Debugged
+Feature: Debugger
+debugger
+
+Cluster 96 :
+Internationalization
+internationalization
+International
+
+Cluster 97 :
+virtual tables
+Tables
+[Plugin] Super Cache
+table
+solvers.solve
+database-access
+shared-database
+solvers.dsolve
+4 - Needs libcudf Reviewer
+plugin:tableselection
+source: core:database
+Query Params
+Data Lake Storage Gen2
+topic-transactions 📑
+comp: query builder
+area: compat-table
+Yoast: Content optimization
+Component: Memory Management
+Compute
+feature: transaction
+Compute-cli
+in: JDBC
+component: table
+in: jdbc
+PHPUnitBridge
+Traffic & SEO
+tables
+function list
+Solver: CP-SAT Solver
+A-Database
+insights-search-aggregation-4.0
+solvers.solveset
+solvers.dsolve.system
+QUERY PROCESSOR
+Functionality:ListPackage
+Solution available :clinking_glasses:
+i: npm cache
+
+Cluster 98 :
+AUTHENTICATION
+Validator
+to verify
+Authentication
+resolution-verify
+Area:Authentication
+Needs-Verification
+verification-needed
+Verification tools
+topic: authentication
+to-verify
+needs-verification
+area: authentication
+needs verification
+authentication
+Needs verification
+X1: Inspection required
+author-verification-requested
+
+Cluster 99 :
+contributor pool
+RFC / Discussion :speech_balloon:
+Part of a WIP Feature
+tokenizer
+self-hosting
+A-Config
+A-Invite
+NPC / Factions
+feat / config
+Type: Vendored Dependencies
+Radio Firmware
+Hosting: Self-hosted
+feature-spa
+Config
+guest/redhat
+area/Config
+feat / matcher
+partyinlinuxland
+in-master-candidate
+Sharing
+area: config
+spam
+convention
+configure-related
+Mod Support
+Contributor Candidate
+Component: Callout
+Team Fortress Classic
+topic-wizard 🧙‍♂️
+feat / tokenizer
+wikicommons
+config
+owner: development
+rfc-740
+Configure
+Invite needed
+Category-HostedMode
+Promotions
+SymPy Live
+S - config
+
+Cluster 100 :
+provider/amazon
+sig/network
+.NET
+area/protocols
+area/streaming
+Offline Support
+service/elasticbeanstalk
+provider/virtualbox
+area: network
+area/network
+area/openvpn
+scope/gateway
+provider/hyperv
+scope:distribution
+topic: webpack/babel
+Area:ContentFiles
+scope/broker
+area/raft
+Area - Streaming Ingestion
+topic-network 🕸
+Network - Bastion
+area/web
+
+Cluster 101 :
+Modules
+area: modules
+module/config
+module: cmake
+module: features
+module: surface
+Execution-Module
+platform: Microchip SAM
+area: Modules
+rn-modules
+module: segmentation
+modules
+Module manager
+payload
+module
+Module
+part: modules
+Modules catalog
+go-modules
+module/rm-datasource
+State-Module
+Modules & Themes
+
+Cluster 102 :
+Mobile Chrome
+os-android
+Android
+account:google
+Google
+os: android
+Platform-specific (Android)
+Area: Mono.Android
+android
+O-android
+Chrome
+Google Analytics
+browser:android
+Ready for Google
+platform: android
+Area: xamarin-android Build
+
+Cluster 103 :
+dotnet-wpf/tech
+[Type] Dotcom Merge
+techsupport
+Tech/ReactJS
+dotnet-networking/tech
+dotnet-framework/prod
+dotnet-visualbasic/prod
+dotnet-winforms/tech
+Bot Services
+dotnet/prod
+dotnet-core/prod
+type:Techdebt
+Tech/Go
+csharp-async/tech
+dotnet-csharp/prod
+csharp-language-reference/tech
+dotnet-ml/prod
+dotnet-cli/tech
+dotnet
+Partner:DotNet
+csharp-fundamentals/tech
+dotnet-architecture/prod
+dotnet-wcf/tech
+sdk: dotnet/sdk
+language/dotnet
+dotnet-data/tech
+Product:dotnet.exe
+HCL-BotFrameworkEmulator
+Tech/Redux
+techdebt
+
+Cluster 104 :
+-- Needs Meta/Desc/License changes
+change request
+submodule changed
+Type: Behavior Change
+change
+changelog:feat
+Feature/Change Description
+core change
+normative change
+Changelog/Done
+changelog - added
+changelog: new feature
+Type: Change Proposal
+Behavior Change
+Changelog: Feature
+changelog:chore
+changelog - changed
+Game: Mechanics Change
+PR: Changed
+Unlisted Change
+changelog
+NPM Resource Changed
+Change Request
+UI change
+Needs changelog/docs
+skip-changelog
+changelog: other
+
+Cluster 105 :
+kind: compile error
+error message
+user error
+Area:ErrorHandling
+🐛 TypeScript Bug
+error handling
+Error Handling
+re: error-message
+ux: error reporting
+Test-Failures
+Error Reporting
+PySimpleGUI Issues Bot Has Detected an Error
+Test instructions missing
+error-handling
+type: error message
+auto update failing
+has-failing-test
+area: errors
+error-msg
+enhancement/errors
+error better
+[Type] Novice
+build-error
+error-message
+DNS Spoofing (Tampering)
+Unit Test Failed
+error-messages
+test-failure
+topic-error reporting
+hotlist: error messages
+
+Cluster 106 :
+AppSync
+SYS: Startup
+Area: App Runtime
+api: messaging
+ui: flexbox
+area/app-lifecycle
+app-feedback-program
+SEO Tools
+app-builder-lib
+Customer: Developer
+cloudformation package-deploy
+developer experience
+area/apps
+Developer Feature
+Area: App+Library Build
+Package: @directus/app
+Project: Example App
+Help Wanted: Developer
+App Configuration
+Bug-AppCrash
+App Services
+developer-experience
+module: apps
+Project:Accounts (in user apps)
+enable-device-build
+app
+
+Cluster 107 :
+idate/itime
+iam
+function: auth
+Detected by TE
+Platform:Xplat
+arch-wasm
+Meta
+Component: Auth
+TE
+area/auth
+area/tekton
+type:meta
+Auth
+META
+HR
+theme/auth
+service/iam
+meta
+IoT
+Oracle
+ERRATA
+okhttp
+esnext
+api: auth
+enum
+Category-EclipsePlugin
+auth
+iot
+IPython
+area: ARC
+module: octree
+arch-aarch64
+
+Cluster 108 :
+Type: RFC
+<engine-gecko>
+topic-dask
+MySQL
+type:rfc-tracking
+db: MySQL
+rfc
+comp-mysql
+RFC
+db: Oracle
+comp-dictionary
+provider: postgresql
+T-rustdoc
+DB: MySQL
+db: PostgreSQL
+mysql
+comp-mutations
+MYSQL
+
+Cluster 109 :
+comp: persistence
+scope/clients-java
+Package: Nextjs
+4 - Needs cuDF (Java) Reviewer
+DevelopmentVersion
+Java 项目
+
+Cluster 110 :
+STATE: Stale
+PR postponed
+Stalled
+Rejected
+Status: Inactive
+Status:Inactive
+termination
+consider closing
+rejected
+P0: Drop Everything
+failed
+numba
+resolution:expired
+Status:Excluded from icebox cleanup
+Status: Stale
+Inactive
+INVALID
+declined
+Unowned
+expired
+:moon: Out of scope
+inactive
+reject
+inactive-30d
+S-inactive
+Condition Zero
+skip news
+OBSOLETE
+inactive-90d
+Changelog-Missing
+Resolution: Obsolete
+skip-all-tests
+Deleted
+
+Cluster 111 :
+Unicode
+part: typeclasses
+topic: typescript
+S - font
+⛑ TypeScript
+type: FAQ
+font
+component: forms
+topic: script
+Schema Definition
+types
+feat / textcat
+PR: types
+area: typescript
+package:font
+topic: forms
+Fonts
+topic: TypeScript
+F-generic_associated_types
+type: typescript
+unicode
+scope: typescript
+lang:typescript
+scripting
+area-textprocessing
+Types
+A-typesystem
+A-unicode
+Component: TextField
+drawing classifier
+Product: TypeScript
+component: text analysis
+TypeScript
+typechecker
+Form
+Type Mapping
+Scripting
+part: notations
+typescript
+
+Cluster 112 :
+preview
+area/preview
+Yoast: Content Preview
+entry-preview
+image-preview
+Previews
+Preview
+
+Cluster 113 :
+do not merge
+DO_NOT_MERGE
+* NO MERGE *
+do not merge yet
+DO NOT MERGE
+DO-NOT-MERGE
+Do not merge
+[Status] DO NOT MERGE
+5 - DO NOT MERGE
+do-not-merge/hold
+Not Ready for Merge
+Status: Do Not Merge 🚫
+Do Not Merge
+do-not-close
+do-not-merge
+Do Not Merge ⛔️
+NOT READY FOR MERGE
+pr/do-not-merge
+
+Cluster 114 :
+timeout (7 days)
+7-1-x
+7-3-x
+rfc-697
+OpSys-Win7
+4.7.2
+8-x-y
+2.7.7
+layer 8 issue
+E8
+7X_Docs
+4.8
+7.x
+7-0-x
+8.x
+7-2-x
+c# 7
+
+Cluster 115 :
+PR: Development
+PR available
+S: Open for PR
+PR please
+pr/needs-community-review
+has-PR
+PR Exists
+PRs plz!
+soliciting_pr
+PR: Approval Required
+ready for PR
+Send a PR
+PR: Has dependencies
+has-pr
+Accepting PRs
+pr/dependencies
+pr submitted
+PR use: In Stable
+pr-performance
+has PR
+PR Welcome!
+PR is welcome
+pr-feature
+needs-preceding-pr
+attached PR
+Needs PR
+Has PR
+S: has PR
+attention: pr-welcome
+PR use: In Beta / Experimental
+PR welcome
+
+Cluster 116 :
+Needs-Testcase
+needs-testing
+needs: testing
+Needs testing
+Status: testers needed
+needs tests
+E-needs-test
+tests needed
+needs testing
+Needs Testing
+test case required
+PR: tests-needed
+Needs tests
+need-test-case
+WIP: Needs Testing
+Needs Tests
+needs-ok-to-test
+Needs Tests :unicorn:
+
+Cluster 117 :
+Import
+Component: Import
+fb-exported
+Loading
+Focus:Exporter
+Import Started
+area/import
+area/exporting
+import
+Shipping
+imported
+export
+importer
+3 ImportExport
+Taxes and Prices
+commercetools
+Import In Progress
+export / save
+Import / Export
+
+Cluster 118 :
+works-for-me
+Severity:has-workaround
+s7:workaround available
+Workaround available :ok:
+🌤 has-workaround
+works as intended
+workaround
+working as intended
+has workaround
+Prepared Statements
+training
+complexity: you can do this
+troubleshooting
+should compile without error
+feat / training
+info: workaround available
+flag: has workaround
+☔ has workaround
+workaround available
+Quick Start
+✍️ working-as-designed
+Status: Developed (ready for review)
+Troubleshooting
+existing workaround
+Status: Has workaround
+
+Cluster 119 :
+trees-contexts
+:christmas_tree: dependencies
+theme/logging
+area: Logging
+Area:Logging
+safari
+C: logging
+Logger
+logging
+A-Logging
+
+Cluster 120 :
+b=enhancement
+type: enhancement ⚡️
+doc-enhancement
+type: improvement
+t: enhancement
+Enhancement
+T: Enhancement
+:rocket: Enhancement
+Type: Enhancement
+Type: Conceptual Enhancement
+Type: Improvement
+Improvement required
+Type: Improvement suggestion
+resolution: enhancement request
+Enhancement :dash:
+Type-Enhancement
+RE-Enhancement
+Enhancement ☺
+TYPE: enhancement
+✨ enhancement
+type:Enhancement
+internal improvement
+type: Enhancements
+Improvement
+enhancement/general
+Enhancement / Feature
+✨ Enhancement
+pr/enhancement
+UI Enhancement
+Enhancement :tada:
+T: enhancement
+rn-enhancement
+t1:enhancement
+t:enhancement
+Cosmetic
+pr-improvement
+Feature Enhancement
+Needs improvement
+type: feature or enhancement
+Issue-Enhancement
+C-enhancement
+T-Enhancement
+user-experience-improvement
+🧞‍♂️ enhancement
+kind: enhancement
+type:enhancement
+improvement
+changelog: enhancement
+feature/enhancement
+tp:enhancement
+i: enhancement
+Feature Improvement
+issue: enhancement
+type:improvement
+C-improvement
+Enhancement Request
+type: enhancement
+Type / Enhancement
+enhancement ✨
+area/upgrade
+type/enhancement
+🍗 enhancement
+Enhancement / Feature Request
+test enhancement
+<Enhancement / Feature>
+Code enhancement
+enhancement
+🎨 Type: Enhancement
+[Type] Enhancement
+
+Cluster 121 :
+automated
+Automation
+topic: automation
+type/build-automation
+SYSTEM: native automation
+accessibility - automated
+Area - Automation/Static Analysis
+automated pr
+repo automation :robot:
+eng:automation
+C: automation
+automation
+Dependencies :robot:
+SYSTEM: automations
+AutomatedCherryPick
+
+Cluster 122 :
+elasticsearch
+linking
+CONNECTION POOL
+pattern matching
+a-chains
+Component: Link
+gateway
+Component: Pivot
+Game: Balance
+ARM
+backbone code
+Related Posts
+Balancing
+protocol
+strings
+connectors
+relay
+Connections
+A-concurrency
+relations
+theme/consul/connect
+Area:Protocol
+Area: Bindings
+Pathfinding
+Category: Protocol
+area-System.Threading
+string
+Strings
+Connect Flow
+A-Federation
+PROTOCOL
+A-linkage
+topic: link
+component: channels
+Area: Linker
+
+Cluster 123 :
+Pack
+A-Packaging
+containers
+Packaging/Homebrew
+S - packaging
+Packaging
+tray
+component/tray
+content-packs
+cp:packaging
+area/packaging
+Functionality:Pack
+Parcels
+Container Instances
+team-packaging
+packs
+Coverity
+packaging
+subprojects/wraps
+Component: Packaging
+
+Cluster 124 :
+Cognitive Services
+needs reproduced
+Area - Visual Encoding
+to-be-reproduced
+Component: ColorPicker
+state/reproduced
+tool: scan
+Reproduced
+tool: snapshot
+symbolizers
+Visualization
+help pane
+feat / visualizers
+visualization
+visual studio integration
+module: visualization
+To be reproduced
+projections
+positional audio
+
+Cluster 125 :
+❔Question
+v ⬇️
+i ⬇️
+Go 项目
+算法
+✨ feature
+已发布
+校对认领
+⚠️ wip
+⛲️ feature
+⚙ feature
+PM ✔️
+后端
+🔮 thinc
+区块链
+QA ✔️
+发布
+Qt ✨
+phishing 🎣
+🗂 Types
+状态_已解决
+前端
+状态_重复
+★
+🌙 nightly
+✶ breaking
+Wording ✔️
+机器学习
+depency ⬆️
+翻译完成
+💡idea
+产品
+问题标注
+backport/requested 🗳
+待验证
+¯\_(ツ)_/¯
+申请译者
+恶意issue
+需求
+🤝Welcome PR
+⚑ perf
+📱mobile
+设计
+🌟 feature
+其它
+🎨 ui
+不接纳
+文档
+💸 caching
+🤔 Thoughts?
+文章推荐
+恶意 issue
+type: todo 💚
+重要
+d ⬆️
+⚛️ React-related
+wip ⚒
+其他
+功能增强
+
+Cluster 126 :
+bug: crash
+crash
+B - crash
+type/crash
+<crash>
+Crash
+crash report
+[Type] Crash
+crash-or-hang
+I-crash
+crash :boom:
+💥 crash
+kind: crash
+
+Cluster 127 :
+Functionality:Push
+Has Pull Request
+Pull-request-wanted
+A-Push
+pull-request
+pull request wanted
+pull
+need pull request
+has: Pull Request
+Push Notifications
+Contribute:Pull-requests-encouraged
+<push>
+awaiting pull request
+open-for-pulls
+
+Cluster 128 :
+Category-DevPlugin
+Dev Experience
+area: dev
+Dev: CI
+dev:ci
+Area - Dev
+team/devx
+LDAP
+on hold by dev team
+npm: @cypress/react
+aspect-dev
+PR-4.4-dev
+Dev
+2: Dev Review
+scope: dev-infrastructure
+component/devtools
+package:dev
+PR-3.10-dev
+Dev: Gitflow
+Waiting for dev
+devel-implemented
+dev
+PR-5.0-dev
+dev love
+PR-4.2-dev
+dev edition
+Type: DevX
+squad:devops
+ldap
+devx/support/q4b1
+PR-4.3-dev
+Category-DevMode
+
+Cluster 129 :
+vcs
+Trophies
+C: VCard
+C: VChip
+C: vcs
+c:VCS support
+Category: VCS
+
+Cluster 130 :
+Hook
+Status: Awaiting Update :hourglass_flowing_sand:
+CUDA
+OS-android🤖
+Dao
+Carreira
+cuda
+Bullseye
+Odroid C2
+French
+topic-pandas-like
+UWP
+O-Frequent
+Vue
+OE
+loc
+Lua
+O-Arm
+area: Shell
+ocamldoc
+native shell
+polys
+OTI
+Odroid XU4
+floats
+Portuguese
+Algos
+Dune 2000
+bonitoo
+npm
+OpenCL
+c:e:shell
+Calypsoify
+v6
+Libretro
+Aztec
+gnome
+@clr/angular
+O-wasm
+Syft
+cuIO
+I/O
+AMP
+ONNX
+termux
+NTI
+O-Occasional
+Status: Available :wave:
+
+Cluster 131 :
+Component: i18n :abcd:
+i18n-tracker
+component: i18n
+[Focus] i18n
+Category-I18N
+i18n
+feature: translation/i18n
+Infrastructure: i18n
+area: i18n
+
+Cluster 132 :
+Needs: Attention
+AGENDA ITEM
+Up-for-grabs
+Priority-Critical
+up-for-grabs
+issue-addressed
+!IMPORTANT!
+Critical
+P1: urgent
+Up-for-Grabs
+NeedsFeedback
+Priority: SHOULD
+Up-For-Grabs
+need-attention
+issues
+URGENT
+up for grabs
+needs decision
+Component: Issues
+known issue
+P0: Critical
+pinned
+agenda+
+P1: Urgent
+I-needs-decision
+Primary Issue
+important
+needs-decision
+strategic
+Key feature
+Needs Decision
+Issue Pinged
+Priority-8_Important
+CRITICAL
+Priority/Critical
+Knack
+topic: focus
+needs-attention
+constraints
+Priority: MUST
+Pinned
+known-issue
+needs expert opinion
+
+Cluster 133 :
+IO Data
+IO Google
+IO HTML
+IotHub
+IO
+IO CSV
+IO Excel
+t:io
+module: io
+IO HDF5
+🔗 apollo-link
+IO JSON
+A-io
+IO SQL
+
+Cluster 134 :
+Area - SQL
+SQL
+Execute SQL
+dialect: sqlite
+DB: SQLite
+DB: MS SQL Server
+Accounting
+in: SQL parse
+a: sql-server
+SQL Server
+area: sql
+db: SQLServer
+feature: SQL federation
+
+Cluster 135 :
+router
+area: routing-utils
+Routing
+t:routing
+routing
+target:go
+Filtering
+Mode Line
+ROUTING
+Solver: Routing
+
+Cluster 136 :
+proxy
+t:http:server:dsl
+implemented by github
+HttpFoundation
+RStudio IDE
+WG: access-subscriptions
+HttpKernel
+<tabs>
+Feature:Reorganize-AllBoards-OrgsTeamsPeople
+Login
+pr:daveit
+component: xml sitemap
+Node Sass --> Dart Sass
+github_actions
+deploy-sourcegraph
+Domains
+cabal-install: nix-local-build
+:checkered_flag: Release: .NET Core 3.0
+<sitepermissions>
+Unified Login & Signup
+NeedsUserFeedback
+GlobalShortcuts
+WG-Interactive-PSReadLine
+A-Media-Repository
+IETF draft / RFC
+A-http
+service/rds
+Touches WP.com Files
+scope/clients-go
+in: proxy
+hackathon
+topic: source-shopify
+Component: Facepile
+GoCommand
+comp:runtime
+B-RFC-implemented
+Area:HttpCommunication
+sig/scheduling
+URL Pattern
+Yoast: Schema
+service/codebuild
+Component-Heapstat
+db: openGauss
+GoogleDataTransport
+comp-joins
+Needs: Backlog review
+feature: TOTP
+openstack
+github-actions
+t:http
+GIF Support
+area: OpenThread
+source: core:upload
+Sitemaps
+comp-formats
+sourceforge
+source: core:content-type-builder
+sourcegraph-refinement-bot
+
+Cluster 137 :
+needs-design-guidance
+Category-Designer
+type: design
+[Status] Needs Design
+state: Needs Design
+design question
+needs agreed design
+design-input-needed
+needs-design
+Type: Design
+needs design
+by design
+by-design
+needs-design-approval
+design discussion
+I Designer profile
+By Design
+kind/design-issue
+needs design decision
+Design Needed
+Design Review
+design
+topic: planner
+[Status] Design Review Complete
+Help Wanted: Designer
+:art: Design
+Design
+needs: design
+Status: Design Review Needed
+A-design
+[Status] Needs Design Review
+Needs: Design
+design decision
+Needs design decision
+team/product-design
+Resolution: By Design
+Resolution-By Design
+
+Cluster 138 :
+Can Close Out Soon
+Category: Future
+Next-Iteration
+P2: Soon
+requires-nightly
+maybe
+v:future
+planned feature
+available soon
+Could Close
+future
+planned
+PR: next
+closing-soon
+early-in-cycle
+Next
+Milestone-Planned
+Save for Later
+Future
+closing soon
+area: next
+next
+consider soon
+must have eventually
+later
+Plans
+stage/thinking
+Soon
+
+Cluster 139 :
+sensors
+component: pathfinder
+area: Sensors
+tracker
+Discovery
+area: Watchdog
+Investigate
+research
+TRACKING
+in-tracker
+tracking
+stage: investigating
+investigate
+investigating
+State / Investigating
+object-detection
+team/code-exploration
+theme/discovery
+object detection
+sentry
+Investigating
+
+Cluster 140 :
+Qt5
+5
+v5
+Fabric 5
+Estimation - 5 (L)
+5-0-x
+webpack-5
+estimate/5d
+E5
+(P5 - Long-term)
+P5
+time-5
+3.5
+Milestone-1_5-RC
+S5: Regression
+d455
+msf5
+Milestone-1_5-Final
+T-h5
+Milestone-1_5-RC2
+4.5.1
+
+Cluster 141 :
+size-s
+size/S
+sized types
+size: M
+size/L
+size/XXL
+size-optimisation
+size: L
+size: XL
+size/XL
+size: S
+size-m
+Size: S
+size/M
+Size: M
+
+Cluster 142 :
+Feature :hammer:
+Installer :diamond_shape_with_a_dot_inside:
+Type: Enhancement :pencil2:
+:hammer_and_wrench: Enhancement
+Feature Request :factory:
+improvement request :hammer:
+I Tools / workflow / repo
+area: Sockets
+sig/api-machinery
+:wrench: Maintenance
+full-mono-integration-build
+:hammer: Feature Request
+Type: Refactor :hammer:
+Found:ManualTests
+ops & tools & dev
+T-dev-tools
+PR: Polish :nail_care:
+Engineering
+cabal-install: solver
+SYSTEM: hammerhead
+bot:chronographer:provided
+tool: gym
+tool: sigh
+tool: match
+spec tooling
+zip-builder
+Enhancement :wrench:
+[Type] Janitorial
+game: Minecraft
+Type:Engineering
+testing :hammer:
+
+Cluster 143 :
+topic: source-plugins
+Component: PeerTube Plugin :package:
+topic: plugins-PWA
+possible plugin
+source: plugin:users-permissions
+plugin-request
+3rd party plugin
+component:Plugins
+topic: plugins
+plugins
+plugin
+Area: plugin
+Area:Plugin
+category:plugin api change
+Yoast: Plugins integration
+plugin-netrw
+New plugin
+Category: Plugin
+New: plugin
+
+Cluster 144 :
+(S3 - Duplicate)
+resolution:Duplicate
+Closed: Duplicate
+Status: Duplicate
+DUPLICATE
+👯‍♀️ Is Duplicate
+Type: Duplicate
+STATE: Duplicate
+Resolution: Duplicate
+Duplicate Report
+Duplicate ☝
+Resolution:Duplicate
+Meta: Duplicate
+:heavy_check_mark: Resolution: Duplicate
+Resolution-Duplicate
+Type: Duplicate :loop:
+Duplicate
+Status-Duplicate
+[Type] Duplicate
+Reason: Duplicate
+1 Duplicate
+
+Cluster 145 :
+type:task
+workflow
+A: task-queue
+Task
+Component: Workflow
+type: task
+type:Task
+Severity:production
+Type: Chore
+task
+chore
+scope: workflows
+type: chore
+Tag: Development Task
+theme/jobspec
+type: sub task
+X4: work required
+Workflow
+[Type] Task
+
+Cluster 146 :
+pkg/server
+pkg: standalone
+pkg: register
+Pkg::AABB_tree
+Pkg::PMP
+pkg: core
+PSMF / MPEG
+Pkg::Scripts
+pkg: traverse
+pkg: preset-env
+Pkg::BGL
+pkg:filebrowser
+Pkg::Number_types
+pkgsite
+Pkg::Triangulation_2
+pkg: traverse (scope)
+Pkg::Point_set_processing_3
+pkg:terminal
+pkg/reporter
+Temp folder
+pkg/desktop-gui
+Pkg::Triangulation_3
+pkg: types
+pkg:application
+
+Cluster 147 :
+input.postgis
+component:Editor
+weekly-report
+Schema
+Pages List
+documentation :page_with_curl:
+mailing list material
+schema
+post parsing
+package:editor-classic
+- Mailling list -
+Map Editor
+Editor
+topic: source-wordpress
+pages
+entry-editor
+D-papercut
+Package: react-monaco-editor
+Mailer
+Posts List
+Media Editing
+weekly-digest
+Note Editor
+Copy-paste
+editable
+area: blobs/files
+editor
+area: co-editing
+Pages
+N-author-input
+Invoices
+Posting/Editing
+source editor
+feature: readwrite-splitting
+readme
+Column sorting
+S - scrollback
+
+Cluster 148 :
+Lang
+lang-c
+lang / zh
+T-lang
+lang:jsx
+Lang: Java
+lang / es
+S - winit/glutin
+lang / de
+lang-d
+lang-rust
+Lang: .NET
+lang / fr
+lang / ja
+lang / en
+lang:yaml
+lang:angular
+lang:flow
+lang:html
+lang:markdown
+Area-LangService-CodeFixes
+lang:vue
+
+Cluster 149 :
+test: flaky
+smoke-testing
+flaky
+Flaky test
+Related to: Flaky Tests
+process: flaky test
+flaky test
+force tests
+flaky-test
+
+Cluster 150 :
+bug 1: - needs investigation
+needs-investigation
+N-investigation
+needs investigated
+stage: needs investigating
+Needs: Investigation
+Needs investigation
+needs investigation
+Needs Investigations
+needs: investigation
+investigation-needed
+stage/needs-investigation
+Status: Needs Investigation
+Status: investigating
+Resolution: Needs Investigation
+further investigation required
+state/needs-investigation
+needs investigation :microscope:
+Needs Investigation
+
+Cluster 151 :
+QA Verified
+Confirmed
+I Knowledge
+Approved
+Status: Completed
+Status: Accepted
+Proposal-Accepted
+Accept
+Accepted
+Verified
+Completed
+Done
+(S2 - Confirmed)
+actionable
+PR: Approved
+as designed
+Topic: completion
+Flow: Done
+Status: Answered
+Other Approved
+Approved by qa
+completions
+candidate: yes
+
+Cluster 152 :
+Admin
+ADMIN
+site-admin
+Admin UI
+component: admin
+admin area
+admin
+source: core:admin
+Admin Page
+
+Cluster 153 :
+Feature: Server
+installing nvm: profile detection
+server-ui
+language server
+Project:Accounts:Password
+Microsoft on point
+mysql server behavior
+t:server
+module/server
+api: remoteconfig
+client: vscode
+code-server
+Proxy/VPN
+server-side
+bolt server
+server
+Network - Application Gateway
+area: server
+server-access
+vs-hackathon
+A-server
+<session>
+AREA: server
+
+Cluster 154 :
+comp: schema sync
+Sync
+[Package] Sync
+sync
+Feature:Import-export-sync
+A-Sync
+synced-folders/general
+Network/Sync
+<sync>
+synced-folders/smb
+synced-folders/nfs
+A: data-sync
+synced-folders/rsync
+vs-sync
+
+Cluster 155 :
+filter-request
+feature request (devs?)
+kind/feature-request
+Type: Feature request
+feature request
+Type: Feature Request
+Feature Request
+Feature request
+feature requests
+Feature-Request
+🛠 Type: Feature Request
+C-feature-request
+type: feature-request
+feature-http-abstractions
+🏆  Feature Request
+feature_request
+requested feature (hold over)
+FEATURE REQUEST
+type: feature request
+[Type] Feature Request
+Feature-request
+💖 Feature Request
+feature/assertion
+feature-request
+issue: feature request
+
+Cluster 156 :
+Test
+test-issue
+test
+A-testsuite
+Tests :test_tube:
+Help to Test
+cabal-testsuite
+area: tests
+run-internal-tests
+with-tests
+test-day
+area: test262
+run-bcl-tests
+process: tests
+test-todo
+component: tests
+area: Tests
+part: checker
+type: test
+tests
+Category: Tests
+e2e-tests
+Tests/Done
+C: tests
+disabled-test
+Category: Test/QA
+Testsuite
+state:tested
+run-all-tests
+Tests
+scope: tests
+Tests-Passed
+feature/test-doubles
+Type:Test
+c:tests
+🧪 has-tests
+feature/test-runner
+Test Suite
+ok-to-test
+in: test
+test suite
+Type: Tests
+infra: test suite
+Type: Testing :test_tube:
+
+Cluster 157 :
+dco-required
+aws:cognito
+DX
+Feature: PDB
+intermediate
+IDC
+theme/consul
+dpd
+a=OK'ed
+DNM
+topic: style
+dx-announce
+level 1 :grey_exclamation:
+Doctrine
+topic: remark/mdx
+ACS
+area: ADC
+DNT policy
+type: @delon
+language:D
+Azure.Identity
+DS - Wayland
+A-dst
+Cognito
+cognito
+category/dx
+RD
+cross-dc
+language/de
+topic: cy.type ⌨️
+D3D9
+FAQ
+domain:dx
+:racehorse: performance
+area: DHT
+severity/mid
+topic: DX
+code-gen
+faq
+Resolution:ByDesign
+D-terse
+comp-foreign-db
+Type:DCR
+DS - X11
+Component: Modal
+D3D11
+dx
+
+Cluster 158 :
+action: cleanup
+type:cleanup
+Type: Internal Cleanup
+Issue-Code Cleanup
+cleaning
+C-cleanup
+kind/cleanup
+cleanup
+changelog:cleanup
+9.needs: clean-up
+Type: Cleanup
+Cleanup
+type/cleanup
+8.has: clean-up
+kind: cleanup
+cleanup-ops
+theme/internal-cleanup
+theme/cleanup
+Tag: Cleanup
+
+Cluster 159 :
+code health
+codeball:needs-careful-review
+code-intelligence-performance
+codemirror
+Code quality
+team/code-intelligence
+code
+code-intelligence-platform
+code quality
+kind/code quality
+CodePlex
+component:Code Completion and linting
+Codebase Quality
+type: code-quality
+team/code-insights
+F JS Code Hints
+Code Coverage
+team/code-navigation
+code-related
+
+Cluster 160 :
+Jetpack
+Spacemacs Layouts
+tool: pilot
+Jetpack Focus
+Jetpack CLI
+vs4mac integration
+jetbrains-ide
+terminal
+jetson
+aws:cloudformation
+[Focus] Jetpack DNA
+Carriers
+S - terminal
+area: terminals
+Jetpack Mobile
+flyspray
+Jetpack Plugins
+feature-terminal
+Jetpack Content Migration Flow
+onboarding
+Jetpack App
+
+Cluster 161 :
+Web editor
+My Site Dashboard
+Web UI
+Product: Website
+webui
+website
+integration: web frameworks
+Area - Web Console
+project:react-native-web
+Category-Website
+Area: Website
+WebAssembly
+HttpClient
+Blogging Prompts
+web
+Via Forum
+My Site
+wikibase
+webapp
+Web Apps
+Website
+type: website
+info: website
+WebAPI
+Webservice
+html5
+webassets
+WebUI
+web-components
+Org
+HTML
+<web-extensions>
+dependency:website
+SEO & URLs
+cp:web-ui
+Web
+Help (please use the forum)
+webhooks
+web interface
+
+Cluster 162 :
+3 ArangoSearch
+3.e
+P3: Important
+P3
+3 - Done
+3.x
+Priority 3
+3. Enrich
+3 Cluster
+P3: When Possible
+3-0-x
+3 AQL
+3 Pregel
+3.0
+ruby
+i3-compat
+3 Foxx
+III VF Replacement
+third party issue
+3.3
+Vuetify 3 - Phase 3
+3 Documentation
+Pri3
+3 Graph
+Difficulty/3:Hard
+vue3
+3 Search
+Third-Party
+W3C
+Severity3
+cloud/milestone-3
+3 Build
+3rd party  issue
+3 JS API
+V-3
+severity: 3 (broken)
+3 Geo
+third-party
+Priority:3
+WinUI3
+3 Core
+planned/3.15
+J3 Issue
+planned/3.16
+Severity: 3 - Medium :unamused:
+Ruby
+Pkg::Mesh_3
+2.3
+3 Optimizer
+planned/3.20
+III Expand styles
+time-3
+Severity: 3
+P3: important
+cef3
+z3str3
+3
+3.0 spec support
+3: Medium complexity
+Estimation - 3 (M)
+Priority: 3 - Medium :unamused:
+3 API
+3.1
+ThirdParty
+3rd_party
+3 UI
+3 Metrics
+third party
+v-3.x
+3 Index
+E3
+g3: reported
+3 - Ready for Review
+post3x
+3 RocksDB
+III Expand glyphset
+effort3: weeks
+3-1-x
+3 UserManagement
+planned/3.17
+3rd party issue
+3 Packaging
+V3
+planned/3.13
+
+Cluster 163 :
+Accessibility
+accessibility - screen reader
+[Focus] Accessibility
+Related to: Accessibility
+Area: Accessibility
+Tenet:Accessibility
+accessibility - WCAG A
+domain:accessibility
+type/accessibility
+Component: Accessibility
+needs: accessibility input
+accessibility
+category/accessibility
+type: accessibility
+
+Cluster 164 :
+reprex
+need: repro
+qa repro
+has-min-repro
+repro:needed
+st-need-repro
+has-repro-comment
+needs repro
+Prepublishing Nudges
+need repro
+repro:yes
+has-repro-gist
+waiting-for-repro
+needs team repro
+A - needs repro
+needs-repro
+has-repro-repo
+
+Cluster 165 :
+epic:stashing
+DevOps
+RegressionFromPreviousRTM
+[deprecated]team/distribution
+[Deprecated] Gutenberg compatibility
+Regression
+BC Break
+Component: Dropdown
+r markdown
+Deprecate
+[deprecated]team/search
+go
+shrinkwrap
+BC break
+roller/pause
+<Crash / Freeze>
+Deprecation
+[deprecated]team/internal-contributor
+deprecation
+Feature: Decompiler
+merge delay passed
+Deprecation Removal
+Decompiler
+changelog: ABI break
+Undo-redo
+A-const-eval
+team/devops-deprecated
+C: DropDownList
+RegressionDuringThisVersion
+C: freeze
+wrong-repo
+Component-LeakCheck
+A-closures
+changelog:skip
+cp:devops
+Markdown
+finished-final-comment-period
+visual markdown
+removal/deprecation
+
+Cluster 166 :
+NotPassengerIssue
+Changelog/Not Needed
+resolution:NotSpyder
+topic:offline
+PR: Unaddressed comment(s)
+pr-not-for-changelog
+binary
+CANTFIX / UNCONFIRMED
+Unmerged
+geo-restricted
+Uncategorised
+limits
+Notifier
+pr/no-changelog
+Resolution:NotABug
+pr-change-not-shipping
+uncaught-exception
+cla-not-required
+Win only
+suspended
+PR: unreviewed
+dco/no
+pr/no-metrics-test
+not-in-changelog
+Uncategorized problem report
+pr-no-backport
+only-with-option
+Issue Stale (automatic label)
+resolution:NoResponse
+pr-not-reviewed
+wont-backport
+cla: no
+PR: non-main
+Area - Null Handling
+I-unsound
+Unimplemented
+
+Cluster 167 :
+type:updates
+9.needs: package (update)
+Stats Refresh
+Status:Requires Updates
+auto-updater
+Type: Status Update
+update
+Progress: needs update
+upgrade
+Icon Update
+design refresh
+type: dependency upgrade
+Functionality:Update
+topic: upgrade
+type: dependency-upgrade
+Type: Improvement :chart_with_upwards_trend:
+update package
+8.has: package (update)
+group/api-upgrade
+readme improvement
+kind/update
+Upgrade
+updatebot
+submodule update
+kind: redesign
+package:find-and-replace
+8.has: module (update)
+I Font Upgrade
+needs-update
+command: update
+Updates Requested
+Area: updater
+Functionality:Restore
+Core: Update settings
+Stats Revamp
+
+Cluster 168 :
+Type:Technical Debt
+debt
+tech-debt
+[Type] Tech Debt
+Flag / Tech Debt
+tech debt
+Area/Technical Debt
+technical-debt
+
+Cluster 169 :
+Component: Transcoding
+matrices.expressions
+area: audio
+a-macros
+telemetry
+otherlibs
+topic: serialize and transfer
+<media>
+Composer Dependency Changed
+Area: Mono Runtime
+A-macros
+serialization
+audio
+[Focus] Multisite
+A-audio
+WG-Interactive-IntelliSense
+coroutine
+Solver: Linear Solver
+topic: multiple globals
+area/multicursor
+intellisense
+area:multiparser
+C: ComboBox
+Audio
+combinatorics
+Component: ComboBox
+Serializer
+feature: encrypt
+BLOCKER
+feat / vectors
+MultiIndex
+multicamera
+Headers
+A-macros-2.0
+component: multisite
+C: MultiSelect
+encoding
+matrices
+multitenancy
+APPLETS
+media playback
+Multistore
+
+Cluster 170 :
+purs ide
+channel
+bazel
+story
+Trac
+Git
+IM
+with
+mu
+Contrib
+camlidl
+conda
+Thinking
+already-looked-at
+Answered
+I Request
+blin
+/Me
+git
+Reported
+claimed
+Team
+wish
+dhall
+Wish
+series
+responded
+hasPR
+IN
+ORM
+Responded
+Oops
+thinking
+Style
+make
+board
+answered
+ha
+picked
+com
+Select
+CO
+should have
+joins
+WordAds
+
+Cluster 171 :
+ZRELEASED - Beryllium
+semver/major
+semver-major
+Component: Moderation :godmode:
+Selenium
+semver: major
+semver-minor
+arch-arm
+semver/minor
+forking
+semver: minor
+A-lint
+solvers.diophantine
+arch
+tensor
+
+Cluster 172 :
+component: metabox
+Component: Event Pipeline
+area: Devicetree Tooling
+team/core-application
+Component / Scenario Player
+Component / State Machine
+scope:framework
+Focus:Launcher
+component/controller
+device
+tool: frameit
+area: Devicetree Binding
+part: program
+component/dashboard
+Platform-specific (UWP)
+Component / Transport
+component-platform
+Project:JS Environment
+component/host
+vendor-project
+component:Projects
+component-psa
+Partner:Project-System
+Component: Core Frontend (React)
+product-question
+platform-support
+team/language-platform
+component/router
+configuration issue
+project/content-variants
+Products
+Component: Panel
+platform: SiLabs
+Component: Developer Environment
+framework
+component/protocol
+component: interface
+scope: microservices
+Framework
+Component / PFS
+project-system
+component: content analysis
+component:applications-set
+models
+device_model
+kit
+functionality / feature
+Component: Persona
+area: Devicetree
+Project: Entity
+Advanced parameters
+
+Cluster 173 :
+Incomplete
+not-enough-information
+hidden arguments
+[Status] Not Ready for Review
+notimpl
+Hiding
+incomplete info
+not following template
+state:not-testable
+template missing/incomplete
+*out-of-scope
+-- missing sources
+Not Suitable
+Works for me / Can't reproduce
+poor-formatting
+CLOSE IF NO RESPONSE
+missing information
+PR not qualified
+feature: insufficient votes
+loc: wrong translation
+not reproducible
+Incompatible
+out of scope
+Stale
+missing MCVE
+Not Reproducible
+Outdated
+CannotReproduce
+do not land
+[Status] Stale
+not reproducible / bug report
+Priority-1_Little Interest
+missing-log
+not-supported
+not-notes-worthy
+Missing Tests
+B - missing feature
+under-discussion
+Undecided
+dunno
+false
+not enough info
+not follow template
+Missing-data
+incomplete
+secrets
+Type: Undecided
+
+Cluster 174 :
+10-x-y
+21-x-y
+area-xaml
+Size: XS
+17-x-y
+Xamarin.Forms
+24-x-y
+18-x-y
+X-Regression
+20-x-y
+x11
+9-x-y
+XCUITest
+13-x-y
+22-x-y
+26-x-y
+size: xs
+Estimation - 1 (XS)
+19-x-y
+XF
+23-x-y
+25-x-y
+14-x-y
+15-x-y
+11-x-y
+size-xs
+12-x-y
+size/XS
+X11
+area: Xtensa
+16-x-y
+
+Cluster 175 :
+node
+nodejs
+Node
+area/nodecontroller
+Package: Node
+area: node
+installing node
+component/node-integration
+service/cloudfront
+sig/node
+node.js
+scope: node
+
+Cluster 176 :
+Tools
+C: ToolBar
+comp:tool
+tool: produce
+Feature: Loader/PE
+Docs: Tools
+t:cluster-tools
+<toolbar>
+tooling
+Project:Tool
+CL-Tools
+tool: deliver
+package/tools
+tool: pem
+Component: Tooltip
+Tooling
+tools
+team/language-tools
+Theme Tools
+microservices/tech
+ToolSpeed
+part: tools
+tool: supply
+net_tools
+toolkits
+area: Toolchains
+
+Cluster 177 :
+tag:Extensions
+extension
+addition/proposal
+sunset-extensions
+Area - Extension
+area: extensions
+extensions
+extension problem
+domain:extending-builds
+vscode-extension
+Extensions
+extensions / SDK
+
+Cluster 178 :
+cant reproduce
+Status: Can't reproduce
+cant-reproduce
+cannot reproduce or not an issue
+Cannot Reproduce
+unable to reproduce
+cannot-reproduce
+can't reproduce
+cannot reproduce
+Can't reproduce
+
+Cluster 179 :
+component: infrastructure
+FrameworkBundle
+area: infrastructure
+area: frameworks
+kind: infrastructure
+Infrastructure
+Area-Infrastructure
+area-infrastructure
+Tag: Infrastructure
+infrastructure
+type: infrastructure
+
+Cluster 180 :
+first-time contributor
+12. first-time contribution
+contrib-good-first-issue
+Good First Issue
+Good first issue
+Good First Issue!
+:sparkles: 1st-time docs contributor!
+:books: good-first-issue
+E-good-first-issue
+first-timers-only
+Tag / Good First Issue
+good-first-issue
+
+Cluster 181 :
+Looks Good To Me
+Matching
+nice to have
+Nice to Have
+P5: nice to have
+[Type] Happiness Request
+good question
+A-pretty
+Popular package
+newcomer friendly
+nice-to-have
+code-happiness
+P4: Nice To Have
+P4: Nice to have
+good tip
+Nice-to-have
+severity-nice-to-have
+moderate
+Likes
+
+Cluster 182 :
+[Status] Needs Author Reply
+4 - Waiting on Author
+Waiting on Author
+Needs Author Reply
+C - waiting on author
+awaiting-author-response
+S-waiting-on-author
+Waiting for author
+PR: author's turn
+📞  Needs Response from Author
+
+Cluster 183 :
+service/emr
+build pipelines
+@aws-cdk/aws-dynamodb
+module: filters
+utilities
+🔬 testing-utilities
+service/dynamodb
+area/pipeline
+A: pipelines
+aws:dynamodb
+plugin :electric_plug:
+feature: pipeline
+area: management utilities
+Package: utilities
+area/transformers
+feat / pipeline
+EventPipe
+area: Power Management
+Utility
+
+Cluster 184 :
+comp-datetime
+Guess: A day or more
+A-runtime
+area: Timer
+Period
+Z-Time-Tracked
+Dates
+Guess: A few hours
+timeline
+Package: date-time
+Timeseries
+component: date-picker
+Timedelta
+preset
+pinpoint
+Cell type: Date
+C: DateTimePicker
+A-lifetimes
+date-picker
+Waiting for PM
+time-to-value
+Timezones
+TIMEOUT
+Component: Calendar
+Component: DatePicker
+
+Cluster 185 :
+has patch
+patch candidate
+semver/patch
+semver: patch
+type: patch
+needs patch
+semver-patch
+patch-welcome
+Patches
+has-patch
+Needs Better Patch
+patch
+patch from FlySpray
+semver:patch
+community-patch
+Patch
+
+Cluster 186 :
+integrals
+type: localization
+integrations
+area: integration/terraform
+ci/integration-docker-ok
+interop
+LMS Integration :school:
+integration
+Localization
+Share Extension
+Area - Segment Balancing/Coordination
+Continuous Integration
+area-Interop
+Central-EngSys
+area: hub
+Localisation
+Area/Integrations
+EngSys
+continuous-integration
+area: share / join
+office-integration
+localization
+Component: Integrations
+Contact Form
+npm-integration
+
+Cluster 187 :
+Reader
+:earth_africa: Translations
+Type: Documentation :book:
+standard library
+pkg:notebook
+book
+documentation :books:
+area: C Library
+Type: Documentation :books:
+Storybook
+publishing
+Area - Docs :book:
+documentation :notebook:
+Component: Documentation :books:
+Documentation :book:
+notebooks
+documentation :book:
+documentation :bookmark_tabs:
+storybook
+authoring :writing_hand:
+part: standard library
+
+Cluster 188 :
+community
+mentoring
+community discussion
+managed-by-community
+st-community-taken
+community/up-for-grabs
+source:community
+community watch
+Good For Community
+community/pr
+Community Contribution
+E-mentor
+beginning-contributor
+Community
+
+Cluster 189 :
+🧬 typings
+@types
+Email
+todo :spiral_notepad:
+mail processing
+calculus
+typing
+keyboard
+package:typing
+Email theme
+Symbol Solver
+spellcheck
+t:typed
+Formulas
+language design :rage4:
+ps_emailalerts
+Component: Checkbox
+domain:typing/ime
+type: typings
+
+Cluster 190 :
+mruby
+A-debuginfo
+rf bridge
+gitlab
+RBAC
+VarDumper
+Team Clifton
+MDFP
+c-bi
+crosbug
+legacy-objc
+pug-linker
+rbac
+TBD
+bib(la)tex
+BO
+area-blazor
+distro: Ubuntu
+TBR
+polymer
+PubSub
+FBX
+area/bpf
+dup
+Buster
+mu4e
+bpf
+JRuby
+pydeck
+comp-rbac
+c-ib
+guest/ubuntu
+bulma
+MBO
+<=(- UBO -)=>
+ocamlbuild
+Masterbar
+
+Cluster 191 :
+kind/design
+kind/flake
+kind/documentation
+kind/health
+kind/ci-flake
+kind/support
+kind/task
+kind/feature
+kind/research
+kind/client
+reconciliation
+kind-locales
+kind: request
+kind/discussion
+kind/question
+kind: todo
+kind/enhancement
+kind/toil
+kind/docs
+Resolution: Soft Close
+kind/chore
+
+Cluster 192 :
+Full logs needed
+High Priority
+Type: Epic
+Priority 1: High
+emotion
+High
+EPIC
+High Severity
+SEV: High
+severe
+noteworthy
+High Contrast
+effort/large
+GREAT REPORT
+Priority-High
+Impact-High
+Epic
+epic
+swift
+P1: High Priority
+stress
+Priority/High
+Priority: High
+epic/flux
+[Pri] High
+
+Cluster 193 :
+Waiting on Merge
+PR: awaiting-merge
+needs: pr merge
+pr:ready-to-merge
+5 - Ready to Merge
+pr: merge ready
+merge-when-ready
+Waiting Code Merge
+part: unification
+9 Ready to Merge
+unification
+ready to merge
+Ready To Merge
+PR: Ready to be Merged
+PR: Merge Ready :heavy_check_mark:
+PR to merge
+pr - good to merge
+ready-to-merge
+requires-approval-before-merge
+pr/forward-merge
+
+Cluster 194 :
+ZD
+z_Noto
+z-minor
+Feature: Wish List
+port-zephyr
+zig build system
+A-const-generics
+<glean>
+Component: ZVOL
+zig cc
+shell: zsh
+z-feature
+Wishlist
+Z-Dev-Wishlist
+ZZZ[Done]-back-ported-bf
+feature-wish
+Depth / Z
+wishlist
+language/zh
+Component: ZED
+type: wish
+topic-zarr
+
+Cluster 195 :
+physics.quantum
+electron-publish
+physics.continuum_mechanics
+browser: electron
+physics.mechanics
+Atomic
+electron-updater
+physics
+electron
+physics.units
+physics.vector
+
+Cluster 196 :
+Tenet:Performance
+Core: Performance
+severity: performance
+A-Performance
+topic-performance
+category/performance
+area/performance
+performance
+type:performance
+expected-behavior
+Component: Live
+Related to: Performance
+--- Live
+category:performance
+kind: performance
+component: performance
+type: performance 🏃‍♀️
+Category: Performance
+Area: Performance
+[Focus] Performance
+Feature: Performance
+topic: performance
+Type: Performance
+Performance
+area: performance
+B - performance
+type: performance
+tp:performance
+
+Cluster 197 :
+portability
+theme/operator-usability
+Flag / Usability
+expected behavior
+serviceability
+topic: source-contentful
+Protect
+robustness
+Responsive
+unity
+Tenet:Reliability
+quality of life
+Usability
+component: best practices
+maintainability
+stability
+area/reliability
+simplify
+correctness/consistency
+observability
+A-stability
+resilience
+S-Tolerable
+Category:Quality Week
+consistency
+Status: Understood
+feature:authority
+operability
+thread-safety
+usability
+area: Portability
+type:usability
+area: Sanitycheck
+Maintainability
+
+Cluster 198 :
+ready-for-review
+reviewable
+monitoring
+plan-review
+pr/reviewed
+reviewed
+Reviewed
+issue/reviewed
+ready for review
+To review
+in_review
+evaluating
+checks
+Monitor
+review
+Status: Reviewed
+Review
+Feature: Item Reviews
+historical-reviewing
+report
+Committee-Reviewed
+reflection
+to-evaluate
+historical-reviewed
+Reviewer
+action: review
+pr: review
+Ready for Review
+reviewed once
+to review
+st:review
+to be reviewed
+
+Cluster 199 :
+Status: Resolved
+Resolution: Fixed
+:heavy_check_mark: Resolution: By Design
+Resolution-Fixed
+Resolution: Implemented
+Resolution: Works As Intended
+resolution: best with core
+Resolution:External
+:heavy_check_mark: Resolution: Answered
+Resolution-External
+A-resolve
+resolution:Completed
+module: common
+Resolution-Answered
+Resolution: External
+scope: common
+
+Cluster 200 :
+Numeric Operations
+Cell type: Numeric
+nuget
+aws:lambda
+Horus
+service/lambda
+Numerics
+lambda
+Product:NuGet.exe
+NUX
+Product:NuGetizer
+extended lambdas
+nitro
+
+Cluster 201 :
+font-handling
+Area: Icons
+graphics
+<icons>
+topic: screenshots 📸
+type: gestures
+area: Flashing
+Image
+GRAPHICS WEIRDNESS
+Scroll
+Component: Button
+tool: screengrab
+Shaders
+colorbar
+Icon Request
+icons
+component: icons
+
+Cluster 202 :
+squad:collaboration
+mode: cluster
+sig/cluster-lifecycle
+causal clustering
+cp:clustering
+clustering
+t:cluster:dc
+c:common segments
+team-cluster
+area/create-cluster
+t:cluster
+topic: cluster mgmt
+Nested rows
+
+Cluster 203 :
+severity:normal
+Beginner friendly
+Easy to Fix
+Theme-Simple-F#
+1: Easy
+good for beginner
+beginner friendly
+Easy Pick
+beginner-friendly
+newbie-friendly
+Ease of Use
+Freenas
+good amateur issue
+Easy
+Difficulty-­­1_Easy
+P3: Normal
+great for beginners
+Difficulty/1:Easy
+Type: Good for beginners
+Priority 2: Normal
+resolution: works as expected
+Priority: Normal
+[Pri] Normal
+Easy Task
+community:Easy
+
+Cluster 204 :
+A11yMediumImpact
+component: a11y
+IQE
+A11yMAS
+resolution: tracked by a11y
+AKS
+A11yCT
+a11y
+VSF1
+Platform:Mono
+T260 series
+cef1
+E1
+
+Cluster 205 :
+JITM
+comp-matview
+backend-llvm
+LTS-PORTABLE
+area: Kconfig
+area: gporca
+cabal-install: cmd/install
+fread
+hw-ledger
+gpu
+comp-ttl
+port-mimxrt
+MLD
+Mgmt-EngSys
+gpuCI
+type: MSc-Thesis-Work
+WG-Cmdlets
+CMake
+metrics
+gpcm_in
+WG-Cmdlets-Utility
+mlo
+area: benchpress
+CMake scripts
+tool: cert
+A-LLVM
+CDN: Google
+area: GPIO
+cabal-install: cmd/init
+Project:DDP
+WG-Cmdlets-Core
+Build: CMake
+matlab
+comp-dddl
+cmake
+MMU2S
+Tag: cmake
+libcudf
+HLE/Kernel
+cabal-install: cmd/haddock
+
+Cluster 206 :
+qa
+Area: init
+type:intended
+spec
+A-allocators
+AAD
+exchange
+AakList
+<state>
+cy.intercept()
+area/eks
+area: DMA
+planned/3.19
+A-inference
+wayland
+A-Metrics
+Intl
+a!-mark
+shasum
+indent
+root
+area:idempotency
+Point of Sale
+area: init
+area: Boards
+middle-end
+Wayland
+ace
+locale
+A-Messages-Endpoint
+Area: NVDA
+area/addons
+eta
+Yaml
+Mgmt
+area/daemon
+ReleaseCandidate
+package:theme-lark
+area/executor
+Miscellaneous
+Stats
+ticket
+sets
+Categorical
+stats
+a:segment
+area: native port
+planned/3.18
+AakScript
+area/fox
+Polling
+feature: agent
+agent
+area: linq
+QA
+hornet
+area/shadowsocks
+area/runner
+how-to
+area/aclk
+native
+Apache
+AtD
+area/dap
+
+Cluster 207 :
+backport-stable-5.0
+mode: standalone
+backport-stable-3.0
+t:persistence
+backport stable/8.0
+Keep Open
+backport-stable-6.0
+consider-for-stable
+Keep open
+PR: For stable
+persistence
+backport-stable-3.2
+backport-stable-3.1
+3.11-Stabilization
+area: persistence
+backport-stable-4.0
+Keep
+backport-to-stable
+
+Cluster 208 :
+API MODIFICATION LEVEL: non-breaking changes
+not-our-bug
+Not a Bug
+no QC knowledge needed
+non-breaking
+no-change-entry-needed
+not bug
+Issue: Not a bug
+Type: Not a bug
+F - not a bug
+not a bug
+not-bug
+Not an issue
+No change required
+Not a DietPi issue
+non issue
+no changelog
+Bot: Not Stale
+non breaking change
+not-a-bug
+
+Cluster 209 :
+component:File Explorer
+Package: Browser
+package:html-support
+browser: chrome
+browser: Safari
+browser: Chrome
+browser-extension
+feature: Browser
+browser:edge
+SYSTEM: browser natives
+component/webview
+Functionality:VisualStudioUI
+webpack
+PR: webpack-4
+browser:safari
+browser
+component/BrowserView
+browser:chrome
+Webviews
+webpack-4
+browser-add-on
+🌐 reference browser
+browser: IE
+component/BrowserWindow
+🦊 browser specific
+os-browser
+
+Cluster 210 :
+Type: Dependencies
+pr: dependencies
+type: dependencies
+dependency:cmake
+DependencyInjection
+area/dependency
+PR: Dependency ⬆️
+scope:dependency
+Category: Dependency
+dependency
+Category: Dependency Resolution
+Dependencies
+info: dependency
+dependency-change
+dependencies
+process: dependencies
+project: vendored dependency
+pr/dependency
+source: dependencies
+dependency-indexing
+PR: Is Dependency
+
+Cluster 211 :
+<menu>
+Context menu
+Component: Menu
+component/menu
+Menus
+
+Cluster 212 :
+Component: Encryption
+Proposal-Crypto
+Topic: bindkey
+Lock
+Key Bindings
+:door: Authentication
+area: Crypto / RNG
+keymap
+key bindings
+feature: Hardware Keys
+feature-kerberos-authentication
+S - keybindings
+component-crypto
+
+Cluster 213 :
+package:link
+Area:PackageDefinition
+package:table
+package:paste-from-office
+package:media-embed
+npm-package
+package:mention
+repository setup :package:
+package:list
+package:style
+package:heading
+comp-distributed
+package:upload
+Package: charting
+Style:Packages.Config
+package:clipboard
+package management
+package request
+team/delivery
+Package: vue
+package:widget
+package:basic-styles
+package/awscl
+Package: tracing
+Area:PackageSourceMapping
+Style:PackageReference
+package:image
+
+Cluster 214 :
+PR: Docs :memo:
+:book: Docs
+Project:Docs
+feat / doc
+Website / Marketplace / Docs
+docs/website
+S: needs docs update
+A-intra-doc-links
+Add to Docs
+docs/generated
+Comp: Docs
+enhancement/docs
+module: docs
+docathon
+doc-idea
+type/docs
+Product: Docs
+source: docs
+comp:doc
+changelog:doc
+info: docs
+docs/guide
+:book: Docs Update
+theme/docs
+Docs: Content
+Component / Docs
+
+Cluster 215 :
+Status: Released
+provide example
+contacted
+On hold
+announcement
+TODO
+usage
+in: example
+ASSIGNED
+Dedicated
+response requested
+Release
+Signup
+response-requested
+Publicize
+[Status] In Progress
+flow
+ie
+Manage
+Look and feel
+Feature: Progress
+Main
+Release Notes
+Please take over
+Releases
+Order
+todo
+st-hold
+Observed
+speech
+In Progress
+Must-have
+follow instructions
+intend to implement
+examples
+instance
+must have
+addressed
+rule
+Core: Walkontable
+Releasing
+ready
+Status: In Progress
+on-hold
+on hold
+Ready
+
+Cluster 216 :
+Simulator
+driver: mariadb
+Driver: AMD Vulkan
+theme/driver/docker
+driver: mongodb
+tool: spaceship
+Drivers
+driver: postgres
+RaceDetector
+driver: mysql
+lexers
+sidecar
+theme/driver/exec
+:rocket: Feature Request
+team-drivers
+PR: New Feature :rocket:
+area: Drivers
+Vehicles
+A-driver
+Project:Mongo Driver
+tool: fastlane
+tool: fastlane_core
+rpm
+pkg/driver
+
+Cluster 217 :
+c#
+Modern C++ (C++11 and later)
+translate-c
+Needs C#
+C: finder
+C++ 项目
+c:configuration
+area: C++
+c-ju
+C: encoding
+c++
+lang-c++
+c:font
+J4 Frontend Template
+C#
+Lang: C++
+C: wheel
+
+Cluster 218 :
+trigger
+in contact!
+React
+actions
+events
+moved
+React Native
+area: Flash
+Package: react
+motion
+snap
+Event
+area: react
+scope: react
+Moving
+actioncable
+actionview
+F-react
+
+Cluster 219 :
+needs reproduction
+Needs Reproduction
+:wilted_flower: needs-reproduction
+comp-darwin
+🤔 Need Reproduce
+needs-reproduction
+→ Needs Reproduction
+ionitron: needs reproduction
+OS-Darwin
+Has Reproduction
+S: needs reproduction
+host/darwin
+Need Reproduce
+🤔 needs reproduction
+Status: To Reproduce
+
+Cluster 220 :
+vi-mode
+C: VAppBar
+Component: Dracut
+records
+hw-trezor
+Component: Send/Recv
+caml-weekly-news
+C: VGrid
+C: VOverlay
+area: RISCV
+vite
+svg
+C: VList
+C: VCombobox
+C: VStepper
+C: VTabs
+c=varnishd
+C: VInput
+scintilla dependent
+SVG
+C: VImg
+C: VTextarea
+cve
+Mvc
+C: VCalendar
+vim
+CI/CD :nut_and_bolt:
+C: VAutocomplete
+ERR! node-gyp -v <= v9.x.x
+Intl-ICU
+C: VNavigationDrawer
+:boom: Regression
+part: VM
+area-VM
+C: VDialog
+C: VTooltip
+V-1
+C: VDatePicker
+CVE
+C: VCheckbox
+C: VColorPicker
+copatterns
+C: VTreeview
+C: VBtn
+C: VExpansionPanel
+C: VMenu
+C: VSlideGroup
+C: VIcon
+C: VCarousel
+C: VTextField
+c:e:vim
+c=vmod
+C: VSelect
+C: VDataTable
+VR
+Component: Nav
+cask
+
+Cluster 221 :
+Type: Maintenance
+project/maintenance
+Maintainer
+type:maintenance
+Type: Maintenance :construction_worker_woman:
+type: Maintenance
+maintenance
+code maintenance
+type: maintenance
+
+Cluster 222 :
+FixTheFlows
+Starter Task
+Type: Fix
+PR: Bug Fix :bug:
+Fixing
+ISP Fixes
+Fix proposed
+Fix Committed
+PR: Bug Fix
+Type: Bug Fix
+RE-Bug-Confirmed
+FIXED
+PR: Fixup requested
+Should Be Fixed
+package:undo
+Bug: Confirmed
+Contributor Fix
+PR: Fixes failing main
+Fixed in develop
+Status:Fix Proposed
+Fix suggested
+Fixed
+PR: Fixed
+Status-Fixed
+Status: Fixed
+
+Cluster 223 :
+code/java
+javascript-client
+JavaScript
+cuDF (Java)
+JavaScript / Coffee
+component: javascript
+lang:javascript
+t:java
+JavaScript 项目
+target:java
+java
+Java
+target:javascript
+javascript
+language/java
+
+Cluster 224 :
+Graphs
+source: plugin:graphql
+Graph
+topic: GraphQL
+GraphQL
+GraphML
+3 Graph Visualization
+
+Cluster 225 :
+docker
+component: docker
+provider/docker
+backend: Docker
+area/docker
+deckbuilder
+ports
+Docker
+Component: Docker :whale:
+
+Cluster 226 :
+area: UART
+pkg:console
+Console
+AI
+Firmware: PX4 Autopilot
+WG-Interactive-Console
+Package: dashboard
+Area: Game Support
+Dashboard
+software
+dashboard
+component:IPython Console
+AI Reply
+area: Modem
+firmware
+command: console
+Product: Highcharts Dashboards
+Driver: NVIDIA
+a: dashboard
+Component: Toggle
+Ver: Autoware.AI
+area/console
+Multiplayer
+console
+
+Cluster 227 :
+Impact-Medium
+Targets:Sandstorm
+perf / speed
+impacts documentation
+Perf
+Area - Metrics/Event Emitting
+External Contributor
+flakes
+Project: Effects
+area: perf
+Fuzzer
+Salt-Cloud
+perf / accuracy
+Impact:some
+fuzz
+perf
+Tiled Gallery
+type/flake
+
+Cluster 228 :
+iOS 14 Widgets
+New Reader iOS
+iOS 13
+os: iOS
+platform: ios
+iPad
+Platform-specific (iOS)
+iOS
+os: ios
+ios
+browser:ios
+apple_silicon
+
+Cluster 229 :
+type:bug
+Bug
+tp:bug
+kind/bug-report
+Type: Possible bug
+Type: Confirmed bug
+Bug Report
+Qt bugs
+Minor Bug
+Issue-Bug
+issue: bug
+Report: Bug
+type: bug
+:bug: Bug
+TYPE: bug
+bug report
+PRE-RELEASE BUG
+bug :bug:
+Bug / Issue
+test bug
+Confirmed bug
+kind/bug
+Type / Bug
+Bug-ToolCrash
+type/bug
+Test Bug
+bug_somewhere_else
+Bug Report/Open
+Type: Bug
+type: bug report
+T: bug
+internal-bug-filed
+type:Bug
+Definition:Bug
+Type: Possible Bug
+Known Issue :bug:
+kind: bug
+Type: Bug :bug:
+Bug :bug:
+T: Bug
+Bug report
+t: bug
+bug / issue
+Bug: Validated
+Bug-FalsePositive
+Possible Bug
+browser-bug
+possible bug
+bug
+browser bug
+[Type] Bug
+menu-bug
+<Bug>
+[Type] Good First Bug
+Type:Bug
+bug/typo
+bug-in-dependency
+I Font Bug
+Bug (to verify)
+Type:BugFixes
+BUG
+potential bug
+Needs Bug Verification
+t:bug
+
+Cluster 230 :
+awaiting changes
+Status: Revision Needed
+pr - changes requested
+✏️ needs changes
+Waiting on Changes
+pending changes
+Revision needed
+needs_revision
+Resolution: Needs Revision
+PR: Changes requested
+X-Awaiting-Changes
+needs changes
+Docs change required
+awaiting changes :pen:
+[Status] Requires String Changes
+requires-changes
+
+Cluster 231 :
+activesupport
+F Installer
+Cell type: Autocomplete / Dropdown / Handsontable
+F Live Preview
+Hotlist-Release
+activemodel
+KeyVault
+Starter
+area/activemq
+activejob
+activerecord
+activestorage
+
+Cluster 232 :
+Comment support
+area/comments
+a-comments
+Comments
+area:comments
+- Lots of Comments
+area: comments
+
+Cluster 233 :
+area: Bluetooth Mesh
+stage: icebox
+German
+thor
+T-bootstrap
+FrozenDueToAge
+area: Bluetooth
+Pipeline:Icebox
+type: enhancement :wolf:
+area: Bluetooth Qualification
+mjolnir
+odin
+Wizard
+frozen-due-to-age
+S: Icebox
+I-ICE
+lifecycle/frozen
+icebox
+glacier
+Icebox cleanup candidate
+
+Cluster 234 :
+Ajax
+feature: ajax
+Priority: 1 - Immediate :fire:
+browser:firefox
+api: firestore
+browser: firefox
+torch
+BACK-BURNER
+Blaze
+firefox
+browser: FireFox
+emulators: firestore
+lightning ⚡
+hotness
+stage: fire watch
+Firefox
+service/firehose
+<firefox-accounts>
+
+Cluster 235 :
+area: CAN
+area/service
+area/Naming
+area/search
+metadata
+area/apiserver
+A-metadata
+area/collectors
+area-CodeGen
+area: identity
+area/Nacos console
+area-runtime
+area/boot
+Pkg::Surface_mesh
+area-identity
+Area - Ingestion
+area/ml
+I Description/Metadata/OFL
+area/artifacts
+Area - Querying
+Graveyard
+area: claims
+area/git
+area/editor
+area: Memory Protection
+area/database
+area/provisioning
+area: sourcemaps
+Area/End User Feature
+area/tls
+area/google
+Area - Documentation
+area:function calls
+A-associated-items
+area-middleware
+area: Userspace
+topic-metadata
+in: metadata
+area-System.Runtime
+area/translation
+area: Samples
+Area-SetupAndDelivery
+area-PAL
+area-Tracing
+area: Miscellaneous
+area/jenkins
+area-System.Memory
+area/kata-qa
+area/api
+A-attributes
+area/documentation
+Area - Dependencies
+
+Cluster 236 :
+🛬 needs landing (squash)
+bug :lady_beetle:
+bug :beetle:
+:beetle: bug
+Bug :lady_beetle:
+External Bug :lady_beetle:
+verbs :running_woman:
+Bug :spider:
+squash when passing
+
+Cluster 237 :
+WG: stories
+component:Pylint
+wsl
+<pwa>
+WSFederation
+WP Stories
+WG: components
+WG: monetization
+project/hf20
+WS
+WG: caching
+wpf
+WSL
+discussion :speech_balloon:
+WG-Language
+area: West
+WG-traits
+WG: viewers
+language/fr
+PGF / sceFont
+area: SPI
+area: PWM
+needs-fcp
+WPF
+topic: canvas
+WG: runtime
+team/batchers
+Area - Batch Ingestion
+service/waf
+Batch
+
+Cluster 238 :
+RTL
+RTFM
+rtl
+
+Cluster 239 :
+Statistics
+data-sources
+Data Laboratory
+DataStore
+Analytics
+A: data-management
+area-dataprotection
+data viewer
+map-data
+t:distributed-data
+Project: Data
+WG: analytics
+team/admin-analytics
+data grid
+component: datagrid
+Data-services
+audit-log
+area-datagrid
+browse data
+analytics
+Feature: Data Types
+Cognitive - Text Analytics
+5. Data modeling
+data-viz
+SYSTEM: reporting
+
+Cluster 240 :
+epic:onboarding
+WG-Engine
+<engine-system>
+feat / transformer
+info: steamcmd
+engine
+WG-Engine-Performance
+CL-Engine
+component/engine
+boilerplate
+rules-engine
+orchestrator/k8s
+generators
+orchestrator/openshift
+pkg: generator
+A-generators
+WG-Engine-Providers
+engines
+package:engine
+GE emulation
+
+Cluster 241 :
+User Interface
+Interactive
+Info / User Interface
+user interface
+gui
+area/gui
+Widget Visibility
+GUI
+User-Side
+component: GUI
+Product settings
+widgets
+user-interface 🔲
+component: configuration wizard
+Feature: GUI
+
+Cluster 242 :
+Mobile Safari
+mobile
+mobile client
+Mobile
+Mobile Theme
+Project:Mobile
+Mobile Request
+ui: mobile
+
+Cluster 243 :
+A-edition-2021
+A-rust-2018-preview
+hacktoberfest/contrib-2019
+Hackfest
+hacktoberfest/contrib-2021
+Hacktoberfest
+hacktoberfest/contrib-2020
+hacktoberfest
+
+Cluster 244 :
+type/refactoring
+refactoring / source code
+purs repl
+refactoring
+renovatebot
+kind/refactor
+👩‍🏭 refactor
+Refactoring
+♻️ code refactor
+renovate
+Filters
+Refactor
+type:refactor
+Salt-API
+provisioner/salt
+refactor
+component: refactoring
+type: refactor
+
+Cluster 245 :
+search
+Search
+feature: db-discovery
+Feature: Search
+Component: SearchBox
+team/search-core
+component: search console
+team/search-product
+<search>
+Component: Search
+Faceted search
+Search engine
+
+Cluster 246 :
+infra
+area/test-infra
+area/infra
+type:infra
+WG: infra
+cinfra
+Red Alert
+T-infra
+
+Cluster 247 :
+component: frontend
+area: frontend
+Frontend
+scope: frontend
+forwardport
+A-frontend
+Category: Frontend
+category/front-end
+Front-end
+front-end
+topic: frontend
+frontend
+area/frontend
+frontend-platform
+
+Cluster 248 :
+topic: workers
+needs owner
+Component: PeoplePicker
+Paid Source
+Employees
+reporter
+People Management
+operator
+jobs
+Focus:Supervisor
+Shop parameters
+Waiting for: Product Owner
+producer
+Suppliers
+worker
+newcomer-job
+A-Workers
+
+Cluster 249 :
+triaging
+Triaged
+Triage:NeedsRepro
+PR Triage Complete
+Triage:NeedsMoreInfo
+Status: Needs Triage
+Status: Triage Needed
+Status: Triage
+? - Needs Triage
+Triage:Investigate
+Triage:NeedsTriageDiscussion
+Needs-Triage
+NeedsTriage
+Needs: Triage :mag:
+Needs Triage
+
+Cluster 250 :
+Priority - Medium
+🤨 Difficulty: Medium
+Severity / Medium
+Priority:Moderate
+[Pri] Medium
+Medium Impact
+Medium Severity
+Impact: Medium
+SEV: Medium
+Medium Priority
+Priority: Medium
+Difficulty-­2_Medium
+Difficulty/2:Medium
+Medium
+Priority-Medium
+
+Cluster 251 :
+A-diagnostics
+diagnostics
+A-suggestion-diagnostics
+NLL-diagnostics
+diagnostic
+Area-Diagnostics
+CT
+theme/health-checks
+WG-diagnostics
+area-Diagnostics
+
+Cluster 252 :
+testing
+topic-testing
+area/functional-testing
+Component: Test Suite
+Component: Test
+t:testing
+cp:testing
+A-Testing
+rfc-697-testing
+area: Test Framework
+scope: testing tools
+Area - Testing
+module: test
+test-plan-problem
+Tested
+area/test
+testplan-item
+Test Framework
+Flag / Testing
+Testing
+Area-Testing
+scope:testing
+Area: Testing
+area/tests
+theme/testing
+tested
+comp:testing
+on-testplan
+eng:ui-test
+AREA: testing
+Type: Testing
+area/testing
+type: testing
+area: testing
+area/Test
+testbench
+
+Cluster 253 :
+Home Assistant
+RE-Housekeeping
+Security
+attic
+security
+home
+PR: Internal :house:
+housekeeping
+Spec: Decorators
+
+Cluster 254 :
+Ask-It-On-Stack-Overflow
+for: stackoverflow
+cubical
+Uploads
+Component: Stack
+for: stack-overflow
+cloud
+ask to stackoverflow
+Cloud Shell
+type: question/stack overflow
+StackOverflow
+Feature: Loadouts
+stackoverflow
+
+Cluster 255 :
+Platform
+railties
+pr:platform
+platform specific
+Tracks
+⚑ cross platform
+platform/all
+platform
+channel:rail
+Platforms
+platform-specific
+

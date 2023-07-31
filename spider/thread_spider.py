@@ -1,4 +1,3 @@
-import mysql.connector
 import threading
 
 import pymysql as db
@@ -12,7 +11,7 @@ import json
 import re
 
 # 创建数据库
-mydb = mysql.connector.connect(
+mydb = db.connect(
     host="localhost",
     user="root",
     password="root",

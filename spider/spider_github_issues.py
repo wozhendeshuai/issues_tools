@@ -1,4 +1,3 @@
-import pymysql as db
 import requests
 from utils.time_utils import time_reverse
 from utils.access_token import get_token

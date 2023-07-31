@@ -1,16 +1,14 @@
-import mysql.connector
 import threading
 
-import pymysql as db
 import requests
-from utils.time_utils import time_reverse
 from utils.access_token import get_token
-from utils.url_utils import findUrlJsonCount
 import time
 import json
 from sql_thread import execute_query, execute_select_query
 from concurrent.futures import ThreadPoolExecutor
 import re
+# 添加进度条
+import tqdm
 
 access_token = get_token()
 # 拼接多个请求头
@@ -19,24 +17,25 @@ headers = {
     'X-GitHub-Api-Version': '2022-11-28'
 }
 
-
 # 在控制台输出日志，给出当前的线程名称，所用的方法名称，以及当前的时间等信息
 # 打印当前时间 '%Y-%m-%d %H:%M:%S'
 
 
 print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
 
+
 def log_str(method_name, owner_name, repo_name, table_name, max_issues_number, db_max_number, message):
-    reStr = "======" + " 时间:" + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())) + " 线程名:" + threading.current_thread().name
+    reStr = "======" + " 时间:" + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(
+        time.time())) + " 线程名:" + threading.current_thread().name
 
     if method_name is not None:
         reStr = reStr + "  方法名:  " + str(method_name)
     if owner_name is not None:
-        reStr = reStr + "  owner_name:  " +  str(owner_name)
+        reStr = reStr + "  owner_name:  " + str(owner_name)
     if repo_name is not None:
-        reStr = reStr + "  项目名:" +  str(repo_name)
+        reStr = reStr + "  项目名:" + str(repo_name)
     if table_name is not None:
-        reStr = reStr + "  数据表名:  " +  str(table_name)
+        reStr = reStr + "  数据表名:  " + str(table_name)
     if max_issues_number is not None:
         reStr = reStr + " 真实最大的issues编号:" + str(max_issues_number)
     if db_max_number is not None:
@@ -60,14 +59,14 @@ def create_table(table_name):
         print(log_str("create_table", None, None, table_name, None, None, "名为：" + table_name + "的表已存在"))
     else:
         execute_query(
-            f"CREATE TABLE {table_name} (issues_number INT AUTO_INCREMENT PRIMARY KEY, issues_text LONGTEXT, labels VARCHAR(255))")
+            f"CREATE TABLE {table_name} (issues_number INT ,owner_repo_name VARCHAR(255), issues_text LONGTEXT, labels VARCHAR(255))")
         print(log_str("create_table", None, None, table_name, None, None, "名为：" + table_name + "的表创建成功"))
 
 
 # 向表中插入issues_text和labels
-def write_to_table(table_name, repo_name, issues_number, issues_text, labels):
-    sql = f"INSERT INTO {table_name} (issues_number, issues_text, labels) VALUES (%s, %s, %s)"
-    val = (issues_number, issues_text, str(labels))
+def write_to_table(table_name, owner_name, repo_name, issues_number, issues_text, labels):
+    sql = f"INSERT INTO {table_name} (issues_number,owner_repo_name, issues_text, labels) VALUES (%s, %s, %s, %s)"
+    val = (issues_number, owner_name + "_" + repo_name, str(issues_text), str(labels))
     execute_query(sql, val)
     print(log_str("write_to_table", None, repo_name, table_name, None, None,
                   "在表中" + table_name + "插入" + str(issues_number) + "的issues_text和labels"))
@@ -103,14 +102,15 @@ def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_nam
             print(log_str("batch_set_issues_info", owner_name, repo_name, table_name, max_issues_number, db_max_number,
                           "length_list_issues_json:" + str(length_list_issues_json)))
             for issues_index in range(0, length_list_issues_json):
-                print(log_str("batch_set_issues_info", owner_name, repo_name, table_name, max_issues_number,db_max_number,
+                print(log_str("batch_set_issues_info", owner_name, repo_name, table_name, max_issues_number,
+                              db_max_number,
                               "开始获取第" + str(page_num) + "页,第" + str(issues_index) + "个issues"))
                 # 从json中提取数据
                 issues_number = list_issues_json[issues_index]['number'] == None and " " or \
                                 list_issues_json[issues_index]['number']
                 if issues_number <= db_max_number:
                     print(log_str("batch_set_issues_info", owner_name, repo_name, table_name, max_issues_number,
-                                  db_max_number,"这个issues已经爬取过了，跳过，issues_number:" + str(issues_number)))
+                                  db_max_number, "这个issues已经爬取过了，跳过，issues_number:" + str(issues_number)))
                     continue
                 issues_title = list_issues_json[issues_index]['title'] == None and " " or \
                                list_issues_json[issues_index]['title']
@@ -122,18 +122,27 @@ def batch_set_issues_info(db_max_number, max_issues_number, owner_name, repo_nam
                     'body']
                 issues_created_at = list_issues_json[issues_index]['created_at'] == None and " " or \
                                     list_issues_json[issues_index]['created_at']
-                issues_text = 'number: ' + str(issues_number) + '\ntitle:' + issues_title + \
-                              '\ncreated_at:' + issues_created_at + \
-                              '\nuser:' + str(issues_user_id) + '-' + issues_user_name + '\nbody:' + issues_body
+                # issues_text = 'number: ' + str(issues_number) + '\ntitle:' + issues_title + \
+                #               '\ncreated_at:' + issues_created_at + \
+                #               '\nuser:' + str(issues_user_id) + '-' + issues_user_name + '\nbody:' + issues_body
                 issues_labels_list = list_issues_json[issues_index]['labels']
                 issues_labels = []
                 if len(issues_labels_list) > 0:
                     for issues_labels_index in range(0, len(issues_labels_list)):
                         issues_labels.append(issues_labels_list[issues_labels_index]['name'])
+
+                issues_text = {}
+                issues_text["number"] = issues_number
+                issues_text["title"] = issues_title
+                issues_text["created_at"] = issues_created_at
+                issues_text["user"] = str(issues_user_id) + '-' + issues_user_name
+                issues_text["body"] = issues_body
+                issues_text["label"] = issues_labels
+                issues_text = json.dumps(issues_text, ensure_ascii=False)
                 print(log_str("batch_set_issues_info", owner_name, repo_name, table_name, max_issues_number,
                               db_max_number,
                               "issues_text:" + issues_text + "issues_labels:" + str(issues_labels)))
-                write_to_table(table_name,repo_name, issues_number, issues_text, issues_labels)
+                write_to_table(table_name, owner_name, repo_name, issues_number, issues_text, issues_labels)
             # 当顺利解析后切换到下一页
             page_num = page_num + 1
             list_issues_url = "https://api.github.com/repos/" + owner_name + "/" + repo_name + "/issues?state=all&direction=asc&per_page=100&page=" + str(
@@ -200,9 +209,9 @@ def get_closed_issues_max_num(owner_name, repo_name):
 # 控制爬取流程
 def process(owner_name, repo_name):
     max_issues_number = get_closed_issues_max_num(owner_name, repo_name)
-    table_name = owner_name + "_" + repo_name + "_issues"
+    table_name = "All_issues"
     create_table(table_name)
-    result = execute_select_query(f"SELECT MAX(issues_number) FROM {table_name}")
+    result = execute_select_query(f"SELECT MAX(issues_number) FROM {table_name} where owner_repo_name='{owner_name +'_' + repo_name}'")
     if result[0][0] is None:
         db_max_number = 0
     else:
@@ -233,7 +242,7 @@ def get_org_and_repo(project_list):
 
 
 if __name__ == '__main__':
-    file_path = "D:\PycharmProjects\plpi\PLPI_GitHub_dataset.txt"
+    file_path = "/Users/jiajunyu/PycharmProjects/plpi/PLPI_GitHub_dataset.txt"
     project_list = txt_file_process(file_path)
     print(project_list)
     print(len(project_list))

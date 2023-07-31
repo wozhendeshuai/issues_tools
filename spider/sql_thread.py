@@ -1,6 +1,6 @@
 # Importing necessary libraries
 import threading
-import mysql.connector
+import pymysql
 
 # Creating a thread-local storage for database connections
 local_data = threading.local()
@@ -11,7 +11,8 @@ def get_db_connection():
     # Check if connection already exists for current thread
     if not hasattr(local_data, 'connection'):
         # Create new connection if not exists
-        local_data.connection = mysql.connector.connect(
+
+        local_data.connection = pymysql.connect(
             host="localhost",
             user="root",
             password="root",
