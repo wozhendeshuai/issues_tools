@@ -44,7 +44,7 @@ max_label = max(ds["label_count"])
 raw_datasets = ds.train_test_split(train_size=0.8, test_size=0.2, shuffle=True)
 
 # Load BERT tokenizer and model
-tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
+tokenizer = AutoTokenizer.from_pretrained('sentence_relation_pretrained_bert_model')
 
 
 # tokenized_dataset = tokenizer(
@@ -77,7 +77,7 @@ eval_dataloader = DataLoader(
 # training_args = TrainingArguments("test_trainer")
 accelerator = Accelerator()
 
-model = AutoModelForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=max_label + 1)
+model = AutoModelForSequenceClassification.from_pretrained('sentence_relation_pretrained_bert_model', num_labels=max_label + 1)
 
 optimizer = AdamW(model.parameters(), lr=3e-5)
 train_dataloader, eval_dataloader, model, optimizer = accelerator.prepare(train_dataloader, eval_dataloader, model,optimizer)
@@ -144,4 +144,4 @@ print(f"Average Evaluation Loss: {average_eval_loss:.4f}")
 print(f"Accuracy: {accuracy:.4f}")
 
 
-model.save_pretrained('sentence_relation_pretrained_bert_model')
+model.save_pretrained('sentence_issues_pretrained_bert_model')
