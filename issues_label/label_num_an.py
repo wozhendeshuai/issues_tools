@@ -9,7 +9,7 @@ from datasets import Dataset
 import torch.nn.functional as F
 from accelerate import Accelerator
 from torch.utils.data import DataLoader
-
+# 此文件的主要工作是收集表中所有的labels，并将其保存到label_file.json文件中
 max_label = 0
 
 result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]' ")
