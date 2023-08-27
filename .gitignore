@@ -3,3 +3,6 @@ lib/
 Scripts/
 .idea
 spider/token.txt
+text2vector/data
+text2vector/pretrained_bert_model
+text2vector/sentence_relation_pretrained_bert_model

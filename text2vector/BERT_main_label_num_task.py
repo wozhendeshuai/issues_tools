@@ -171,6 +171,7 @@ for i in range(len(sorted_indices)):
     true_label_positions_str = " ".join(map(str, true_label_positions))
     results_df.loc[i] = [top_n_positions, true_label_positions_str]
 
+
 # Save the results DataFrame to a CSV file
 results_df.to_csv("data/predictions_and_labels_positions.csv", index=False)
 # model.save_pretrained('sentence_issues_pretrained_bert_model')
