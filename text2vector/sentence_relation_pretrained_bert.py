@@ -14,7 +14,7 @@ max_label = 0
 
 
 def gen():
-    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'  limit 100000")
+    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'  limit 500000")
     # Read and process JSON data
     json_files = []
     for issues_db in result:
@@ -143,5 +143,5 @@ accuracy = eval_correct / total_samples
 print(f"Average Evaluation Loss: {average_eval_loss:.4f}")
 print(f"Accuracy: {accuracy:.4f}")
 
-tokenizer.save_pretrained('sentence_relation_pretrained_bert_model')
-model.save_pretrained('sentence_relation_pretrained_bert_model')
+tokenizer.save_pretrained('sentence_relation_pretrained_bert_model_50w')
+model.save_pretrained('sentence_relation_pretrained_bert_model_50w')

@@ -17,21 +17,22 @@ import numpy as np
 max_label = 128  # 这个值应该是聚类的簇数
 
 
+#  order by rand()
 def gen():
-    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'  limit 2000")
+    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]' order by rand() limit 20000")
     # 从label_cluster.json文件中读取label_cluster
     label_cluster = json.loads(open("../issues_label/label_cluster.json", "r").read())
     # Read and process JSON data
     json_files = []
     for issues_db in result:
         json_files.append(issues_db[2])
-    # labels_binary是一个128维的列表
-    labels_binary = []
-    for i in range(0, max_label):
-        labels_binary.append(0)
 
     # 从json文件中读取数据，每次读取文件的title和body拼接起来，进行tokenize，然后将tokenize后的结果转换为id
     for i in range(0, len(json_files)):
+        # labels_binary是一个128维的列表
+        labels_binary = []
+        for j in range(0, max_label):
+            labels_binary.append(0)
         f1 = json_files[i]
         json_data1 = json.loads(f1)
         text1 = json_data1["title"] + " " + json_data1["body"]
@@ -41,6 +42,10 @@ def gen():
             if key in label_cluster.keys():
                 common_labels.append(label_cluster[key])
                 labels_binary[label_cluster[key]] = 1
+
+        # 打印出该issues的label数量，和labels_binary中为1的元素数量
+        print("\n json_data1[label]" + str(json_data1["label"]) + "len(json_data1[label])" +
+              str(len(json_data1["label"])) + " sum(labels_binary):" + str(sum(labels_binary)))
         # Convert label_count to a PyTorch tensor
         label_count = torch.tensor(labels_binary)
         yield {"row_id": i, "text1": text1, "labels": label_count}
@@ -49,8 +54,8 @@ def gen():
 # 生成Dataset后，给max_label赋值
 ds = Dataset.from_generator(gen)
 
-# 将ds写入到csv文件中
-ds.to_csv("data/test.csv")
+# # 将ds写入到csv文件中
+# ds.to_csv("data/test.csv")
 
 # 拆分ds为train_ds和test_ds
 raw_datasets = ds.train_test_split(train_size=0.8, test_size=0.2, shuffle=True)
@@ -70,10 +75,10 @@ tokenized_datasets = tokenized_datasets.remove_columns(["text1", "row_id"])
 tokenized_datasets.set_format("torch")
 
 train_dataloader = DataLoader(
-    tokenized_datasets["train"], shuffle=True, batch_size=16, collate_fn=data_collator
+    tokenized_datasets["train"], shuffle=True, batch_size=8, collate_fn=data_collator
 )
 eval_dataloader = DataLoader(
-    tokenized_datasets["test"], batch_size=16, collate_fn=data_collator
+    tokenized_datasets["test"], shuffle=True, batch_size=16, collate_fn=data_collator
 )
 accelerator = Accelerator()
 
@@ -228,6 +233,10 @@ results_df = pd.DataFrame(columns=["Top_N_Predicted_Positions", "True_Label_Posi
 # Populate the DataFrame with the results
 for i in range(len(sorted_indices)):
     true_label_positions = np.where(all_test_labels[i] == 1)[0]  # Get the positions of true labels
+    if true_label_positions.size == 0:
+        total_samples += 1
+        eval_correct += 1
+        continue
     num_pos_labels = len(true_label_positions)  # Count of true positive labels
     top_n_positions = sorted_indices[i, :num_pos_labels]  # Get the top n predicted positions
     true_label_positions_str = " ".join(map(str, true_label_positions))
@@ -244,7 +253,6 @@ for i in range(len(sorted_indices)):
 
 # Save the results DataFrame to a CSV file
 results_df.to_csv("data/test_predictions_and_labels_positions.csv", index=False)
-
 
 average_eval_loss = eval_loss / len(eval_dataloader)
 accuracy = eval_correct / total_samples

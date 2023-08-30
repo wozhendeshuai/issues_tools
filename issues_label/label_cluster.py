@@ -1,15 +1,10 @@
-import json
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.feature_extraction.text import TfidfVectorizer
+
 from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-import os
+
 import json
-import tqdm
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments, BertTokenizer, \
-    BertForNextSentencePrediction, AdamW, DataCollatorWithPadding, get_scheduler
-from sentence_transformers import SentenceTransformer
+
+from transformers import AutoTokenizer
+
 def output_cluster(filename, num_clusters, clustering_model, labels):
     new_dict = {}
     with open(filename, 'w', encoding='utf-8') as outf:
@@ -77,7 +72,7 @@ max_clusters = 256  # You can adjust this range based on your data
 
 # Once you have determined the optimal number of clusters, perform KMeans clustering
 optimal_clusters = 128  # Adjust based on the Elbow Method plot
-kmeans = KMeans(n_clusters=optimal_clusters, random_state=0)
+kmeans = KMeans(n_clusters=optimal_clusters, random_state=2)
 kmeans.fit(X)
 
 # Print cluster labels for each issue
