@@ -14,18 +14,24 @@ max_label = 0
 
 
 def gen():
-    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'  limit 500000")
-    # Read and process JSON data
-    json_files = []
-    for issues_db in result:
-        json_files.append(issues_db[2])
+    # 从数据库加载数据
+    # result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'  limit 500000")
+    # # Read and process JSON data
+    # json_files = []
+    # for issues_db in result:
+    #     json_files.append(issues_db[2])
+    # 从filter_json_files.json文件加载数据
+    json_files = json.loads(open("../data_pre-processing/filter_json_files.json", 'r').read())
     # 从json文件中读取数据，每次读取两个文件，然后将两个文件的title和body拼接起来，然后分别进行tokenize，然后将tokenize后的结果转换为id
     for i in range(0, len(json_files), 2):
-        f1 = json_files[i]
-        f2 = json_files[i + 1]
-        json_data1 = json.loads(f1)
-        json_data2 = json.loads(f2)
-
+        # f1 = json_files[i]
+        # f2 = json_files[i + 1]
+        # json_data1 = json.loads(f1)
+        # json_data2 = json.loads(f2)
+        if i == len(json_files) - 1:
+            break
+        json_data1 = json_files[i]
+        json_data2 = json_files[i + 1]
         text1 = json_data1["title"] + " " + json_data1["body"]
         text2 = json_data2["title"] + " " + json_data2["body"]
 
@@ -80,7 +86,8 @@ accelerator = Accelerator()
 model = AutoModelForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=max_label + 1)
 
 optimizer = AdamW(model.parameters(), lr=3e-5)
-train_dataloader, eval_dataloader, model, optimizer = accelerator.prepare(train_dataloader, eval_dataloader, model,optimizer)
+train_dataloader, eval_dataloader, model, optimizer = accelerator.prepare(train_dataloader, eval_dataloader, model,
+                                                                          optimizer)
 
 num_epochs = 3
 num_training_steps = num_epochs * len(train_dataloader)

@@ -2,7 +2,7 @@
 from sklearn.cluster import KMeans
 
 import json
-
+import re
 from transformers import AutoTokenizer
 
 def output_cluster(filename, num_clusters, clustering_model, labels):
@@ -27,10 +27,15 @@ def output_cluster(filename, num_clusters, clustering_model, labels):
 
 # Load and preprocess the issues data
 data = {}
-with open('label_file.json', 'r') as f:
+with open('../data_pre-processing/label_count_file.json', 'r') as f:
     data = json.load(f)
 
 labels = [item for item in data.keys() if data[item] > 50]
+# # 删除每个label中存在的符号，只保留字母和数字
+# for i in range(len(labels)):
+#     labels[i] = re.sub(r"[^a-zA-Z0-9]+", ' ', labels[i])
+
+
 # labels_text = [' '.join(label) for label in labels]
 labels_text = labels
 # TF-IDF vectorization
