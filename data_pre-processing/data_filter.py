@@ -22,7 +22,7 @@ def filter_str(desstr, restr=' '):
     return res
 
 
-result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'")
+result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]' limit 100000")
 # Read and process JSON data
 json_files = []
 for issues_db in result:

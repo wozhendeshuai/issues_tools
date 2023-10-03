@@ -9,7 +9,7 @@ from datasets import Dataset
 import torch.nn.functional as F
 from accelerate import Accelerator
 from torch.utils.data import DataLoader
-
+import evaluate
 max_label = 0
 
 
@@ -21,9 +21,10 @@ def gen():
     # for issues_db in result:
     #     json_files.append(issues_db[2])
     # 从filter_json_files.json文件加载数据
-    json_files = json.loads(open("../data_pre-processing/filter_json_files.json", 'r').read())
+    json_files = json.loads(open("../data_pre-processing/filter_json_files4.json", 'r').read())
+    print(len(json_files)/2)
     # 从json文件中读取数据，每次读取两个文件，然后将两个文件的title和body拼接起来，然后分别进行tokenize，然后将tokenize后的结果转换为id
-    for i in range(0, len(json_files), 2):
+    for i in range(int(len(json_files)/2), int(len(json_files)), 2):
         # f1 = json_files[i]
         # f2 = json_files[i + 1]
         # json_data1 = json.loads(f1)
@@ -46,9 +47,9 @@ def gen():
 # 生成Dataset后，给max_label赋值
 ds = Dataset.from_generator(gen)
 max_label = max(ds["label_count"])
+print(len(ds))
 # 拆分ds为train_ds和test_ds
 raw_datasets = ds.train_test_split(train_size=0.8, test_size=0.2, shuffle=True)
-
 # Load BERT tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
 
@@ -121,7 +122,7 @@ for epoch in range(num_epochs):
         progress_bar.set_postfix({'loss': loss.item()})
         progress_bar.update(1)
 
-import evaluate
+
 
 # metric = evaluate.load("accuracy")
 # ...
@@ -150,5 +151,6 @@ accuracy = eval_correct / total_samples
 print(f"Average Evaluation Loss: {average_eval_loss:.4f}")
 print(f"Accuracy: {accuracy:.4f}")
 
-tokenizer.save_pretrained('sentence_relation_pretrained_bert_model_50w')
-model.save_pretrained('sentence_relation_pretrained_bert_model_50w')
+tokenizer.save_pretrained('sentence_relation_pretrained_bert_model_400w')
+model.save_pretrained('sentence_relation_pretrained_bert_model_400w')
+

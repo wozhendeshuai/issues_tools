@@ -5,7 +5,29 @@ import re
 import emoji
 import tqdm
 
+# 该方法主要用于过滤issues的标题和文本
+def text_filter_str(text_str, restr=' '):
+    # 过滤除中英文、数字、常用符号以外的其他字符
+    # desstr为要过滤的字符串,restr为要保留的字符
+    res = re.compile("[^\\u4e00-\\u9fa5^a-z^A-Z^0-9^!@#$%^&*()_+-=<>?.,;:|{}[]~]")
+    res = res.sub(restr, text_str)
+    res = emoji.replace_emoji(res, restr)
 
+    #将res中用```***``` 包裹的内容替换为<CODE>
+    res = re.sub(r'```([\s\S]*?)```', ' <CODE> ', res)
+    #将res中[*](https://*.png)包裹的内容替换为<IMAGE>
+    res = re.sub(r'\[.*?\]\(http.*?\.(?:png|jpe?g|gif|bmp)\)', ' <IMAGE> ', res)
+    # 将res中[*](https://*)包裹的内容替换为<LINK>
+    res = re.sub(r'\[.*?\]\(http.*?\)', ' <LINK> ', res)
+    # 将res中所有两个以上的空格替换为一个空格，并将首尾的空格去掉 替换两个以上的空格为一个空格
+    res = re.sub(r'\s+', ' ', res)
+    # 去掉首尾的空格
+    res = res.strip()
+    res = res.lower()
+    return res
+
+
+result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]' limit 100000")
 def filter_str(desstr, restr=' '):
     # 过滤除中英文、数字、常用符号以外的其他字符
 
@@ -22,7 +44,6 @@ def filter_str(desstr, restr=' '):
     return res
 
 
-result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]'")
 # Read and process JSON data
 json_files = []
 for issues_db in result:
@@ -83,6 +104,7 @@ for i in tqdm.tqdm(range(0, len(json_files)), desc="第一次过滤"):
         continue
     json_data1["label"] = issues_labels
     filter_json_files.append(json_data1)
+
 # 过滤小于50的标签
 less_50_labels = []
 for label_str in label_count_dict.keys():
@@ -94,6 +116,7 @@ for label_str in label_count_dict.keys():
                 project_label_dict[project_str].remove(label_str)
 for less_50_label in less_50_labels:
     label_count_dict.pop(less_50_label)
+
 # 第二次过滤
 filter_json_files2 = []
 for i in tqdm.tqdm(range(0, len(filter_json_files)), desc="第二次过滤"):
@@ -107,13 +130,21 @@ for i in tqdm.tqdm(range(0, len(filter_json_files)), desc="第二次过滤"):
         continue
     else:
         json_data1["label"] = label_data
+        # 将最终用于计算的issues的标题和文本进行过滤
+        json_data1["title"] = text_filter_str(json_data1["title"])
+        json_data1["body"] = text_filter_str(json_data1["body"])
         filter_json_files2.append(json_data1)
+
+
 print("filter_json_files len: ", len(filter_json_files))
 print("label_set len: ", len(label_set))
 # print("label_set: ", label_set)
 print("project_label_dict len: ", len(project_label_dict))
 print("filter_json_files2 len: ", len(filter_json_files2))
 print("label_count_dict len: ", len(label_count_dict))
+
+
+
 # print("project_label_dict: ", project_label_dict)
 for key in project_label_dict.keys():
     temp = project_label_dict[key]
@@ -129,4 +160,6 @@ for key in label_count_dict:
     label_count_file[key[0]] = key[1]
 with open('label_count_file.json', 'w') as f:
     json.dump(label_count_file, f)
+with open('filter_json_files4.json', 'w') as f:
+    json.dump(filter_json_files2, f)
 # model.save_pretrained('sentence_issues_pretrained_bert_model')

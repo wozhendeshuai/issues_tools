@@ -19,7 +19,7 @@ max_label = 128  # 这个值应该是聚类的簇数
 
 #  order by rand()
 def gen():
-    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]' order by rand() limit 20000")
+    result = execute_select_query(f"SELECT * FROM All_issues where labels not like '[]' limit 200")
     # 从label_cluster.json文件中读取label_cluster
     label_cluster = json.loads(open("../issues_label/label_cluster.json", "r").read())
     # Read and process JSON data
@@ -61,11 +61,11 @@ ds = Dataset.from_generator(gen)
 raw_datasets = ds.train_test_split(train_size=0.8, test_size=0.2, shuffle=True)
 
 # Load BERT tokenizer and model
-tokenizer = AutoTokenizer.from_pretrained('sentence_relation_pretrained_bert_model')
+tokenizer = AutoTokenizer.from_pretrained('cloud-model')#'sentence_relation_pretrained_bert_model'
 
 
 def tokenize_function(example):
-    return tokenizer(example["text1"], truncation=True)
+    return tokenizer(example["text1"], truncation=True,max_length=512)
 
 
 # tokenized_datasets = raw_datasets.map(tokenize_function, batched=True)
@@ -82,7 +82,7 @@ eval_dataloader = DataLoader(
 )
 accelerator = Accelerator()
 
-model = AutoModelForSequenceClassification.from_pretrained('sentence_relation_pretrained_bert_model',
+model = AutoModelForSequenceClassification.from_pretrained('cloud-model',#'sentence_relation_pretrained_bert_model',
                                                            # 'bert-base-uncased',
                                                            num_labels=max_label,
                                                            ignore_mismatched_sizes=True,

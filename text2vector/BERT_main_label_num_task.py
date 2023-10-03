@@ -58,7 +58,7 @@ ds.to_csv("data/test.csv")
 raw_datasets = ds.train_test_split(train_size=0.8, test_size=0.2, shuffle=True)
 
 # Load BERT tokenizer and model
-tokenizer = AutoTokenizer.from_pretrained('sentence_relation_pretrained_bert_model')
+tokenizer = AutoTokenizer.from_pretrained('cloud-model')
 
 
 def tokenize_function(example):
@@ -79,7 +79,7 @@ eval_dataloader = DataLoader(
 )
 accelerator = Accelerator()
 
-model = AutoModelForSequenceClassification.from_pretrained('sentence_relation_pretrained_bert_model',
+model = AutoModelForSequenceClassification.from_pretrained('cloud-model',#'sentence_relation_pretrained_bert_model',
                                                            # 'bert-base-uncased',
                                                            num_labels=max_label_num,
                                                            ignore_mismatched_sizes=True)
@@ -174,4 +174,4 @@ for i in range(len(sorted_indices)):
 
 # Save the results DataFrame to a CSV file
 results_df.to_csv("data/predictions_and_labels_positions.csv", index=False)
-# model.save_pretrained('sentence_issues_pretrained_bert_model')
+model.save_pretrained('sentence_issues_pretrained_bert_model')
